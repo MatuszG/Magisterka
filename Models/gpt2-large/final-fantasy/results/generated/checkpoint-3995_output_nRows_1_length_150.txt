@@ -1,0 +1,49 @@
+Generated text 1:
+Title: A Bargain Struck
+Dialogue: ['\nGildon:', "I know you. You're one of those adventurers who gets paid to sit around. I've a favor to ask of you.\nI need you to go to the Sapphire Avenue Exchange and speak with a merchant named Ul Thon. He's got a package for me.\nThe thing is, I've already told him the price I want. I just need him to add the final touch.\nUl Thon usually ships his goods in bulk, so it shouldn't be too difficult for you to find him.", '\nUl Thon:', "Gildon wants you to pick up the package? Well, that's
+Generated text 2:
+Title: A Bargain Struck
+Dialogue: ['\nMordpanic03365:', 'The unthinkable has happened! Mord Souq, our beloved settlement, has been razed to the ground!\nI beg you, my friends, do not desecrate the ruins! Slay the beasts that inhabit them, and gather what valuables we can from them!\nThe fires of destruction burn ever faster now, and will not be quenched until the ruins are reclaimed!', '\nMordfrightened03365:', 'We thought we had secured the perimeter, but the rocks that used to protect our homes have been torn from the earth they were built on!\nThis is a tragedy that
+Generated text 3:
+Title: A Bargain Struck
+Dialogue: ['\nMogomo:', "\nYou look like a fine warrior to me, and I am rarely wrong.\nThere is a matter I require of you, adventurer. It concerns the reclamation of the recently conquered territory.\nThe land between here and the Black Iron Bridge was once part of the Nymian Confederacy, a confederacy of southern lords and knights who fought to preserve the Dotharl. After the Empire subjugated the region, the lords and knights who remained fled to Ul'dah, where they created theocracies that exist today.\nIt was in Ul'dah that a man of Mogomo's caliber was able to negotiate a peace
+Generated text 4:
+Title: A Bargain Struck
+Dialogue: ['\nMerlzirn:', "\nYou wish to forge an alliance with House Durendaire and become their viceroy. Very well. We will discuss this when your preparations are complete.", '\nMerlzirn:', "\nAhhh, the honored guest who will be joining us from Ishgard! Lady Minfilia will be along shortly.\nI will not keep you. This is a matter of grave importance, and I would as soon as I can delegate the task to her.\nYou are doubtless eager to hear more of our negotiations. There is, however, one catch: while House Durendaire and the Holy
+Generated text 5:
+Title: A Bargain Struck
+Dialogue: ['\nBriardien:', "\nWell met, adventurer. I'm a sellsword myself, but I confess I've also fallen for the foppery of certain adventurers. You seem the doughty sort. Might I interest you in a deal?\nLong ago I agreed to accept a commission from a client, but a little while later the deal fell through, and I've been searching for a new one.\nSuffice it to say, I'm more than a little bit daunted by the prospect of returning to my client empty-handed, so I've been seeking a capable lad to escort me home. Might you be so kind as to escort me
+Generated text 6:
+Title: A Bargain Struck
+Dialogue: ['\nAlisaie:', "\n...The two of you have dealt quite a drubbing at the hands of that band of Garleans.\nIf you've no other pressing concerns, I suggest you take a well-earned bath and freshen up before you speak with Tataru again.\nI can scarcely believe it myself, but the woman I saved from those imperial dogs is a Garlean spy. I wouldn't be surprised to learn that she was working to undermine our efforts to rebuild the city.\nThe fact that she was able to slip in unnoticed is no coincidence. The Garleans have become increasingly brazen in their efforts to infiltrate our ranks.\
+Generated text 7:
+Title: A Bargain Struck
+Dialogue: ['\nAlisaie:', "\nNow that the matter of your investigation has been concluded, we can move on. But before we can do so, I'd like to speak with you a second time.\nIn light of your earlier statement, I'd be curious to hear more of your adventures in the past.\nConsidering all that you've done for us, I'm sure you could use the rest. I can think of no one more able to assist you.\nLet's start with the matter of your first task. You were sent to Ala Mhigo to conduct a preliminary investigation into the death of our comrade.\nNot long after you arrived,
+Generated text 8:
+Title: A Bargain Struck
+Dialogue: ['\nBaderon:', "I've been expecting you, Forename. I've been working to repair the damage caused by the Calamity─and if you're ready to begin, I'm sure you're as ready as I.", '\nBaderon:', "I've been checking the markets, and by my reckoning, we've struck a deal that'll keep both our companies intact.\nThe Holy See's representatives have arrived, and I'm ready to begin the talks.\nBut I need someone to guarantee they won't be short on funds─something they didn't seem too keen on during our recent encounter.", '\nBaderon:
+Generated text 9:
+Title: A Bargain Struck
+Dialogue: ['\nAlisaie:', "\nThe Ironworks and the Sons are in constant conflict, of course─but this time, the Sons have actually attacked their enemy.\nWhat's more, we've received word of a deal struck between the two parties, one of which may very well be the Azim Steppe.\nBut even if the Steppe is indeed what the Ixal believe it to be, why would the Ixal consent to join forces with the Ironworks?\nThe answer may lie in the weapons sent to them by the Garleans.\nAccording to one of our informants, Whitebrim Front weapons are being sent to the Az
+Generated text 10:
+Title: A Bargain Struck
+Dialogue: ['\nKokosamu:', "\nYou have come at the perfect time, Forename! I have a task that could make use of one with your expertise.\nI was about to head out and gather some provisions, but I have a feeling I'll encounter a band of marauders on the way.\nIf I can distract them long enough, they'll be forced to reveal themselves. That's where you come in!\nI need you to distract three marauders, then use this false egi to draw them out. When they reveal themselves, use that to steal their weapons.\nI can't have them taking our provisions!\
+Generated text 11:
+Title: A Bargain Struck
+Dialogue: ['\nHobriaut:', "\nI've got my hands full convincing the dragoons that I'm a genuine adventurer, but if they don't believe me, well... I've got my pride as well.\nBut if they're convinced, well... I've got my reputation to protect.\nWhich is why I'm so eager to get started, even if I end up doing nothing of import.\nIf you're willing to help out, what say you find yourself a spot of hunting before long?\nWonderful! Just follow the trail while I set up my traps.\nThe dragons won't be far behind. I'll be waiting
+Generated text 12:
+Title: A Bargain Struck
+Dialogue: ['\nE-Sumi-Yan:', '\nYour friendly neighborhood Garlond Ironworks has a new addition to its stable─a new stableboy!\nLest you wonder why this lad is required at this juncture, I can only say that his father was once a great alchemist.\nAs a matter of fact, this particular lad is so poorly versed in alchemy that I fear he may damage the precious equipment within.\nI would be grateful if you could deliver this missive to the lad's father, Galfridus, in Ul'dah. You will find the Ironworks in the North Shroud.', '\nG
+Generated text 13:
+Title: A Bargain Struck
+Dialogue: ['\nAlphinaud:', "\n'Twas during these very deliberations that I had a moment of inspiration. I believe it is only fitting that the Scions bear the honor of destroying the Ultima Weapon.\nAt the behest of House Fortemps, the Immortal Flames carried out a thorough investigation of the weapon's construction. They unearthed damning evidence that Ultima Weapon was indeed the product of a dark magic ritual.\nNo doubt the House Durendaire faction will try to skulk away from this fact, but the fate of Ishgard does not rest on their whims. I would see this matter concluded once and for all.\nIt is at this
+Generated text 14:
+Title: A Bargain Struck
+Dialogue: ['\nDadanen:', "It's you again! I've got a favor to ask of you, if you're not already aware.\nI've been asked to procure four bottles of high-quality indigo dye from Rowena's House of Splendors─a bargain at market value, I'm sure you'll agree.\nBut knowing Rowena, I'm sure they'll have an additional charge for each bottle. I'm sure you can work out the extra payment on your own, but if you've a moment to spare, I'd be ever so grateful if you could collect them for me.", '\nDadanen:', "I can't
+Generated text 15:
+Title: A Bargain Struck
+Dialogue: ['\nWeary Dockworker:', "I can't work when my back is beating against the wall. I ain't got time to fawn on 'em whoresons, neither.\nWhat's that? Ye want to help me out with summat? Well, it ain't none o' my business what they do with themselves out there.\nIf it's not too much to ask, I'd be much obliged if ye'd pick up a couple o' shite from the ground over there. I could boil it down to a few handfuls, but I ain't got the time to do it by myself.", '\nWeary Dockworker
+
+
+
+

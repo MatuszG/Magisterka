@@ -1,0 +1,49 @@
+Generated text 1:
+Title: A Bargain Struck
+Dialogue: ['\nWrenric:', "Hm? You look like you're an adventurer. Might you be able to help me with something?\nA few days ago, some of our fellow miners were down on their luck and near to starving to death.\nI saw one of them lying dead on the ground, with his face caked in dirt. I was so scared I ran and hid him with a knife, but I couldn't get past the guards.\nIt's my job to watch over the miners. I can't leave them unattended for long─it's the least I can do to repay my debt of gratitude.\nI've asked around,
+Generated text 2:
+Title: A Bargain Struck
+Dialogue: ['\nMogzun:', "\nYou're the one who rescued the chocobos, aren't you? If you have the time, I'd like to show you the goods I've made from their hides.\nMy most recent endeavor was to hunt the hornbills for a client, and I was hoping to trade them to the Adventurers' Guild. Unfortunately, it seems they're not like to return to the Crystarium now that the beasts are out in the open.\nAs you can probably tell from my attire, I'm an adventurer. And I believe I'm ready to offer my services to anyone who might be interested in joining me in this
+Generated text 3:
+Title: A Bargain Struck
+Dialogue: ['\nGerbert:', '\nWell met, adventurer. Do you have a moment?\nA young lady has arrived with her mother to purchase a ring for her father.\nI fear she has not been told of my bargain, but I would be most grateful if you could find out. I will remain here and keep an eye on her.', '\nGerbert:', '\nI suspect she may be confused. Ask her what she means to do.\nI suspect she may be confused. Ask her what she means to do. ', '\nGigi:', '\n<sigh> I am Gerbert, but I
+Generated text 4:
+Title: A Bargain Struck
+Dialogue: ['\nMerthelin:', "\n<sigh> You look like the sort of man who makes the best bargains. I've heard the tales, but to think I'd meet one in my very own village! I've heard you've a penchant for bargains, have you not?\nIf you've a moment, I could use a hand with some of these herbs, but I'm afraid I'll be late for the meeting. I'll be waiting for you outside!", '\nMerthelin:', "\nPlease, will you not take these herbs to my husband? They're some of the best around. I'll need you to find him
+Generated text 5:
+Title: A Bargain Struck
+Dialogue: ['\nBerthelin:', "\nI don't recall seein' yer ugly mug around here before. I'm sure it's just the way with some o' the other'venturers.\nYou, though, look like ye've got the look o' a man who knows his business. Might be ye could help me out with somethin' 'bout a feller named 'erwin'.\nI was told to expect a'venturer by name, but I don't reckon I saw one. Seems he left the bar a short while ago, and went to meet up with some'venturers at the Wench.\nI don
+Generated text 6:
+Title: A Bargain Struck
+Dialogue: ['\nEugennoix:', "\nYou are one of the knights who helped us take Gyr Abania, yes? I am told by Ser Marcelain that he was the one who went to the cave in the mountains to meet with the dragon.\nI had hoped that he would return to the Convictory, but I have heard reports of the camp being abandoned. If true, it would mean that our plans for the future may have changed.\nI know that Ser Marcelain has much to discuss with his commanding officer, but I would ask that you search for him at the Convictory. It is just past the bridge to the east.", '
+Generated text 7:
+Title: A Bargain Struck
+Dialogue: ['\nSerendipity:', "\nAh, Forename. You're come to deliver the final piece of the bargain.\nWe've decided to split the spoils between you and Forename, with the latter receiving twenty-five pieces of the finest silver ore.\nI was just about to head out to the mines to have a look at the ore, but I know you're eager to start work on your own. I'll wait here for you.", '\nSerendipity:', "\nJust so you know, the ore's not as pretty as the name suggests. It's got a bit of a texture to it, and it
+Generated text 8:
+Title: A Bargain Struck
+Dialogue: ['\nBertliana:', "\nOh, Forename, I've just finished my latest research and have just finished preparing for my next meeting with the guildmaster.\nI had hoped to have you with me, but it seems my research is of a most urgent nature. Perhaps you could lend a hand in my research.\nI have a rather interesting report to share with you. In it, I have gathered some rather startling data.\nAccording to my report, there is a certain woman─I forget her name─who has the power to manifest a crystal.\nThe woman is said to dwell in the cavern to the west of here. If you
+Generated text 9:
+Title: A Bargain Struck
+Dialogue: ['\nSerendipity:', "\n...Aha! You're Forename Surname, are you not? I've heard all about your exploits with the Scions, and I daresay you're one of the best in the business!\nI've a job for you, if you're interested. Take this crystal, and deliver it to my sister.\nI'll be waiting at the Sapphire Avenue Exchange, just outside the city. Be sure to introduce yourself!", '\nSerendipity:', "\nWell? Have you taken my crystal? I'm sure it's worth a fortune.\nI'm sure it's worth
+Generated text 10:
+Title: A Bargain Struck
+Dialogue: ['\nYugiri:', "Godsdammit, you have to help me, you have to help me! I can't do nothing─ I'm too busy! But, you...you're not one of those adventurers, are you?\nI saw this little birdie about the lake─a cute little thing! I thought it was a lovely little birdie, and I wanted to take it for a nice, big reward, but I can't─ I have a business to attend to!\nWould you mind taking it to Kugiri, and seeing if she can't help you? She should be able to tell you where she is.", '\n
+Generated text 11:
+Title: A Bargain Struck
+Dialogue: ['\nSorocan:', "\nYou've returned, adventurer. What news?\nI've heard that a band of Garleans has arrived to the eastern gates of Vylbrand, intending to launch a sneak attack on our forces.\nI'm certain that there are at least three of them, but I've not been able to confirm their identity.\nI've a feeling that they're Garleans, but how they got here I'm not sure. There may be a Garlean base nearby, but I've no idea where it might be.", '\nSorocan:', "\nThey might be Garleans, but what they're up
+Generated text 12:
+Title: A Bargain Struck
+Dialogue: ['\nTakotsubo:', "\nThere's a little girl here─what's her name?─that's a good-looking one. I want to offer her a goodly reward for her good deeds.\nBut first I need to make her a toy, and that's a tricky business for a toy.\nAnd one of my colleagues has an idea how to make it so─he says he'll bring one for me.\nI don't see why it shouldn't be one of these lovely machines. I'll go and see what he has for me.\nI'll go and see what he has for me. Now, hurry along─
+Generated text 13:
+Title: A Bargain Struck
+Dialogue: ['\nGigi:', "\n...You there. Are you the “Eidet” I've heard so much about?\nWell, if it isn't my old man, Forename. I have a task for you, if you would do it for me.\nI've been tasked with a delivery of supplies to Bentbranch Meadows. The place is crawling with beasts, and I fear I'd be killed if I tried to leave without delivering the supplies.\nSo, I need you to slay four of the beasts and bring back their meat.\nThe meat should be around here somewhere. It shouldn't take long─I reckon I saw
+Generated text 14:
+Title: A Bargain Struck
+Dialogue: ['\nBerkoeyaloetahlsyn:', "\nAs I live and breathe, I can't stand to see this man's face.\nHe has done nothing but steal the supplies, and now he has left me no choice but to take what's owed me─and my pride─and sell it at auction.\nBut I...I refuse to let this happen. If I can't trust him, then who can I trust?\nI have a plan, but I need you to deliver it to the man himself. There's a guard by the entrance to the auction who should be able to give you directions. If you hurry, you should still be
+Generated text 15:
+Title: A Bargain Struck
+Dialogue: ['\nMogzun:', "\nAdventurer! Could you spare some time to look for a missing airship? My sister has been gone off to search for it, but I fear she has not returned yet.\nI fear I may have lost my sister, and so I've set my mind to make this as a surprise gift. I want you to go and search for her, but first I need you to show me how to use this airship.\nFirst, we need to repair the wings. The airship is quite heavy, so I need you to carry it out from the landing area to the west.\nPlease, show me how to
+
+
+
+

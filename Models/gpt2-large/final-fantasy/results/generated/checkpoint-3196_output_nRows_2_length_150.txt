@@ -1,0 +1,98 @@
+Generated text 1:
+Title: A Bargain Struck
+Dialogue: ['\nBaderon:', '\nYou there. Yes, you. Do you have a moment?\nI was planning to sell a selection of my wares to an Ul'dahn trader, but I have received word that my client has a need for a certain item.\nIf I could make the delivery in your stead, I would be in your debt. I should be able to negotiate a reasonable agreement.\nMy client is a well-traveled merchant, and I expect him to have other business to conduct at the moment. If you are willing to make the delivery, I would be in your debt. I should be able to negotiate a reasonable agreement
+Generated text 2:
+Title: A Bargain Struck
+Dialogue: ['\nGerolt:', "\nSo, we've got ourselves a problem.\nWe've got to find a way to stop Garuda, but without the crystals we need, we can't─\nUnless...\nDo you know a way to get the crystals?\nI'll wager you do, Forename, but I need you to go and fetch them from Azys Lla.\nIt's not too far─I'll mark the location on your map. You just need to be patient.\nGive me a moment to explain.\nAzys Lla is a moon of Hydaelyn. It's not too big, not
+Generated text 3:
+Title: A Bargain Struck
+Dialogue: ['\nMogoon:', "You're back! What news do you have of the settlement?\n...Oh, hello! I'm Mogoon, a retired miner. I used to make my living as a goldsmith, but recently my business has fallen on hard times.\nI used to earn a living as a goldsmith, but recently my business has fallen on hard times. I used to earn a living as a goldsmith, but recently my business has fallen on hard times.\nI have a daughter, Tanga, and I want her to have a good education. I'm thinking she should start off with a basic course in education.\nI
+Generated text 4:
+Title: A Bargain Struck
+Dialogue: ['\nBraya:', "\nI've been meaning to speak with you, adventurer. I was hoping you might lend me a hand.\nThe Brass Blades are in a tight spot. They need our help, and I'm willing to offer it, but... I need your help to procure some steel.\nI was planning to barter it for supplies, but I fear I won't have the coin to pay for it.\nI'm sure you've seen what I mean─scattered pieces of metal lying about. I'd like you to bring me three of these steel bars. You can find them in the vicinity of Specula Imperatoris.
+Generated text 5:
+Title: A Bargain Struck
+Dialogue: ['\nSeverian:', '\nMaster Cid:', "\n...A bargain indeed. I understand you have been tasked with retrieving crystals from the ruins.\nConsidering the difficulty of the task, I am surprised the Alliance has managed to procure such quantities.\nConsidering the difficulty of the task, I am surprised the Alliance has managed to procure such quantities.\nDo not be surprised if you discover the missing crystals are in fact Serpent of the Seventh Dawn.\nI imagine you will have little difficulty in locating them. I suggest you begin your search in the vicinity of Castrum Centri.", '\nSeverian:', '\nMaster C
+Generated text 6:
+Title: A Bargain Struck
+Dialogue: ['\nGullinkambi:', '\nThe Eulmoran elite are no more. As they fought to take Castrum Centri, they left behind a trail of corpses. A terrible shame, but such is the nature of battle.\nI fear that our prize─the remains of the Serpent Reavers─have been lost to the fighting. I have tracked them this far, but I fear that I am not the one who will end the fight.', '\nGullinkambi:', '\nThere must be a way to retrieve the Serpent Reavers. If we are to survive, we must find it.', '\nG
+Generated text 7:
+Title: A Bargain Struck
+Dialogue: ['\nWeary Miner:', "Mine eyes! They're dazzled by what I have here!\nA bargain, is it? A shiny piece of ore for a weary old miner? Why, thank you, stranger!\nI've been down this path before, and I can tell you it's not as easy as it looks. Ladders and warded pots are no match for the dangers of falling rocks and slime.\nBut I've never met anyone who said the path was easy, and I don't mean to ask. Are you prepared to die if you're not?", '\nWeary Miner:', "Yes, yes, I'm
+Generated text 8:
+Title: A Bargain Struck
+Dialogue: ['\nGullinkambi:', "\nI'm glad you made it. I was worried something would happen to you.\nI was planning to take you on a hunting expedition. The kobolds are supposed to be our main competition, but I have an idea that should give you an edge.\nInstead of going on an official hunt, you're to go on a trial hunt with me. It's supposed to be something simple─like pecking at rocks for hours on end.\nThe kobolds don't respect you much, but they can be surprisingly cruel. If you don't get yourself killed, they'll take your reward.\nThe
+Generated text 9:
+Title: A Bargain Struck
+Dialogue: ['\nGullinkambi:', '\nThe tattered remains of our expedition are in no condition to continue.\nI must ask you to procure more supplies and restore our equipment to its former glory.\nThe Gnath are but a few short steps away. I would gauge their strength against ours and see if we are equal.\nIn my opinion, the Gnath are far stronger than the Scions.\nThey should be easy to find, as they never set foot outside of their lair.\nAnd yet, I fear they may yet pose a threat to us.\nI would send you to their lair in search of their minions.
+Generated text 10:
+Title: A Bargain Struck
+Dialogue: ['\nGullinkambi:', '\nYou are Forename, yes? Very well. I have a task for you.\nIt is not difficult work, but I would like you to do it in my stead.\nIn the Cthonic Horns, there grows a plant which produces honeydew. I would have you harvest four of these flowers and deliver them to a man named Katering. He is stationed outside the city in outer La Noscea.\nPlease do make your way there and deliver the flowers to Katering. Once you have delivered them, please meet me back here.', '\nKatering:',
+Generated text 11:
+Title: A Bargain Struck
+Dialogue: ['\nGullinkambi:', '\nGreetings, sir. Do you wish to proceed to your vessel?', '\nQuestion?:', '\nProceed to the landing area?', '\nAnswer:', '\nYes\nNo', '\nGullinkambi:', '\nAh, a moment. You wish to proceed to your vessel?', '\nQuestion?:', '\nTravel to the landing area?', '\nAnswer:', '\nYes\nNo', '\nGullinkambi:', '\nVery well. I will escort you to your vessel.'
+Generated text 12:
+Title: A Bargain Struck
+Dialogue: ['\nNu Mou Culinarian:', "\n<sigh> Fine, fine! I will do anything to get this meal, but I won't be getting an onze of quality for my efforts. There's just one problem...\nI'm supposed to be preparing a grilled dodo for delivery, but I can't seem to find the time to do it. I'll make do with this.\nI'll make this grilled dodo, and I'll deliver it to...well, let's just say it's not going to be delivered to the Brass Blade. I'll need you to go in my stead.\nTake this container and place it outside
+Generated text 13:
+Title: A Bargain Struck
+Dialogue: ['\nPapawazu:', "\nGah hah hah! I knew I was right to entrust this task to you.\nThe Alliance has faced many a hardship in recent years, but I would say ours is unique among them─our leaders are chosen by the people of Eorzea, not by the gods themselves.\nA perfect example of this is the recent election of our Alliance's first three leaders.\nThe first, Haurchefant, was chosen by the people of Little Ala Mhigo. The second, Haurchefant's successor, is currently being groomed by the same people.\nAnd
+Generated text 14:
+Title: A Bargain Struck
+Dialogue: ['\nFretting Researcher:', "It's been a while, Forename. How are things coming along?", '\nFretting Researcher:', "I'm finding that I'm quite fond of this place. It's got a certain charm about it, I'll bet you can tell. I don't mean to sound boastful, but I feel I could tell you're a born explorer if I put my arm around you. I just... I just like you.", '\nFretting Researcher:', "I'm hoping to move this base here to the moon, but I'm worried about what might happen if we didn't have our own dedicated
+Generated text 15:
+Title: A Bargain Struck
+Dialogue: ['\nGullinkambi:', "I am glad you made it! With the new armor, I think we can do some real damage.\nThe beast tribes are no match for our might, and our weapons are too slow. But if we can kill their leaders and take their weapons, that should be enough.\nI'll take care of the hunting. You take the killing.\nMy men are already impressed with our work. I expect them to be even more so when we show them our work.", '\nGullinkambi:', "It should be an easy enough job. Kill some of the totem poles. Once they're down,
+
+
+
+
+Generated text 1:
+Title: A Beeautiful Plan
+Dialogue: ['\nTsubhkhamazom:', "Well, well, Forename! You're not a day late!\nWith your help, I've a brilliant idea! I need you to head to Papalymo's Airs, find a beekeeper, and offer him this proposal!\nThe beekeeper will of course accept, but only if you give him the usual sum of gil!\nI need you to go and speak with this chap, named Ronso. He should be able to tell you more. And do try not to make a hash of it, you know!", '\nRonso:', "Hmmm? You're the
+Generated text 2:
+Title: A Beeautiful Plan
+Dialogue: ['\nLydirlona:', '\nGreetings, Forename. I trust you are enjoying your atma–infused relic?\nShould you desire any additional knowledge of your Atma weapon, pray speak with the researcher who created it.\nHe can tell you more about its capabilities, as well as the procedures for enhancing it.\nYou must also seek out the other researcher─the one who created the Atma–infused relic in the first place─if you wish to learn more of its true nature.\nThe procedures for enhancing the relic are as follows:\nStep one: imbue the weapon with a sufficiently powerful seal.\
+Generated text 3:
+Title: A Beeautiful Plan
+Dialogue: ['\nRhodopis:', "\nNow, what do we have here?\nA bandersnatch? That's the first we've heard of them. A common enough sight in the northern reaches.\nThey're known to patrol the northern reaches, but I'd never heard of any bandersnatches setting out from Mol Iloh.\nThat's not to say they're not out there. They could be anywhere, even if we didn't know it.\nI've marked their current location on this map. Careful now─the moogle patrol is not like to pick them out.\nHead north, then look for a burrow
+Generated text 4:
+Title: A Beeautiful Plan
+Dialogue: ['\nVarthon:', "Ah, Forename, just the man I wanted to see. I've just received word from Wlveva.\nShe's planning a trip to Gridania, and would like your help.\nShe was planning on meeting with the General at the airship landing, but it sounds like she's run into some trouble.\nI'm told three sylphs have taken up residence at the landing. I'd like you to kill three of them for her, and then inform Wlveva of her plans.\nI'll also need you to find the sylphs' leader. I don't know if
+Generated text 5:
+Title: A Beeautiful Plan
+Dialogue: ['\nJenomiscenlexentale:', "\nI've been thinking, Forename. While you were tending to business here, I've been pondering what my next move should be.\nI'll admit, I've been rather eager to get back out there and do some hunting. I mean, how could I possibly hope to succeed without actually doing the work?\nBut of course─as embarrassing as it is─I never actually went hunting. Which is why I'm struggling to come up with a truly original idea. Something that will excite the masses and hopefully bring me my fame!\nThat's where you come in! As I mentioned before,
+Generated text 6:
+Title: A Beeautiful Plan
+Dialogue: ['\nBoomshox:', '\nPshhh... Shkohhh...\nPlan! Boomshox wants to build big, beautiful hive, but there are no bees to make honey! Boomshox needs bees to make honey for newborn hives!\nBees are flying everywhere, but Boomshox cannot reach them all. Boomshox only has one shot at this! Boomshox must make fast bees, not slow ones! Boomshox only has one shot at this! Boomshox must make fast bees, not slow ones!\nBoomshox needs bees to make honey for newborn hives. Boomsh
+Generated text 7:
+Title: A Beeautiful Plan
+Dialogue: ['\nJenlyns:', '\nYou are a visitor to our humble abode, yet you would pluck us from our quiet? I am loath to ask this of a stranger, but...do you have a word?\nA strange odor begins to fill my nostrils, does it? That would be the buzzing of an adult wasp, I would wager. It is the sound of a plan. A plan to bring us to Nidhogg's domain, to nip our arrival in the bud.\nA simple enough plan, I suppose. We shall remain here for now, and make preparations for the journey. Do hurry─the wasps
+Generated text 8:
+Title: A Beeautiful Plan
+Dialogue: ['\nGullinkambi:', '\nAh, Forename. I was hoping you might come along.\nYou see, I have a task for you. I would have you visit Rowena Manor, where my bees are hiving.\nI would also ask you to collect honey from three different hives. Once you have collected all the honey, deliver it to Cicely. I do not want beeswax on my hands.\nCicely is my assigned beekeeper. She is very helpful and knows her way around a problem. I only wish she knew more of my troubles.', '\nCicely:', '\
+Generated text 9:
+Title: A Beeautiful Plan
+Dialogue: ['\nBerengeoit:', "\nWell met, friend. I'm a researcher here, and I need your help with something.\nI've got a problem that can be solved only by dealing with a certain...byproduct of agriculture. I've dubbed it “pollinator blight.” I would eradicate the pests, but they're so ubiquitous it'd be a miracle if I did it alone.\nIf I leave it to nature, the pests will wipe out the entire crop. That's why I've set out to create a pesticide that will kill them off one at a time.\nIf you take this in front of the water, the liquid
+Generated text 10:
+Title: A Beeautiful Plan
+Dialogue: ['\nTaciturn Miner:', 'Excuse me, but I have a small favor to ask of you. Would you be willing to assist me in gathering materials for a new build?\nI was planning to undertake another dig near Rumination's Ramble, but the wind has shifted and I am unable to do so without endangering the local wildlife.\nIf you are willing, please make your way there and gather materials for the new build. You should be able to find suitable sites by the lake and in upper La Noscea.\n', '\nTaciturn Miner:', 'Please make your way to Rumination's Ramble and
+Generated text 11:
+Title: A Beeautiful Plan
+Dialogue: ['\nLululo:', '\nHello again, Forename. I am ever glad to see you pass through the Seventh Heaven with purposeful stride.\nAs you know, my husband, Josias, was recently named captain of the guard. He is a man of principle and honor, and a tireless contributor to the advancement of Camp Cloudtop.\nWhile we fully support his chosen path, I do believe it is best for us to remain united in our efforts. I would be honored if you would agree to be our official guardians until the matter is final.\nI would also be grateful if you would help us to solidify our relationship by sharing your
+Generated text 12:
+Title: A Beeautiful Plan
+Dialogue: ['\nLyngsath:', "\nWell, if it isn't Forename. I've been thinking of what you said before. I believe a more effective solution to our pest problem may be found in our treatment of the nectar-feeders.\nWe've managed to keep most of the pests at bay with a few well-placed bombs, but some have managed to establish a breeding population.\nIf we could only eradicate half of the nectar-feeders that populate the landscape, we'd be doing our part to restore a healthy balance.\nIt's a simple enough plan. All you need to do is blow up one of their feeding piles.
+Generated text 13:
+Title: A Beeautiful Plan
+Dialogue: ['\nCeana:', "You're back, Forename. I hope you've learned a thing or two about scouting─or, at the very least, about making a mess of things.\nI've sent word to Camp Cloudtop in an attempt to recruit able adventurers to help with the harvesting of honeybees' nectar. If you're interested, I'd be at ease knowing you're already on board.\nI've also sent word to the Adventurers' Guild to see if anyone wants to take up the task. If anyone does, I'm sure they'll be happy to oblige us.\nIf you're at all interested in helping out,
+Generated text 14:
+Title: A Beeautiful Plan
+Dialogue: ['\nSeverian:', '\nYour task is to retrieve three aphids from the hives. Weaken the aphids and then place them in sacks along with the hives.\nYou will likely encounter resistance from the local bees. However, should you show the appropriate respect, they will become your allies in the struggle against the anzu.\nBe warned, however, that the anzu will tear down any unguarded nest. Do not be surprised if you must fight your way back into the hives.', '\nSeverian:', '\nYour task is to retrieve three aphids from the hives. Weaken the aph
+Generated text 15:
+Title: A Beeautiful Plan
+Dialogue: ['\nKleon:', "\nThe buzzards are a problem for one reason or another, but I'm loath to trouble you for more work when I can help make it go away.\nYou see, they're drawn to the pungent scent of rotting carrion. I've got a solution to that, but I need you to gather the rotting meat in my stead.\nThe buzzard problem has a couple of solutions. The first is to lure the birds out of hiding with a tasty treat. The second is to build a nest in a den of rotting fruit.\nBut I can't do both. Carried away on their own, the
+
+
+
+

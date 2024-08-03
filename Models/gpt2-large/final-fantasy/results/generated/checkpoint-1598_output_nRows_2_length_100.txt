@@ -1,0 +1,98 @@
+Generated text 1:
+Title: A Bargain Struck
+Dialogue: ['\nFrettingway:', "Ah, you're one of those adventurers, aren't you? I've heard of your efforts to rescue Eorzea's prisoners from Garlemald.\nI imagine you're eager to see what's in store for you and your companions, so I'm prepared to hand you a package of provisions.\nIf you'll follow me, it'll be in the stables of a
+Generated text 2:
+Title: A Bargain Struck
+Dialogue: ['\nUrianger:', '\nI have been expecting you, Forename. I trust you have heard of the great Ishgardian merchant who has a penchant for shady deals.\nWhile I am certain he has no ill intentions, I have not the faintest inkling what business he has with you.\n...Ahem. I do hope this does not mean you will be visiting any time soon.\n
+Generated text 3:
+Title: A Bargain Struck
+Dialogue: ['\nAlphinaud:', '\nMy thanks, Forename. I have heard your tale from my men.\nTheir report said you slew the beast for them. I can scarce believe it. I fear that you are not the man they say.\nBut I am willing to give it a go. I have prepared some meat to show to the others. Bring it to me, and I will see that it
+Generated text 4:
+Title: A Bargain Struck
+Dialogue: ['\nVendor:', "\nYou! You're an adventurer! What's that? A customer's come to town─a wealthy client, I assume.\nIt's a good thing, I suppose, because I can't possibly find a decent-looking girl to wear these fancy clothes. If only I had a young maid to do my shopping for me!\nOh, I do apologize─I had no idea. I
+Generated text 5:
+Title: A Bargain Struck
+Dialogue: ['\nBertliana:', "\nAh, Forename. I take it you're the man who rescued Gaius from the Coliseum. I trust you can recall the incident?\nWell, I can't say I recall it well. I was there, of course, and I was not pleased to see Gaius injured. It looked as though he'd been run over by a train. I could see the blood
+Generated text 6:
+Title: A Bargain Struck
+Dialogue: ['\nErsabel:', "\nBy the Fury, that's the spitting image of my son!\nIt's my duty to keep an eye on the market, but I can't possibly keep track of all the merchants who're traveling here from all over the realm.\nI can't be of service if you keep running into new customers. Could you travel to the Far East and introduce yourself to those merchants?", '\
+Generated text 7:
+Title: A Bargain Struck
+Dialogue: ['\nGeva:', "\nWell met, adventurer. I take it you are the one who was sent to look for my missing jewel.\nI hope you didn't run into any trouble along the way. The road to where she is is being kept is treacherous and full of beasts.\nBut fear not─I have the necessary supplies to last me until the next ferry. If you are willing to help, speak with
+Generated text 8:
+Title: A Bargain Struck
+Dialogue: ['\nMogmont:', '\nHow long have you and your friends been traveling to the far side of the moon? I had heard rumors of a place where travelers might find a suitable place to rest and recuperate.\nAh, you must be the traveler I've heard so much about. If there is such a place, I would like to try my hand at it.\nI would like to stay here
+Generated text 9:
+Title: A Bargain Struck
+Dialogue: ['\nOndo:', '\nI have a job for you, adventurer. We have a surplus of timber, and need it for building.\nBut you must not take our timber for yourself. It is to be used for building our weapons. I would have you search for suitable areas.\nGo and speak with Gontrant in the House of Splendors. He should have something for you.\n
+Generated text 10:
+Title: A Bargain Struck
+Dialogue: ['\nSerendipity:', "\nYou there! I've a job for you, if you're willing.\nAs you may have noticed, this area is rather...well, “dreadfully dry.” The last thing we need is more moisture on the ground.\nIt's not as if we don't have enough already, mind you. The Sahagin swamps have been infested with
+Generated text 11:
+Title: A Bargain Struck
+Dialogue: ['\nE-Sumi-Yan:', '\n<sigh> I have to say, Forename, that it has been quite an evening.\nI have a rather interesting report to make, one which concerns the “bargain of the century” that has been struck between the Empire and the House of Splendors.\nIt concerns a massive armada of merchant ships which were bound to the
+Generated text 12:
+Title: A Bargain Struck
+Dialogue: ['\nBerkoeyaloetahlsyn:', "\nI've heard of your wondrous wares, adventurer. Would you be willing to lend me a hand?\nI was planning on taking a stroll on the pier to the east when a patrol of Dalamud came calling. They must be wondering what manner of beast I'm dealing with, so I thought to offer them a reward for any information they can glean.
+Generated text 13:
+Title: A Bargain Struck
+Dialogue: ['\nBrianna:', "\nIf you are willing to do business with the guild, I will need to see your documents. I'm sure you don't mind if I do.", '\nBrianna:', "\nYou do? Thank you, adventurer!\nThe documents are on the table, but I'll need you to help me pick them up.\nI've marked on the map below each of
+Generated text 14:
+Title: A Bargain Struck
+Dialogue: ['\nGigi:', "\nOh, you're one of the Adventurers' Guild, aren't you? You're the guildmaster, aren't you?\nA good man, you are, and a good sort of guildmaster. I've heard a great deal about your services, and I thought I'd give you a chance to see for yourself.\nAye, I think I'd be right in asking.
+Generated text 15:
+Title: A Bargain Struck
+Dialogue: ['\nCirina:', "\nGodsdammit! They were supposed to be the protectors of Ala Mhigo, and yet...\nI've known this day would come, but I didn't think it would come to this. I should have been ready for this, but I was not!\nMy sister has been taken, and I─\nOh, forgive me. I meant no offense. I
+
+
+
+
+Generated text 1:
+Title: A Beeautiful Plan
+Dialogue: ['\nTillman:', "\nWe've come to a simple conclusion: we need to eliminate the bees.\nBut you're not one of those─you're a researcher. Wouldn't you like to try your hand at exterminating a few of the buggers?\nGo on, then. We need you to go and find two of the bees. The rest should be easy─they're not like to be
+Generated text 2:
+Title: A Beeautiful Plan
+Dialogue: ['\nFalkbryda:', "\nIf you could spare a moment, I would have you inspect the beeswax manufactory.\nYou needn't worry about finding the beeswax─I've already marked the location on your map. Just make sure to bring the beeswax itself, not the waxcomb.", '\nFalkbryda:', "\nI can't rightly say I've
+Generated text 3:
+Title: A Beeautiful Plan
+Dialogue: ['\nMimiomio:', "\nI see you've given thought to my proposal. I hope we both get a good result.", '\nMimiomio:', "\nYou have my thanks, adventurer. I'm quite confident we can get the bees buzzing without the stings.\nLet's start by assessing the situation. A recent pest outbreak has made the area infested with many dangerous beasts. We need
+Generated text 4:
+Title: A Beeautiful Plan
+Dialogue: ['\nTaynor:', '\nI was just about to head out to see the bees, but I see you have an urgent matter you wish to attend to.', '\nTaynor:', "\nI will go ahead and make myself ready, but I have a favor to ask of you.\nI am in need of a beekeeper's beekeeping tool.\nYou can find one in the
+Generated text 5:
+Title: A Beeautiful Plan
+Dialogue: ['\nGosetsu:', "\nYou! What do you want?\nTo the beekeeper! To the beekeeper! Get your bees off my back!\nYou see, the bees have been infested by a terrible vermin. They are like to be devoured by the end of the week.\nI would have you clear away four of them. I need your help to get them off my back.
+Generated text 6:
+Title: A Beeautiful Plan
+Dialogue: ['\nYugiri:', "I have heard you are the one who helped us gather the materials. Please, I have a favor to ask.\nWhile out on reconnaissance, we came upon a hive of bees. They were in a desperate state. They had been mowed down by a swarm of hornets.\nWe are currently in search of their queen, but they are not answering our calls. I fear they may
+Generated text 7:
+Title: A Beeautiful Plan
+Dialogue: ['\nGildon:', '\nYou! You are a familiar, yes? I am Gildon, but I am also a researcher. I have a task that I would like you to assist me with.\nWe have recently received word that the stings of bees have begun to cause illness in man. We are hoping that you will be able to help us by gathering a certain amount of beeswax.\
+Generated text 8:
+Title: A Beeautiful Plan
+Dialogue: ['\nS'nairoh:', "\nMmm, I can't believe I said that! Oh, I don't think I'm dreaming...\nBut I know the reason for my hesitation─I had to make this decision myself. I'm not sure what's worse: the bee-life on the moon or the bee-life here on earth.\nBut I know one thing: I've got to find a
+Generated text 9:
+Title: A Beeautiful Plan
+Dialogue: ['\nBhirdraeg:', '\nWe are but a small unit of the Resistance. I am a veteran of countless battles, and I have a plan that will see us through to the end.', '\nBhirdraeg:', '\nLet us begin by taking a look at our objectives. Let us see if there is anything we can learn from our adversaries.', '\nBh
+Generated text 10:
+Title: A Beeautiful Plan
+Dialogue: ['\nFalkbryda:', "I know what you're thinking─that I should have been there to greet you. But I'm not. I was sent to attend the council and assist the councilors.\nI would've been there myself, if it weren't for the...well, the...unpardonable...accidents that have befallen my comrades.\nThe most recent of these was the
+Generated text 11:
+Title: A Beeautiful Plan
+Dialogue: ['\nLydha Lran:', "\nWell met, adventurer. I'm Lydha Lran, a humble servant of the House Dzemael. I have heard you are fond of bees. A rather curious creature, I am told.\nI see you have a keen interest in the creatures. I suppose we can agree that they are rather adorable.\nBut we must also agree that they are rather dangerous
+Generated text 12:
+Title: A Beeautiful Plan
+Dialogue: ['\nKokoshu:', "\nYou must be the one who rescued Yuyuhase. If you want to know more about him, you should speak with him at the scene of his capture.\nIf you want to speak with him, you should head to the scene of his capture. When you arrive, it should be clear from the way he reacts to you─he's a rather reserved individual.", '\n
+Generated text 13:
+Title: A Beeautiful Plan
+Dialogue: ['\nR'ashaht Rhiki:', '\nAh, Forename, you are at last. I have a task that will require your skills.\nA beekeeper has recently arrived in Nabaath Areng to pollinate the flowers in the area. He is in dire need of assistance, and I would ask you to tend to his bees.\nPlease, make your way to the beekeeper's shack
+Generated text 14:
+Title: A Beeautiful Plan
+Dialogue: ['\nBibichua:', '\nWell met, adventurer. My name is Bibichua, and I am in charge of keeping the bees buzzing about in the hive happy and healthy.\nI have an idea which I would like you to try. If you could find two bees buzzing around the hive, I would be very grateful if you could give them a gentle nip to make them happy.\nThe
+Generated text 15:
+Title: A Beeautiful Plan
+Dialogue: ['\nBoomshox:', '\nYou there! Do you have a moment?\nI've heard from the bees that there is a flower in bloom just to the south of here. I would like you to go and collect it for me.\nThe flower is called a bollweave, and it is said that it blooms in order to ward off the evil spirits that dwell in the nearby caves.
+
+
+
+

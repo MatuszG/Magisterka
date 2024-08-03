@@ -1,0 +1,147 @@
+Generated text 1:
+Title: A Bargain Struck
+Dialogue: ['\nTataru:', '\n<Clickable(<If(GreaterThan(PlayerParameter(52),0))><Player's Grand Company Rank>)/>)/><Player's Grand Company Rank>)/>/><Clickable(<If(GreaterThan(PlayerParameter(53),0))><Player's Grand Company Rank>)/>)/><Player's Grand Company Rank>)/>/><Clickable(<If(GreaterThan(PlayerParameter(52),0))><Player's Grand Company Rank>)/>)/><Clickable(<If(GreaterThan(PlayerParameter(53),0))><Player's Grand Company Rank>)/>
+Generated text 2:
+Title: A Bargain Struck
+Dialogue: ['\nFawcen:', '\nForename! I have a favor to ask of you.\nI must ask you to help me make a deal with a man named Gyrkon.\nI have been tasked with collecting a large number of gil from a trader in Limsa Lominsa.\nThe trader I am dealing with is Gyrkon, the man who gave me my first job in the field.\nHe is a very wealthy man, and I would be grateful if you could collect this gil for him.', '\nGyrkon:', '\nFawcen, you have
+Generated text 3:
+Title: A Bargain Struck
+Dialogue: ['\nPapawazu:', '\nThis is our most precious weapon. We have no choice but to exchange it for the other items we requested.\nI must ask that you take care of the wounded. This is a time when we are most vulnerable. Please, pray deliver them to the Garleans.', '\nPop:', '\nYou sense a hostile presence!', '\nPapawazu:', '\nYou have done us a great service. It is my sincerest thanks.\nWe are in your debt again.']
+Generated text 4:
+Title: A Bargain Struck
+Dialogue: ['\nAlys:', "\nWell, if it isn't Forename!\nI'm glad to see you're back in one piece─I'm sure you've had a hard time of it.\nI've been looking forward to your return, Forename.\nI was asked to make a delivery of a piece of high-quality chocobo meat to the House of Splendors in the Central Shroud.\nIt was supposed to be delivered to the House of Splendors in the Central Shroud, but a messenger from the House of Splendors has been killed by an unknown assailant.\nI would ask you to go and inform the messenger's
+Generated text 5:
+Title: A Bargain Struck
+Dialogue: ['\nMogkol:', "\nGodsdammit, it's been so long... I could hardly wait for the day I could finally be at home...\nBut my uncle's been missing for so long. He's the one who helped get me here, but he hasn't been seen since he left to go hunting.\nHe's a bit of a loner, you know. If he hasn't returned from the hunt, I'd go looking for him myself, but I'm afraid I've already run out of time. Please, any help would be greatly appreciated.\nIf you have any time to spare, I'd like to thank you for
+Generated text 6:
+Title: A Bargain Struck
+Dialogue: ['\nMarcechamp:', '\nHail, adventurer! I hope you have your eyes set on the goods.\nMy colleague, a man of considerable skill, has been tasked with gathering them from the market.\nIf you could get them for him, that would be greatly appreciated.\nI ask that you use a single, potent magitek energy weapon, and bring me back the parts.\nI will go ahead and prepare the rest, but I would ask that you make the delivery to Marcechamp.\nThe weapons are likely to be a bit more expensive than we are accustomed to, but if you could get them for
+Generated text 7:
+Title: A Bargain Struck
+Dialogue: ['\nKoenen:', "You have the looks of a man who has been in a lot of trouble. Did you have any trouble?\nI heard from a woman that she was in a hurry to leave. I doubt that she meant to make such a request, but I would ask that you go to her and tell her that she needs to hurry.\nShe is a merchant named Nidhogg. If you could go to Nidhogg and tell him that she needs to hurry, it would be my pleasure.\nHe is an acquaintance of mine, but he will not listen. He simply says that he will wait for her back in the market.", '
+Generated text 8:
+Title: A Bargain Struck
+Dialogue: ['\nBertrand:', '\nI need you to deliver this to one of the mercenaries.\nThey must be in the midst of plotting another ambush on the road.\nI beg you, please hurry!', '\nBertrand:', '\nThe mercenaries are in the midst of plotting another ambush on the road. Please hurry!']
+Generated text 9:
+Title: A Bargain Struck
+Dialogue: ['\nH'naago:', "\nWhat's that? You want to see the weapons?\nIt's the best weapons in the world─I've no doubt that you would be willing to pay good coin for them.\nThe problem is, you don't have any coin.\nI'm afraid I can't offer you anything in exchange. You need to be able to afford it, though.\nI know you can. Please, go to the Culinarians' Guild and ask for a few gold pieces.\nNow, what I'd ask of you is to take the weapons to the merchant who works there. I can wait here. I
+Generated text 10:
+Title: A Bargain Struck
+Dialogue: ['\nHobbie:', "\nGreetings, traveler. I was just looking for someone to assist me with a problem.\nI received an invitation to a banquet, but I have yet to receive a single gift.\nI would be honored if you could go to the House of Splendors in Costa del Sol and give them my address.\nI will also be waiting for you in the main plaza. Please hurry, before I lose sight of you.\nPlease, go to the House of Splendors in Costa del Sol and give my address.", '\nHouse of Splendors:', '\nHobbie:', '\
+Generated text 11:
+Title: A Bargain Struck
+Dialogue: ['\nAlphinaud:', '\nI understand the sentiment, but I fear there is little else I can offer.\nThat is why I would ask you to procure a bottle of my own stock of ale.\nAfter all, I would not be able to procure the ale myself.', '\nAlphinaud:', '\nThe ale will not be for sale, of course, but I would ask that you obtain it for me.', '\nAlphinaud:', '\nThe ale will not be for sale, of course, but I would ask that you obtain it for me.', '\nAlph
+Generated text 12:
+Title: A Bargain Struck
+Dialogue: ['\nH'aalen:', "\nWe have a problem.\nWe were asked to procure a quantity of high-purity ceruleum from the Vira Gleaners' Guild, but we could not do so─perhaps because of a shortage of sufficient quantities.\nThe situation is dire. The guild has not been able to procure ceruleum for many moons.\nIt would be a great help if you could procure the necessary quantities for us.", '\nH'aalen:', "\nWe would be ever so grateful if you could procure the necessary quantities for us.", '\nH'aalen:', '\
+Generated text 13:
+Title: A Bargain Struck
+Dialogue: ['\nJ'lakshai:', '\nI have a task for you. We are on our way to the site of the final battle.\nThe soldiers and I are waiting for you to return. If you would make haste to the site, pray hurry.\nWhen you arrive, pray tell the soldiers that I would be waiting for you.', '\nJ'lakshai:', '\nThe soldiers and I will wait for you. If you would make haste to the site of the final battle, pray tell the soldiers that I would be waiting for you.', '\nJ'lakshai:', '\
+Generated text 14:
+Title: A Bargain Struck
+Dialogue: ['\nBargain:', "\nGodsdammit, I'm not getting paid for this!\nI'm supposed to deliver this package to a friend, but I don't even have the money to pay my own way.\nI know the right place to deliver it, but I can't go!\nIf you could go, it'd be a big help!", '\nBargain:', '\nIf you could go, it'd be a big help!', '\nBargain:', "\nThank you so much! I can't thank you enough.\nI could have got the package and made it to my
+Generated text 15:
+Title: A Bargain Struck
+Dialogue: ['\nY'shtola:', '\nYou have arrived too late. The great wyrm's wrath is still felt.', '\nYda:', '\nIf only the others could have seen!', '\nYda:', '\nIt was Yda!\nHm? What are you doing here?', '\nYda:', '\nAye, I was wondering if you were the man who slew the wyrm.\nI am Yda, and I will not rest until I have slain the wyrm and brought it back to me!\nYou have done me a great service
+
+
+
+
+Generated text 1:
+Title: A Beeautiful Plan
+Dialogue: ['\nVorsaile Heuloix:', "\nGreetings, Forename. I had hoped you would be a part of our planning for the day.\nAs you may have noticed, we have been working in secret to procure an even larger contingent of bees for the hive.\nIt is quite a task to procure the bees, but our best hope lies with the help of the Scions.\nThe Scions have been working in tandem with the Dravanian Horde.\nIt is our hope that they will eventually come to our aid.\nWe would like you to go and assist the Scions.\nYou have my sincerest gratitude
+Generated text 2:
+Title: A Beeautiful Plan
+Dialogue: ['\nLyse:', '\nA visitor from the Twelveswood, you say?', '\nLyse:', "\nI see. I can't say I'm surprised.\nWe've been watching the bees. I'd like to ask them to pollinate our crops, but that's not an option.\nI want to try something else, though. There's a field near here that could use some help.\nCan you go in my stead? I'll wait here.", '\nLyse:', "\nI've been looking for you! Did you find any bees?\nI just need to know they're not
+Generated text 3:
+Title: A Beeautiful Plan
+Dialogue: ['\nCid:', '\nI trust you have had a chance to rest and recuperate?', '\nCid:', '\nI trust you have had a chance to rest and recuperate?', '\nCid:', '\nI trust you have had a chance to rest and recuperate?', '\nCid:', '\nI trust you have had a chance to rest and recuperate?', '\nCid:', '\nI trust you have had a chance to rest and recuperate?', '\nCid:', '\nI trust you have had
+Generated text 4:
+Title: A Beeautiful Plan
+Dialogue: ['\nBertrand:', "\nIf you haven't noticed, I'm a beeautiful man.\nA beeautiful man, you say? Hah! It's a good thing I'm not a beeautiful woman.\nI've a plan to take the last of my life savings to buy a small plot of land, and then I'll build my own beeautiful home.\nThe plan is to go and look for a hive bee that's breeding in the nearby fields.\nI would go myself, but I'm afraid my legs are so weak I can't make it back here in time.\nIf you would go,
+Generated text 5:
+Title: A Beeautiful Plan
+Dialogue: ['\nGildon:', "\nI'm sorry to impose, Forename, but I must ask. You are a man of considerable talents, and your prowess on the battlefield has made you a popular choice for promotion.\nIf you are willing to fight, I would be most obliged if you could undertake a simple task for me.\nYou will find the hive of a bumblebee nest just to the west of here. If you would be so kind as to collect a few of the insects for me, it would be my pleasure.", '\nGildon:', "\nYou have my thanks for your help. I'm sure you will find the bee
+Generated text 6:
+Title: A Beeautiful Plan
+Dialogue: ['\nMogkha:', '\nWe are pleased to inform you that the Khaan's Trading Post has been granted a permit to sell raw honey to the Zundu of the Southeastern Steppe.\nThe permit was obtained by the Zundu from the Khaan's Trading Post, and it has been approved by the Zundu council.\nThe permit is valid until May 1st, but the Zundu have asked that you deliver a package containing the raw honey to their representatives at the Maelstrom.\nOnce the honey is delivered to the representatives, the Zundu will have a right to sell it.\n
+Generated text 7:
+Title: A Beeautiful Plan
+Dialogue: ['\nY'shtola:', "\nI'm sorry, Forename─you must be exhausted after our last meeting. We've been discussing our next mission and how best to proceed.\nHowever, I would ask you to take a bit of a break. While it would give us time to plan, it would also give you some time to rest.\nThe Scions have prepared a list of the tasks they need accomplished by the end of the day. Please take this to the other leaders, and let them know that the next mission is on.\nOnce the task is complete, I will have my men rest for a moment.", '\nYda:
+Generated text 8:
+Title: A Beeautiful Plan
+Dialogue: ['\nPop:', '\nYou are under attack!', '\nPop:', '\nYou are under attack!', '\nPop:', '\nYou are under attack!', '\nPop:', '\nYou are under attack!', '\nPop:', '\nYou are under attack!', '\nPop:', '\nYou are under attack!', '\nPop:', '\nYou are under attack!', '\nPop:', '\nYou are under attack!', '\nPop:', '\nYou are under attack!', '\nPop:
+Generated text 9:
+Title: A Beeautiful Plan
+Dialogue: ['\nEshun:', "\nThat's an odd name.\nDo you have any idea who it might be?\nI would be ever so grateful if you could help me.\nI am a merchant who works with bees.\nI have a plan that I would like to see come to fruition.\nIf you could help me, I would be greatly obliged.\nI would ask you to gather bees from the fields around the village.\nI would also ask that you bring me a flower which blooms in spring.\nIf you have any questions, please do not hesitate to ask.", '\nEshun:',
+Generated text 10:
+Title: A Beeautiful Plan
+Dialogue: ['\nMogmont:', '\nI am Mogmont, a member of the Order of the Twin Adder. I have had the task of reviewing the details of the plan you sent me.\nThe plan is to entrust a group of adventurers to collect three honey bees from the hive just south of the village.\nIf you would agree to assist us, it would be most appreciated.\nIf you would also agree to assist us, it would be most appreciated. If you would also agree to assist us, it would be most appreciated.', '\nMogmont:', '\nThe bees will be collected by three adventurers. Please go
+Generated text 11:
+Title: A Beeautiful Plan
+Dialogue: ['\nAlys:', "\nGood to see you're still here, Forename.\nI was about to head to Camp Drybone to deliver this letter to the camp, but I got the feeling I was being followed.\nAfter I asked the guards if anyone had seen anything, they said they had not.\nI know they would not have been able to tell me much, but the fact that I was being followed seems to point to some sort of organized activity.\nCould it be that the Garleans are attempting to locate me? If you could help, I would be very grateful.", '\nAlys:', "\nIf it's the
+Generated text 12:
+Title: A Beeautiful Plan
+Dialogue: ['\nMogkon:', '\n<click> <click> <click> <click> <click> <click> <click>', '\nMogkon:', '\n<click> <click> <click> <click> <click> <click> <click>', '\nMogkon:', '\n<click> <click> <click> <click> <click> <click>', '\nMogkon:', '\n<click> <click> <click> <click> <click> <click>', '\nMogkon:', '
+Generated text 13:
+Title: A Beeautiful Plan
+Dialogue: ['\nY'shtola:', "\nI was hoping you might be able to spare a moment or two.\nYou see, I have a plan to make the most of the situation. I was hoping you might help me.\nI need someone to escort me to the village. I need someone to go there and check on my daughter.\nI would ask you to go first. There are some bees that are nesting in the trees. If you have some bees to check, you would be my thanks.\nPlease hurry, my daughter is due any moment now. I am afraid I am not the one who should be leading the way.\nI
+Generated text 14:
+Title: A Beeautiful Plan
+Dialogue: ['\nAlys:', '\nAs for how we might achieve that goal, there are several options available to us.\nThere is the matter of the bees, of course. We would have them swarm the area, but it is not certain what effect that would have on the insects.\nThe question is, how could we possibly accomplish such a feat without the bees' assistance?\nA few options have been considered, but the most promising is to place some sort of net in the vicinity of the bees, which would attract them.\nThe net would then be used to capture the bees for us, but the net would have to be kept constantly moving,
+Generated text 15:
+Title: A Beeautiful Plan
+Dialogue: ['\nMogmont:', "\nAye, I'm Mogmont, adventurer. The adventurer in question's name's Mogmont, and he's a man who's made a name for himself in the world of alchemy, not to mention the world of war.\nHe's been tasked with organizing a large gathering of alchemical entities, but I fear he's been unable to attend due to ill health.\nIf you could accompany me to the gathering, I'd be ever so grateful. I'd be honored to meet you!", '\nMogmont:', '\nThank you, adventurer! I would have been lost without your aid!\n
+
+
+
+
+Generated text 1:
+Title: A Blessed Instrument
+Dialogue: ['\nAlphinaud:', '\nA curious thing, Forename, is it not? There are many instruments here that are made for one purpose, and another.\nThey are not made for their intended purpose, yet there are many of them.\nThere are even instruments that have been given to the Order to be used in battle─tools that have been given to the Order to be used in battle.\nYet there are others that have been given to the Order to be used for other purposes. And so it is that the Order has been entrusted with the creation of these instruments.\nYet the order has failed to properly identify which instruments are being entrusted with
+Generated text 2:
+Title: A Blessed Instrument
+Dialogue: ['\nGirall:', "\nHm? You're not from around here, are you? I don't know what you're thinking, but it's a good thing you're here!\nIt's about time we got back to the village!\nThere's something I need your help with. A friend of mine is stuck in a fever.\nWe need to find him before he goes into shock. I think he might be in the village to the north.\nIt's not much, but I'm sure it would be a great help if you could find him for us.\nHe was working at the village when he got sick. He doesn't
+Generated text 3:
+Title: A Blessed Instrument
+Dialogue: ['\nEschion:', "\nI've been searching for you, Forename. The name is Eschion, and I have been looking for you.\nI need you to gather my mother's ashes, as well as some for my father.\nWhen I told my father I wanted to go to the Holy See, he said he would be here when he was done.\nI suppose he meant it. If you would be so kind as to gather my mother's ashes, he would be waiting.", '\nEschion:', "\nI've been searching for you, Forename. The name is Eschion, and I have been looking for
+Generated text 4:
+Title: A Blessed Instrument
+Dialogue: ['\nY'shtola:', '\nThe Holy See is at war with the Dravanian Horde. The Dravanian Horde is threatening our people with their terrible weapons.\nWe need a great instrument, a holy relic from the Dravanian Horde.\nOur people are in desperate need of the instrument. But the Holy See is too busy with its own affairs to deal with the matter.\nIt is a matter of life and death, but the Holy See cannot bear to let the Dravanian Horde use our holy instrument.\nWe ask you, friend. Please, pray to the Blessed One that the Holy See will grant us our wish.', '
+Generated text 5:
+Title: A Blessed Instrument
+Dialogue: ['\nSeverian:', '\nGood evening, Forename. I am Severian, Master of the Order of the Twin Adder. The Twin Adder has sent word that you are a capable individual.\nThat is all I need to know. It is your task to make yourself useful to the guild.\nThere is much work to be done, and I would have you assist me with it.\nI am in need of a young man who is willing to help. I would ask you to search the area around the west and south gate. There should be a young man there.', '\nYoung Man:', '\nGood evening, Sever
+Generated text 6:
+Title: A Blessed Instrument
+Dialogue: ['\nOndo:', '\nOndo's the one who helped you get this place.\nI wish I could thank you again. But I am too old, and I fear I might not be able to.\nI would ask you to come back to me once you have a chance. I would ask you to go to the west of here.\nThe road to the west leads to the village. I would ask you to take the path there.\nI would ask you to go to the west of here. The road to the west leads to the village. I would ask you to take the path there.', '\nOndo
+Generated text 7:
+Title: A Blessed Instrument
+Dialogue: ['\nRafold:', '\nA beautiful instrument, Forename! You would not have thought that a man who forged the tools of giants would be the one who crafted them!\nI know this is a sensitive topic, but I would be grateful if you could give me your impression of the instrument. I am sure you will agree that it is a work of art.\nI do not mean to ask too much, though. I only ask that you see it for me.\nThe instrument was created for the purpose of gathering intelligence. I have been given a description of the device which may be of use to you.', '\nRafold:',
+Generated text 8:
+Title: A Blessed Instrument
+Dialogue: ['\nBlessed Instrument:', "I shall pray that the gods grant you wisdom and compassion.\nI would have you know that I am a devotee of the church of the Holy See.\nIt is my goal to pray that the Holy See blesses you with a blessing that you might minister to the poor.\nI would ask you to pray for me in my stead, but it is a request I would have you make on your own. I would also ask you to pray for the Holy See in my stead.\nI would ask that you pray for me in my stead, but it is a request I would have you make on your own. I would
+Generated text 9:
+Title: A Blessed Instrument
+Dialogue: ['\nWanderingminstrel:', '\nI heard the voices from deep within. The voices of those who once were but a child.\nThey said to me: “You are one who would be born to be a parent.”\nThat is why I am asking you to help me.”\nI would do this for you if I had the means. But I am afraid I do not.\nPlease, take this as a token of my thanks.', '\nWanderingminstrel:', '\nPlease take this as a token of my thanks.', '\nWanderingminstrel:', '\
+Generated text 10:
+Title: A Blessed Instrument
+Dialogue: ['\nNPC:', "\nHm? You have a need for a weapon?\nI must say, I was rather surprised to receive a request from you.\nA weapon?\nOh, I see. You are the adventurer from the village, aren't you?\nI would be honored if you could deliver this weapon to a man named Sibyl.\nIt was once owned by one of the wealthiest families in our village, but was sold to a thief.\nIf only we had known─\nN-No! Please, I beg of you! Please, you must help me!\nPlease, you must help me!\
+Generated text 11:
+Title: A Blessed Instrument
+Dialogue: ['\nTataru:', '\nYou are a visitor to the Temple of the First Light, aren't you? I would have you assist me in a favor of the Church.', '\nTataru:', '\nYou must be wondering why I would ask a stranger to assist me. Well, the answer is simple─I need you to help me find a man who is selling a rare instrument to a merchant in the Central Shroud.\nI would have you go to the merchant, and ask him for the instrument. He will then give you a description of the instrument and give you directions to it.\nThe merchant is in the Central Shroud, and
+Generated text 12:
+Title: A Blessed Instrument
+Dialogue: ['\nNyldenora:', "\nGodsdamned, that's bloody horrible! That's right, godsdamned, that's bloody horrible!\nI've had it with that. I've had it with that!\nI've had it with this! I've had it with that!\nI will not tolerate this!\nI will not tolerate this!\nI will not tolerate this!\nI will not tolerate this!\nI will not tolerate this!\nI will not tolerate this!\nI will not tolerate this!\nI will not tolerate this!\nI will not tolerate this!\nI
+Generated text 13:
+Title: A Blessed Instrument
+Dialogue: ['\nArtoirel:', "\nGood evening, sir. Might I interest you in something?\nA man has asked to see my instrument. I am afraid I have no time to spare to prepare it, sir.\nI must hurry, as I have a few more tasks to attend to. Please, take this to the man, and tell him I will be here in a moment.\nThank you, sir. It is an instrument which I use to express my gratitude for the countless hours I have spent with the Twelve.\nI had a friend come to me for advice, and I asked him to prepare an instrument for me. He did so, and
+Generated text 14:
+Title: A Blessed Instrument
+Dialogue: ['\nGildon:', '\nWell, it's about time you got back to your own world.\nI'm Gildon, and I'll be your guide, always!\nOh, and don't worry, I won't ask you to do anything silly. In fact, I will be waiting for you at the landing.\nIf you have any questions, you can always ask me at the landing.\nBut before you do, let me tell you about a special instrument I made for you.\nIt's called a blessed instrument, and it's a very special instrument. I made it with the finest materials, and it's all I've
+Generated text 15:
+Title: A Blessed Instrument
+Dialogue: ['\nJasmine:', "\nGodsdamned... I was just going to give it up, but...\nI swear I was just going to be a good girl.\nI was going to make a song and then it would be over.\nI mean, I'm a good girl, but I... I didn't think to put my heart into it...\nI mean, I'm going to go home and tell my mother.\nBut I want you to go, too. I want you to go!\nPlease go and tell my mother that she should give me the song. I know I will make it soon enough.\nMy
+
+
+
+

@@ -1,0 +1,343 @@
+Generated text 1:
+Title: A Bargain Struck
+Dialogue: ['\nDaimbert:', "You must be Forename, yes? Pray be so kind as to help me.\nI've been tasked with searching for a young girl, you see. She was due to make her journey to join the Resistance, but has since been arrested on suspicion of arson.\nI would make my way to the Garleans' headquarters in the hopes of speaking with her, but my route would take me past Castrum Abania.\nI'm afraid I've no time to spend waiting around─I must find her before her trial.\nIf you could find my way to Castrum Abania and speak with a Resistance fighter,
+Generated text 2:
+Title: A Bargain Struck
+Dialogue: ['\nSlimturtle:', "\nA new face in Ala Gannha? Huh... You're Forename Surname, aren't you?\nAs I'm sure you have gathered, Slimturtle is the proprietor of the Forgotten Knight. I was told he has a task for a capable adventurer.\n'Course, I'm not certain what that task is, and I'm not about to ask.\nI'm thinking I'd be a good choice, if you'd be willing to help me?\nI'd be grateful if you could take this letter to Slimturtle. It's a request for the services of a retainer.
+Generated text 3:
+Title: A Bargain Struck
+Dialogue: ['\nDripwix:', "\nPshhh... Shkohhh...\nGobbiekin of Slitherbough strike deal with goblins! Dripwix declares no special ties to goblins, but deals with many others like them.\nPshhh... Shkohhh...\nGobbiekin of Slitherbough strike deal with goblins! Dripwix declares no special ties to goblins, but deals with many others like them.\nPshhh... Shkohhh...\nPshhh... Shkohhh...\nDripwix thanks goblin leaders for good deed. Many thanks, upl
+Generated text 4:
+Title: A Bargain Struck
+Dialogue: ['\nAlisaie:', "\n...That was seven years ago, when I was still a child. I remember clearly the moment I knew that we would be reunited. It was the day of our first battle, when the Garleans laid waste to Ala Mhigo...\nMy father and my brothers fought bravely that day, and I owe them my life. But those wounds were not healed by the time we returned home...\nI want to go home, to see my family again... But what if I cannot? What if I am branded as a heretic for daring to question the authority of the Church?\nI know what you are thinking. '
+Generated text 5:
+Title: A Bargain Struck
+Dialogue: ['\nNakshs Koal:', 'The Eulmoran army is poised for a final push into the city.\nIt would not surprise me if the three sultans gathered here were to be joined by another, more aggressive contingent.\nAnd yet, I suspect that the three of us─Forename, Forename, and me─are in fact negotiating a mutually beneficial peace agreement.\nI would make you a gift of my choicest leather goods in exchange for your assistance. The very least I can do is stipulate that you must retrieve them from the lair in the South Shroud.\nThe first sultanate soldier to arrive will
+Generated text 6:
+Title: A Bargain Struck
+Dialogue: ['\nWichard:', "I've just received word from my men at Florentel's Spire─the price we paid to secure the peace between our peoples has been struck.\nThe Maelstrom, the Ixal, and the Drysnakes all agreed to a truce, but only the White Rams accepted the terms.\nTheir leaders, however, refused to meet with us at Camp Drybone, and instead chose to send their warriors to the gates of the Immortal Flames.\nTheir decision is all but final─the garrison awaits them within the gates, and I cannot allow them to pass.\nI would send word to the garrison, but
+Generated text 7:
+Title: A Bargain Struck
+Dialogue: ['\nCibleroit:', "\nThe Silver Bazaar may be an exotic destination for those seeking a momentary reprieve from the hardships of the road, but it is a trading settlement as well. I mean to give you a wide berth, but if you have no other business in the area, I would be grateful if you could keep your ear to the ground.", '\nPop:', '\nYou sense a hostile presence!', '\nAccess:', '\nThe enemy is still about!', '\nCibleroit:', "\nI'm told you fell into a fight with a Gyr Abanian bard? That's
+Generated text 8:
+Title: A Bargain Struck
+Dialogue: ['\nArtoirel:', "The two of you have a visitor, yes? Pray go on ahead and introduce yourself.", '\nArtoirel:', 'Welcome, Forename. It is good of you to come. I am also glad to see you well rested and refreshed. Now, what brings you here today?', '\nArtoirel:', 'A letter? Let us both take a look, shall we?\nDear Master Surname, I have been expecting you. I am certain Master Gerolt will be pleased.', '\nArtoirel:', 'A letter? But why would Master Gerolt
+Generated text 9:
+Title: A Bargain Struck
+Dialogue: ['\nSeverian:', "\nWell, well, well, what have we here? You look like the sort of man who can strike a deal!\nWell, well, if it isn't my old friend, the legendary “Skilledsamurai” himself! I was about to pass away from a heart attack and he sends you to me on a quest? Oh, how remiss of me!\nI see I mustn't keep you long! There is a matter of some import you wish to discuss.\nI will not keep you! I say more trade must go through Ul'dah so skilledsamurai such as yourself may deliver goods
+Generated text 10:
+Title: A Bargain Struck
+Dialogue: ['\nAlisaie:', "\nI don't know if you've heard, but Mih Khetto's in the midst of renegotiating her contract with the Ixal.\nThat's right, Mih Khetto's the same woman who nabbed the Garleans' No. 1 pick in the '90s!\nThat's right, Mih Khetto's the same woman who nabbed the Garleans' No. 1 pick in the '90s!\nThe Ixal, being the wily creatures they are, are loath to let their prized possessions wander freely for fear of drawing unwanted attention.\nThat's why they've
+Generated text 11:
+Title: A Bargain Struck
+Dialogue: ['\nAganbold:', "\nThe Eulmoran soldiers marched right into our village without so much as a word. They were furious that we dared to cross their sacred boundary, and rightfully so. But the nerve of the imperials!\nWhat could they possibly hope to gain by barging our people's necks? What could they possibly hope to gain by allowing us to settle here?\nBut I daresay that one of us has a brilliant idea. As I suspected─the people of this village have an affinity for the rare and wondrous. I doubt they would turn tail and run if a renowned alchemist were to offer them a generous sum of g
+Generated text 12:
+Title: A Bargain Struck
+Dialogue: ['\nSaulstan:', "\nI'm flattered that you'd ask. I'm hardly an adventurer, and I've no aspirations to play one now. But what the hells─I'm due a promotion, and that's the last thing I want to happen.\nIf I don't get it myself, I'll have to ask for it from the officer in charge. I just so happen to know a fella by the name of Redwald at the Observatorium. He'll give me what I need.\nIf you can spare a moment, I'd be most obliged if you could search the markets for a suit of plate mail. It's not much
+Generated text 13:
+Title: A Bargain Struck
+Dialogue: ['\nGildon:', "I can't say I've chatted with you before. Think I'd remember if I had. Seen your fair share of fighting, have you?\nAnd wary besides, heh. Rest assured I've no secret designs. Name's Gildon, a man who's spent his life rooting out and destroying the undead.\nNow, I'll admit that my motives might've changed since last time. I used to be an avid supporter of the guild, but after a string of disappointing failures...\nIt was all I could think to do to keep going, but now that I've found myself a new calling, there's no
+Generated text 14:
+Title: A Bargain Struck
+Dialogue: ['\nArdolain:', "It was a short while ago now that I received word from the Order of the Twin Adder. They wish to gauge the efficiency of our newly commissioned airship, the Swift.\nIt is no small task to upgrade an airship's systems and protocols, but the task before us is a daunting one.\nIt would seem that the Syndicate has already procured the necessary parts. They need but be delivered to our Emissary at Florentel's Spire.\nThe airship is due to arrive some time ago. I would have you wait there until the magitek rears its ugly head.\nWelcome
+Generated text 15:
+Title: A Bargain Struck
+Dialogue: ['\nMogoon:', "\nAdventurer! What can I interest you in today?\nThe missive you seek from Mogoon has arrived. I see no reason to delay in responding, so let us get this over with.\nMogoon requests your presence at Bowrest in the North Shroud.\nThe Silver Bazaar is no place for a layabout. You'll need to take an expensive caribou horn to Bowrest, and drive it home to Mogoon.\nThe Silver Bazaar is no place for a layabout. You'll need to take an expensive caribou horn to Bowrest, and drive it home to Mogoon
+
+
+
+
+Generated text 1:
+Title: A Beeautiful Plan
+Dialogue: ['\nTeteroon:', "\nMight you have a moment? I'm in need of a capable hand.\nThe hive's in dire need of reinforcements. Three times over, the commander has asked for new beeautiful plans. But I know his favorite tactic: making unwise decisions.\nI want to be prepared, but if I leave the hive to repair the armor, I won't be back for some time. If I could be of service by crafting a new, more advanced plan, would you be so kind as to procure it for me?", '\nTeteroon:', "\nI can't very well end my shift here and go
+Generated text 2:
+Title: A Beeautiful Plan
+Dialogue: ['\nE-Sumi-Yan:', 'The hive is in danger!', '\nY-Sumi-Yan:', 'It cannot be borne!', '\nE-Sumi-Yan:', 'We must act now!', '\nY-Sumi-Yan:', 'The antidote is not here...', '\nE-Sumi-Yan:', 'You must hurry and find the vials. Quickly, now!', '\nE-Sumi-Yan:', 'I will join you as soon as I am able.', '\nY-Sumi-Yan:', 'I see you
+Generated text 3:
+Title: A Beeautiful Plan
+Dialogue: ['\nBarryn:', "\nWell, if it isn't the Warrior of Light himself! I've been awaiting your return with great anticipation.\nYour strength is plain to see; the elementals have naught to fear from you. Yet, as you are about to discover, even the mightiest of warriors cannot achieve greatness alone.\nYou must come to the aid of another, and I can think of no one more able to aid you in your endeavor.\nLest you fear that my words may lead you to believe that I mean you harm, bear in mind that I am merely sharing with you my understanding of the situation. In fact, I would
+Generated text 4:
+Title: A Beeautiful Plan
+Dialogue: ['\nAhelissa:', "I'm sorry, sir, but I'm afraid we can't help you. I'm afraid there's nothing we can do for you.\nBut you're not so stubborn as to think you can overcome your inner beast! Be a good lad and accept help from a stranger, would you?\nYou can't expect to be of service if you're not willing to take it!\nWell, I suppose there's nothing to it! I'll go and fetch a bucket of beekeeping supplies from the nearby apothecary.\nI'll leave the rest in your capable hands. Now hurry on, away with you!", '
+Generated text 5:
+Title: A Beeautiful Plan
+Dialogue: ['\nDeterminationnamazuo:', "\nBeg your pardon, but you wish to rescue my bees? Of course you do! You're a good man.\nHowever, my plan is to rescue them from a hive I have my bees build. However, my plan involves flying them to a place they are not like to get lost.\nThey are not built for such long flights, and I do not have many bees to spare.\nI thought of asking a friend of mine, but he is out of town on leave. He said he would be able to help me, but I would need to ask his permission first.\nPlease, you must find
+Generated text 6:
+Title: A Beeautiful Plan
+Dialogue: ['\nKokosamu:', "\nYou know, I've been thinking... About how I wish to meet you.\nIf you're listening, I've been thinking... About how I wish to meet you.\nYou're a pretty good dancer, aren't you? I could use someone like you to choreograph my next routine!\nI've been practicing for days, but my stamina is wanting. If you could come along for the next performance, I promise...\nI'll be waiting outside!", '\nKokosamu:', "\nYou're back! I was so worried...\nI know I shouldn't have been
+Generated text 7:
+Title: A Beeautiful Plan
+Dialogue: ['\nLalai:', '\nMy thanks, Forename. It would not do to keep the Admiral waiting.', '\nAlisaie:', "\nI'm pleased to report that the Aedoc is now under the protection of the Maelstrom.", '\nAlphinaud:', '\nThe Serpent Reavers have been routed, and the Admiral is safe and sound. The question is how we will manage the aftermath.', '\nLalai:', "\nThe Serpent's Tongue lies beyond the walls of Limsa Lominsa. We must find the Admiral's forces and ensure that they do not return.",
+Generated text 8:
+Title: A Beeautiful Plan
+Dialogue: ['\nRhodopis:', "\nYou must be the traveler who rescued Erenville. Would you be willing to help me with preparations for our departure?\nWe will be traveling to the west of here, where wild bees gather. It is not difficult for me to see why the place is so fraught with danger─I have been keeping watch here for long enough.\nAt any rate, it should not be long until we arrive at our destination. I would have you escort us to the ferry landing.\nThe ferry will take us across the lake to the west. If you should spot any of the burly men stripping the water from the rocks, you
+Generated text 9:
+Title: A Beeautiful Plan
+Dialogue: ['\nPanicked Researcher:', '\nYou there! I need you to do something for me.\nYou see, I was about to conduct a research on a certain species of flower when I noticed that its flowers were wilting. I rushed home to check, but my nerves were on edge and I dropped my favorite flower.\nI didn't think anything of it at the time, but I dropped it right in the river. I was so certain that I dropped it again, but I can't remember dropping it... I hope you can find it for me!', '\nPanicked Researcher:', '\nPlease bring me my lost flower.
+Generated text 10:
+Title: A Beeautiful Plan
+Dialogue: ['\nAlphinaud:', '\nIt is past time that we return to the Waking Sands.\nApologies for the imposition, but I know you are still worried about your friends. Forgive me. I will brief you on what has transpired since our departure, and then allow you to make your own preparations.', '\nElyenora:', "\nI'm so glad you're here!\nI've been keeping myself rather busy of late, as you may have noticed. Our honeybees have been in a frenzy of late, and I've been tasked with overseeing their feeding. I'm sure you've noticed the abundance of the creatures
+Generated text 11:
+Title: A Beeautiful Plan
+Dialogue: ['\nMogoon:', "\nThe bugs I was sent to slay have been sent fleeing all over again, kupo! And I'm tired of being the one who gets the last laugh─the one who has to clean up the mess!\nI've tried to reason with the chief, but to no avail! Perhaps I'm too clever by half and he has a point...\nThe bees are likely headed for the watering hole to the southwest─that's where the migrating birds fly. If you could head that way and see if there are any buzzards bothering the bees, I would be ever so grateful!", '\nMogoon:', '\
+Generated text 12:
+Title: A Beeautiful Plan
+Dialogue: ['\nRoustebant:', "\nA word, if I may. I trust you're aware of the recent─and somewhat comical─situation at the Wonders, kupo?\nThere was a time when the only way to see the wonders of Ul'dah was by flying, of course─but as the technology has improved, more and more people are able to travel freely, which has opened the gates to a whole new world of possibility.\nOne of those people is my friend here, a man named Tolas. He's an engineer by trade, and he believes that a better way to experience the wonders of Ul'dah is to take a
+Generated text 13:
+Title: A Beeautiful Plan
+Dialogue: ['\nMogomo:', "\nI've got a plan, kupo...all I need is three little buzzards for the big job.", '\nMogomo:', "\nIf I lend you the buzzards, you'll bring me my bees─and the kupo nuts I need, kupo!\nIf you're looking for the nuts, go east of here and you'll find them.", '\nMogomo:', "\nThe buzzards have left, kupo? Well, I'm glad I didn't have to use those nasty dragons...\nThe whole of Hyrstmill is in the throes
+Generated text 14:
+Title: A Beeautiful Plan
+Dialogue: ['\nLalai:', '\nThe Order of the Twin Adder has been charged with slaying the wyrm Hraesvelgr, that we may end the threat he poses to Gridania.\nHowever, we have been unable to procure sufficient quantities of the nectar they require to make the necessary medicines.\nIf we are to avert a potential pest invasion, it is essential that we find a way to procure the nectar.\nBut how? The beeswax we have collected so far is far too sweet to be of much use.\nI would have you search the area around Camp Dragonhead in southern Thanalan. Remember: you
+Generated text 15:
+Title: A Beeautiful Plan
+Dialogue: ['\nCitizen02053:', 'Excuse me, but I have urgent need of your help. My father has been sent to the cotton harvest, and I fear the situation has become dire.', '\nCitizen02053:', "I would be grateful if you could search the fields for my father. I haven't seen him for some time.", '\nCitizen02053:', 'My father was a brilliant alchemist who helped save Ishgard from the sin eaters. He is survived by a family of bees, which are vital to our continued prosperity.", '\nCitizen02053:', 'I would be grateful if you could search the
+
+
+
+
+Generated text 1:
+Title: A Blessed Instrument
+Dialogue: ['\nJehantel:', "\nWelcome back, Forename. You have served Halone well, and in return you have earned this.\nYou may be familiar with this instrument of ours, but to many of the laymen it may seem rather out of place. Allow me to show you how it is used.\nThe halone statue you see before you is the piece of a woodwind instrument, the kind used to call forth the winds of Halone's realm. Used in moderation, such instruments are known to be soothing and healing.\nNow, while this is indeed a fine instrument, be warned that its power can be wielded like any other. Should you
+Generated text 2:
+Title: A Blessed Instrument
+Dialogue: ['\nAlphinaud:', "We have a common enemy, Forename. And by common we mean “the enemy of my enemy,” which is Gridania's imperial army.\nThe Scions of the Seventh Dawn wish to draw the Garleans' attention. I share their objective, but I would not be so foolish as to involve myself directly in the conflict.\nInstead, I would ask you to deliver an item to a man named Lonwoerd. You will find him just past the Archers' Guild.\nLonwoerd is the name of a man in the service of House Haillenarte. He is an old hand in the
+Generated text 3:
+Title: A Blessed Instrument
+Dialogue: ['\nCarrilaut:', "I am Carrilaut of the Order of the Twin Adder, honored instructor of the guild.\nYou are come at a most opportune time, my friend. I have a task that could make use of one with your expertise.\nYou will recall that I sent word to Master Gerolt to solicit his assistance in gathering a group of relics I have neglected to mention.\nConsidering his experience and expertise, I take it you understand the difficulty in completing such a task without his assistance.\nWith that in mind, I have a feeling you may be suited for the task.\nTell me, are you interested in assisting
+Generated text 4:
+Title: A Blessed Instrument
+Dialogue: ['\nWymond:', "\nWell, well, well...if it ain't my gifted apprentice Forename! You've a moment, and a moment only!\nMaster Hamon is my name, and I am Hamon of the Order of the Twin Adder. I serve at the pleasure of the Elder Seedseer, Lady Minfilia.\nI recently asked a favor of the Scions of the Seventh Dawn, and you the adventurer answered in the negative.\nThe matter may be before the Holy See, but the Waking Sands─that is, that impassioned young man who raised the flag at Revenant's Toll─does not.\n
+Generated text 5:
+Title: A Blessed Instrument
+Dialogue: ['\nBenedict:', '\nYou are the Forename Surname, yes?\nYou are an adventurer, yes?\nI have need of an artisan who can perform the sacred task of playing the udgan's harp.\nI would have you journey to the Yugr'am River and meet with an artisan who makes and repairs the udgan.\nYou will find the craftsman standing across the stream from the Amalj'aa Graveyard. He can be a grueling task, however, so I would suggest beginning your search before heading there.', '\nCraftsman:', "\nBah, I've been gone
+Generated text 6:
+Title: A Blessed Instrument
+Dialogue: ['\nBertliana:', '\nYou have a beautiful instrument, Forename. I wish to play it for you.\nI would be grateful if you would lend it to me. The tune I would like to use is one of your choosing. It is the song of the sultana, Alaqa.', '\nBertliana:', "\nHow does the song go, Forename? Please tell me you like it!\nOh my, such a charming tune! It reminds me of the time we journeyed to Lakeland and beheld the Source for the first time.\nAhem. The Source is the great tree that stands
+Generated text 7:
+Title: A Blessed Instrument
+Dialogue: ['\nBenedict:', "You have come at a most opportune time. I have a task that could make use of one with your talents.\nI would have you make a gift to the guildmaster in my stead.\nIt's a simple one, really. I want you to go to the Catenaries and procure two golden beakers.\nThe beakers can be found in the chest on the second floor. Once you have them, deliver them to Sister Eluned. That's all there is to it.", '\nEluned:', "What brings an outsider to our humble abode?\nWhat brings an outsider to our humble abode
+Generated text 8:
+Title: A Blessed Instrument
+Dialogue: ['\nKierke:', "You have the honor of addressing the guildmaster. I am a master of the woodwinds─an accomplished performer besides.\nI recently finished a rendition of the requiem for the Azure Dragoon─a sacred piece of music that has been performed by countless guildmasters before me. While I would be lying if I said more were not already familiar with its contents, circumstances being what they are, I thought it best to share with you the full details of the piece's creation.\nI. “Azure Dragoon Requiem (Sonata)” (Sonata in D minor, Op.71 No.2)\nB
+Generated text 9:
+Title: A Blessed Instrument
+Dialogue: ['\nNimie:', "You're the adventurer who defeated Nidhogg, aren't you? Aye, you're the sort we've been searching for.\nWe've been seeking a capable defender to join our ranks, and you've proven yourself worthy of a place alongside the Immortal Flames. You're an ideal choice.\nYou see, the instrument you constructed for your victory over Nidhogg is of exceptional quality. The purity of the metal and the craftsmanship are both of a very high level. It is a true testament to your skill as an artisan.\nIt is for this reason that we have chosen you to assist us in our pursuit of the Blessed.
+Generated text 10:
+Title: A Blessed Instrument
+Dialogue: ['\nRiol:', "\nI've been working on my rendition of the “holy trinity” for a while─and with no fewer than three outstanding pieces to show for it, I'd say we're ready to present it to the Holy See.\nThe first is a piece by Master Jalzahn, the master of all Kholusian music. It's a piece of particular significance to us here, as it was deemed sacred by the Kholusians themselves. The hymn is set to music at the Church of the First Light─the place where the “Trials of the Three Hosts” were held.\nJalzahn
+Generated text 11:
+Title: A Blessed Instrument
+Dialogue: ['\nLeonnie:', "Oh, hello there. If you have time, I would ask a favor of you.\nI would like you to find my grandmother, who lives down the path to the west. She is a frail old woman, but she is not so foolish as to deny me the use of her favorite instrument.\nI would go and pay her a visit right now, but... I have not the strength to leave my post.\nPlease, will you accompany me to the west?\nThank you! I will meet you there.", '\nLeonnie:', "Please, you must tell my grandmother that I am fine. I will be along
+Generated text 12:
+Title: A Blessed Instrument
+Dialogue: ['\nAlys:', "If you have a moment, I would ask a favor of you.\nI have a son, and after a lifetime of neglect he is now receiving music lessons. I would be most grateful if you could deliver these lessons to him.\nThe first lesson is for boys of all ages. It covers such subjects as breathing, talking, and much more.\nI would be most grateful if you could deliver it to my son, Forename.", '\nAlys:', "You have come! My son awaits you at the Archers' Guild.\nI know I asked you the same, but perhaps your experience as a parent would be
+Generated text 13:
+Title: A Blessed Instrument
+Dialogue: ['\nPapin:', "\nWell, well, well...if it ain't my gifted apprentice, Forename! 'Tis a pleasure to have made your acquaintance.\nAs it happens, I've a task rather suited to one of your talents. You can take your pick from the harp, the dulcimer, or the lute─I've no doubts you can handle the former.\nBut where is the time? I've already taken the liberty of preparing a gift for you─one that is, ahem, decidedly personal in nature. I want you to have a look, now, and see what sort of thing you think might suit you.
+Generated text 14:
+Title: A Blessed Instrument
+Dialogue: ['\nSeverian:', '\nWell, if it is not a finless one! And I do mean that in a most personal way! I am a proud man of the Order of the Twin Adder, and it is my sacred duty to preserve the glory of our Order and its members.\nYou see, in accordance with ancient traditions, I am to perform a sacred task: the laying of a new foundation for the new Stables of the Hedgetree.\nAlas, owing to the unenviable state of the Hedgetree at present, I am unable to make the trip to meet with the master architect. Instead, I turn to one of my
+Generated text 15:
+Title: A Blessed Instrument
+Dialogue: ['\nFaezahl:', "\nSo you wish to forge another trident, are you? Very well, then. I will not keep you.\nInstead, I will teach you how to make an aurochs horn.\nYou will need horn from an aurochs, a creature found only within the inner region of Ala Ghiri.\nIf you would rather not hunt one of the creatures, you may instead procure a ball of yarn from a weaver. This will allow you to create a synthetic aurochs horn.\nIt is not the most difficult task in the world, but it is a demanding one. Before you begin, you
+
+
+
+
+Generated text 1:
+Title: A Blissful Arrival
+Dialogue: ['\nHihira:', "\nYou don't suppose to be here, do you? A pleasure to make your acquaintance. My name is Hihira.\nI am an alchemist by trade, and I have been tasked with finding a suitable location for our arrival.\nIf you are familiar with the region, you will know that Rhalgr's Reach is not only renowned for its beauty, but also for its medicinal value.\nI will need an aetherial infusion to create a succulent feast for our guests. If you would assist me, you will need to procure one of its constituent parts.\nI should not be surprised if you encounter
+Generated text 2:
+Title: A Blissful Arrival
+Dialogue: ['\nKokosamu:', "\nWelcome, sir, to the Kojin Residence.\nIf you wish to learn more about the temple, my friend Monaka will be happy to answer any questions you may have.", '\nMonaka:', "\nWelcome to the Kojin Residence. Here, pray take this lantern to let the Kojin know you've come for their guidance.", '\nKokosamu:', '\nI would like to ask Monaka a question, but I fear I cannot do so on my own. Could you speak with him in my stead?\nHe can be a rather difficult
+Generated text 3:
+Title: A Blissful Arrival
+Dialogue: ['\nFufucha:', 'Forename, I am pleased to inform you that the Embrace has been granted a new home.\nIt is a home that was meant to welcome you, but instead has welcomed an old one. The old one being a Garlean vessel.\nI do not regret my decision, but the Embrace must have a new home. And I have a man to ask.\nLudovoix, a Loporrit from Slitherbough, has an old vessel that he would like you to visit.\nPlease speak with him and take his suggestion to the Embrace. He can furnish the ship if you are willing
+Generated text 4:
+Title: A Blissful Arrival
+Dialogue: ['\nTohythrah:', '\nOh, my love! I am so happy to see you!\nYou see, I've been looking around an abandoned house and I found a journal. The pages were filled with all sorts of information about the lives of the departed, from their favorite foods to what medicines they used to alleviate their pain. I had to get it for my husband, but lately the pages have been shaking off their luster.\nIt would be so easy for me to just start over, but I know that my husband would want to know. I know he would!', '\nTohythrah:', '\nPlease,
+Generated text 5:
+Title: A Blissful Arrival
+Dialogue: ['\nKumozi:', '\nHello again, sir. I hope you have been well.\nI am Kumozi, a Kojin of the Guesthouse. If you have a moment, I would ask a favor of you.\nI would like you to visit the Doujin of the Respite. There you can find out more about our branch of the Tataru family.\nThere are two Doujin of the Respite. The first is Madam Doujin. She would be pleased for you to visit. The second is her younger son, Doujin Kojin.\nI am certain that if you speak with them
+Generated text 6:
+Title: A Blissful Arrival
+Dialogue: ['\nChipper Pixie:', "Oh, to have so many mortals visiting us at once! I can hardly contain my excitement!\nMy friends and I have been studying plants at the Pomguardia since we were children, and I'm thrilled to finally be able to share my discoveries with the world!\nIf you're as curious as I, I've a personal recommendation for you. It's not far─due west of the Hermit's Hovel.\nIt's there that I found a remarkable variety of flower that's only found in Eulmore. Though it's only been known to grow in that area, I've heard that the seeds can also be
+Generated text 7:
+Title: A Blissful Arrival
+Dialogue: ['\nMarielle:', "I'm terribly sorry to trouble you, but could you perchance find the time to assist me in preparing my meal?\nI've been quite busy of late, and I'm running low on fresh produce.\nIf you could bring me three heads of cabbage and three heads of tomatoes, I would be in your debt.", '\nMarielle:', 'You have my thanks! I only have enough for one large serving, but I'm sure I will have need of the rest.', '\nMarielle:', "I'll be needing the vegetables, but I'm afraid I won't be able to get there
+Generated text 8:
+Title: A Blissful Arrival
+Dialogue: ['\nHirase:', "\nOh, hello there. I'm sure you've heard, but the other day I had to drop something off at Aokumo's Trading Post. It's for my father, who's visiting from the Far East.\nI have to say, it's a much more tiring job than I had initially anticipated, and I'm starting to tire of the city. I'm sure my father would appreciate the help.\nI have to hurry, though. I'll be waiting outside the gates of the trading post!", '\nHirase:', '\nMy father is most likely passing through the Otonashi Tunnel,
+Generated text 9:
+Title: A Blissful Arrival
+Dialogue: ['\nKokosamu:', "\nThe traveler you seek is a man known as Miounne, and she is responsible for picking up our refugees.\nShe is quite diligent in her task, and it is for her to decide where and when they will be resettled.\nI should be glad to have a hand in the selection process, but I fear I cannot do it alone.\nIf you would be so kind as to seek out Miounne, I would be most grateful.\nMy thanks in advance, traveler.", '\nMiounne:', "\nWelcome to the Kuki Respite. If there's aught
+Generated text 10:
+Title: A Blissful Arrival
+Dialogue: ['\nChloris:', "\nThe traveler you seek is likely already here, seeing as he or she is bound for the front line. If not, I would welcome you with open arms.\nYou're a familiar, yes? Then I have a favor to ask of you.\nI would like you to deliver a message to my colleague, Florentel. She is stationed in front of the Imperative, and I would ask that she be made aware of the situation.\nI should mention that a contingent of the Maelstrom is presently on patrol in the area, and any Storm Private who wishes to make a brief stop may do so via the standard
+Generated text 11:
+Title: A Blissful Arrival
+Dialogue: ['\nGraceful Geiko:', 'Oh, I do love a happy couple! I would be honored if you could pick a happy bride for me.\nI would be honored if you could pick a happy bride for me.\nI would be honored if you could pick a happy bride for me.\nI would be honored if you could pick a happy bridesmaid for me.\nPlease, I do need to be chosen.\nPlease, I do need to be chosen.\nOh, thank you! I am so honored.\nNow, let us speak of the bride. I will tell you everything, but I need to see
+Generated text 12:
+Title: A Blissful Arrival
+Dialogue: ['\nKee-Satt:', "Sir, I have a favor to ask of you. I would be most obliged if you could deliver a gift to my husband, Oswell.\nIt's nothing fancy, but it will make for a fine present.\nIt's the least you could do to show your appreciation.", '\nOswell:', "You've come at a good time, my friend. I've been thinking about where we could go in honor of your coming.\nKee-Satt has been busy preparing for our journey, and I'm sure she would be pleased to see the finished product.\nI won't pretend
+Generated text 13:
+Title: A Blissful Arrival
+Dialogue: ['\nTroubled Trunk:', '\nMy traveling companion and I are bound for Phisor Lran, a settlement to the west.   We should be arriving no later than now, yet it is not to be.\nMy friend is lost and I fear he will not survive the journey. Please, journey with me to Phisor Lran and help find him.\nMy traveling companion and I are bound for Phisor Lran, a settlement to the west.  Please, journey with me to Phisor Lran and help find him. ', '\nLost Adventurer:', '\nI thought I was for it
+Generated text 14:
+Title: A Blissful Arrival
+Dialogue: ['\nHihira:', "\nGreetings, sir. Would you be willing to accompany me to the Raincatcher Gully docks?\nThe journey will take us through the North Shroud, so we will need to make our way through the Twelveswood.\nThe gale that blows across the forest dictates that we must move with haste.\nI would be most grateful if you could accompany me. Forename has told me all about the dangers you face in these woods. I know I would not be able to hold out much longer.", '\nHihira:', "\nI am pleased to say that the gale has died. We
+Generated text 15:
+Title: A Blissful Arrival
+Dialogue: ['\nAlisaie:', "\nWelcome to the Quicksand, friend. I'm pleased to say that everything is as ready as can be!\nOh, but that look on your face bespeaks confusion. “Are these the Quicksand or the Akadaemia?” That's what the commonfolk often ask.\nIt's a fair bit of a misnomer, I know─the Akadaemia is a far more benevolent organization than its name suggests.\nThat said, it does have a reputation for being overly demanding─not to mention draconian-like in its approach to outsiders.\nYou're a worldly sort, I
+
+
+
+
+Generated text 1:
+Title: A Bold Decision
+Dialogue: ['\nAlphinaud:', 'The matter of Master Garlond's surrender is before the Alliance leaders, and I am told they will make their decision on the spot.\nTheir strength may be doubted, but they are not fool enough to place their lives in the balance. As matters stand, I would rather not keep the Alliance leaders waiting.\nLet us hurry to the Rising Stones, Forename. If Master Garlond is truly a man of his word, he will not wait for us.\nLet us join hands, Forename. Together, let us take him into custody!', '\nCid:', "All present and correct, I see
+Generated text 2:
+Title: A Bold Decision
+Dialogue: ['\nBomott:', "Word is, Fury-topped Brayflox is on the mend, and all the while, Eorzea's finest are finding new ways to hone their skills.\nChief Forename here has a new challenge for you, one sure to test your mettle. Seek him out at the Rookery, and he will brief you on the particulars.", '\nBomott:', "Welcome back, Forename. To what do I owe the pleasure of your company?\nWell, I'll be... Hm? A letter. From...Eorzea?\nYou don't suppose Brayflox might have sent
+Generated text 3:
+Title: A Bold Decision
+Dialogue: ['\nSerendipity:', "\nWhat have you learned of the sylphs?\nThat they value loyalty above all else? That they put the welfare of the village first? Hah!\nWell, I suppose that's good enough reason to pursue them.\nI'll send word to Camp Drybone of your success!\nHead out there and give my regards to Oswell.", '\nOswell:', "\nWelcome back, Forename. I take it you've dealt with the sylphs─and managed to capture one, at that!\n...Aye, I suppose you have my thanks.\n...
+Generated text 4:
+Title: A Bold Decision
+Dialogue: ['\nCibleroit:', '\nThe Admiral will be aboard shortly. The two of you have time to speak a few words, then the admiral will be on his way.\nMeanwhile, I want you to go to the Bridge and meet with the lieutenant. The lieutenant will be aboard the Enterprise, in the meantime.', '\nNpca:', '\nForename Surname, I am Npcb. Beg pardon? You wish to speak with the lieutenant?\nAye, sir. I am the one who is responsible for keeping the peace in Camp Drybone. If there is aught you would like me to do, pray
+Generated text 5:
+Title: A Bold Decision
+Dialogue: ['\nKomuxio:', "\nYou there! Yes, you! I require your help. I would like you to visit the Shiokaze Hostelry.\nI would like to show you the premises, but I fear I cannot do it alone. I would be most grateful if you could join me by bringing me some food.\nHere, take these two sacks and distribute them to the people living there.", '\nKomuxio:', '\nGive these two sacks to the people living there and I will be waiting near the entrance.', '\nOboro:', "\nI heard you were coming here. Is there something you need
+Generated text 6:
+Title: A Bold Decision
+Dialogue: ['\nWedge:', "Forename! We've received word from the field─the Empire's forces have fallen back!\nThe question is, how will we move forward? We can't afford to rest on our laurels, not now.\nGeneral Raubahn has instructed me to await you at the airship landing. Take your troops and fly to the Sapphire Avenue Exchange!", '\nRaubahn:', "The Empire's forces have fallen back? Forename, I can see the ground tremble beneath my feet.\nThe price we paid was dear, but we have the advantage of knowing what they are capable of.\nGeneral Aldynn commands
+Generated text 7:
+Title: A Bold Decision
+Dialogue: ['\nDmitar:', "\nWell come, Blade Surname. I see you've not been resting on your laurels since last we met.\nWe've secured a new outpost, and a barrier was erected over the site not long ago.\nIf you would follow me, I'll show you to our newest encampment. We've drawn perilously close to the Dalriada now, so be on your guard.", '\nDmitar:', '\nWe are but a stone's throw from the Dalriada, much to the dismay of the IVth Legion, I would assume.\nThat their plans yet remain a mystery is concerning,
+Generated text 8:
+Title: A Bold Decision
+Dialogue: ['\nHien:', '\nYou have decided to aid us, then?\nVery good. I trust you are ready to depart?\nOf course you are. Pray join me at the Ruby Road Exchange when you are ready.', '\nHien:', "\nIt has been a long road, but thanks to you, we've made it to where we are now. It's time we repaid you for your help.\nBefore we set forth, I would like to give you something to remember our journey by.\nThere's a place near the village where we often meet friends from our past. I want you to take this and give it
+Generated text 9:
+Title: A Bold Decision
+Dialogue: ['\nVarthon:', "You've come at a good time, Forename. I have a rather urgent task for you.\nYou see, Master Garlond is presently organizing the preparations for the forthcoming auguries.\nWe need naught but his word to convince the auguries' quartermaster that the proper quantities of each element are being made available.\nWithout his authorization, however, I would be ill-advised to send even one sword to the guild.", '\nVarthon:', "I would have you travel to the Quicksand in the North Shroud. There you will find Master Garlond.", '\nGarlond:
+Generated text 10:
+Title: A Bold Decision
+Dialogue: ['\nDuvicauroix:', "\nWe're ready to go if you are.\nHead north along the road and you'll come across the bridge. You'll want to keep an eye on the wildlife─they can be rather tricky to track.\nThe Braveheart is our man in charge here. If you need to make a decision, let him know.", '\nDuvicauroix:', "\nThe Braveheart is our man in charge here. If you need to make a decision, let him know.", '\nDuvicauroix:', "\nThe wildlife are to the north. Follow the road and you'll come
+Generated text 11:
+Title: A Bold Decision
+Dialogue: ['\nTaciturn Miner:', "I know what you're thinking─why would anyone be interested in a job like this? Well, I'm not so stubborn as to deny a man who I think may be of use to the settlement.\nYou see, I've been tasked with finding a man who can fulfill my dream of owning my own home. I speak of course of the “dream house,” one of the most coveted of which is the Bannock.\nOf course, I know full well that not all dreamers are capable of fulfilling their dreams. That said, as I said, I have a strong conviction that this particular miner will succeed.
+Generated text 12:
+Title: A Bold Decision
+Dialogue: ['\nHien:', '\nWe have a new child, Forename. A daughter, yet a boy. I would have the world see her for the shining jewel that she is.\nBut I cannot make that happen on my own. As a proud father, I cannot abandon her. Not now.\nBut we may have options. There is a place the Dotharl Khaa is known to visit, and I would have you go there on my behalf.\nIt is not much, but there is food and a place to rest your head. Meet me at the Khaa Haadam Gates. There you will be told what awaits.', '
+Generated text 13:
+Title: A Bold Decision
+Dialogue: ['\nMogoon:', '\nThe others are waiting!', '\nMogoon:', "\nThe others are waiting!\nOh, it's you! You didn't hear, but the Mog Squad was contacted by the Alliance leaders. They want to discuss the plan for Dravania.\nThe Alliance leaders are already planning their departure. But I can't permit them to pass without an escort─and you're the best man for the job!\nTake this letter to the Mog Squad's barracks on the hill to the southwest. When they get here, make your way to the rendezvous point and use this rope to hang yourself from the cliff overlooking
+Generated text 14:
+Title: A Bold Decision
+Dialogue: ['\nSorocan:', '\nThe Admiral will soon be heading to the Medial Circuit, where she will make a historic announcement.\nI must go and join her─it is only fitting that I accompany her on this journey.\nIt is not much to look at, but Admiral Merlwyb has equipped us with the finest equipment at our disposal. It is time I took it all the way to the front lines.\nI will be along shortly. Do not keep your friends waiting.', '\nMerlwyb:', '\nWelcome back, Forename. Admiral Sorocan awaits you at the gates of the Medial Circuit
+Generated text 15:
+Title: A Bold Decision
+Dialogue: ['\nVarthon:', "\nIf you have no other business in the city, I would thank you kindly for your assistance.\nMy name is Varthon, and I'm the master of this estate.\nMy wife and I own this place together, and it's important to us both.\nI've made the difficult decision to leave my wife and children in Ul'dah.\nBut I realize that there are risks in doing so. I would ask that you speak with my children, if you would be so kind.", '\nOse Sigun:', "\nHm? Varthon's my father? Well, uh, yes.
+
+
+
+
+Generated text 1:
+Title: A Boy's Errand
+Dialogue: ['\nBoy03546:', '\nOh! Errand! Errand!', '\nBoy03546:', "\nErrand! Errand! It's a boy! Errand! Errand!", '\nBoy03546:', "\nErrand! Errand! Errand!", '\nBoy03546:', "\nErrand! Errand! Errand!", '\nBoy03546:', "\nErrand! Errand! Errand! Errand!", '\nBoy03546:', "\nErrand! Errand! Errand! Errand!", '\nBoy03546:', "\nEr
+Generated text 2:
+Title: A Boy's Errand
+Dialogue: ['\nTroubled Father:', '\nOh, hello there. I am terribly sorry to bother you, but could you help me in a time of need?\nMy son has been acting strangely of late and I fear he will be taken by the monsters.\nThe last time we spoke he said he had left the village and was traveling toward the sea. I would go and search for him, but I know full well that would be far from safe.\nMy only hope is to speak with you and see if there is anything you can do for him. Please, I beg you.\nMy son has been traveling toward the sea. Please, I
+Generated text 3:
+Title: A Boy's Errand
+Dialogue: ['\nTroubled Father:', "\nOh, hello there. I'm terribly sorry to have startled you. I've just now found out that my boy has been playing with a goblin. It's none of my business, I assure you.\nThe boy is still refusing to play, however, and I fear he will be sent to the goblin's maw without a paddle.\nMy boy is still refusing to play, however, and I fear he will be sent to the goblin's maw without a paddle. Please, will you not lend him a paddle?\nThank you! Here, take this as payment. He's due an apology and a reward
+Generated text 4:
+Title: A Boy's Errand
+Dialogue: ['\nMogoon:', '\nOh, adventurer! I just can't believe what I'm hearing! You there! You hear any younglings?', '\nMogoon:', "\n...Hm? No? What's that look for?\nSuspicious? Ohoho! That's well, then─I'll have to teach you to be so suspicious!\nFirst thing's first, you'll want to search the stables! There're places where the younglings go to train.\nI'll go ahead and tell the others─you go and tell the others.", '\nMogoon:', '\nThere
+Generated text 5:
+Title: A Boy's Errand
+Dialogue: ['\nMogomo:', 'Mogomo, my darlings! I fear I must have a wee favor to ask of you.\nI was just heading home from the markets, and I was hoping to buy something for my son, who is just starting out as a musician.\nBut I'm running out of stock, and I don't want to waste another moment, so I'm going to ask the guild for more. Could you help me by getting me more of their stock?\nIt's no small task, but I know exactly what I'm going to ask of you─it's for my son, you see. If you can get three
+Generated text 6:
+Title: A Boy's Errand
+Dialogue: ['\nYoungman03356:', 'Beg your pardon, sir. I wished to speak with you regarding a task I was asked to perform...', '\nYoungman03356:', 'A task that was meant to be simple yet vital─searching for a runaway boy. Alas, I was told my task was too dangerous and I was sent to await danger itself.', '\nYoungman03356:', 'I am now faced with making the same search, only this time, I will not be sent to await danger. I would seek out the runaway, that I might be of service to him. Will you do me this favor?', '\n
+Generated text 7:
+Title: A Boy's Errand
+Dialogue: ['\nDuvicauroix:', "You have time to spare, I trust?\nYou see, my boy's been asking after you─wanting to show his gratitude to you, he has.\nBut I'm afraid I can't spare any time to go and see him.\nInstead, I want to send him a gift, one that will show his appreciation─through the flowers you see before you.\nPlease, take this bouquet to him in the Acorn Orchard. It's just a few yalms away.", '\nDuvicauroix:', 'There you are. I hope he likes it!
+Generated text 8:
+Title: A Boy's Errand
+Dialogue: ['\nStern Sentinel:', "The girl's in the stable. I sent her off in my stead, but she's been gone far too long.\nI know it's tempting to want to find her, but─ Oh! I know you! You're a friend of the girl, aren't you?\nShe's a willful one, as I've told her. If she won't listen, we'll have to teach her a lesson. I'll teach her a lesson, you wait and see!", '\nTerrified Trainee:', 'My apologies, sir. I thought I was done for.', '\nStern Sentinel:', "
+Generated text 9:
+Title: A Boy's Errand
+Dialogue: ['\nSister:', "\nI've heard about all the good you've done for our village, and how much you've helped me. I want you to have this─a little something from the both of us.\nIt's nothing special, but I hope it proves enough to convince you to help more often.\nThe other day, I asked Alisaie what she wanted for dinner. She said something about wanting to treat you to a meal, and I guess that's all I needed to hear...\nIf I have a bit of extra coin, I sometimes do what I can to help out. This time, though, I wanted to go even further
+Generated text 10:
+Title: A Boy's Errand
+Dialogue: ['\nTaina:', "Oh, hello there. You're an adventurer, yes? If you have the time, there's something I would like to ask of you.\nI'm in need of two little birds─a ruby horn and a laurel leaf.\nThe horn will go to my brother, while the leaf will go to my sister.\nPlease, bring them to me.\nI can't very well leave them here to be devoured by wild beasts, so please be sure to give them a proper burial.\nI know they won't be around for a while. I'm sure my brother and sister will be looking for them.
+Generated text 11:
+Title: A Boy's Errand
+Dialogue: ['\nCaitlyn:', "Oh, it's you! Yes, you. The adventurer who helped save Ala Mhigo! I am so glad to have met you!\nI've been looking for a boy to play with. He's just a little too young to be trusted, I think. He gets along quite well with other children, but when it comes to actual combat, he gets a little too big for his britches.\nI want him to have some real fighting experience, so I'm planning to have him patrol the streets and catch criminals.\nHe can't possibly comprehend the concept of innocence until it's proven to him in a court
+Generated text 12:
+Title: A Boy's Errand
+Dialogue: ['\nDuvicauroix:', "\nAye─er, I've got another favor to ask of ye, lad. If ye've got the time, I'd like ye to visit the Quicksand in the North Shroud.\nThe place ain't exactly a haven for adventurers, what with the sin eaters lurkin' there and all, but it's got a few old men who've decided to up and move.\nI tell ye, it ain't a nice feeling being chased by a horde of gobbies...but they've no right to rob a man of his livelihood just because they can't stand to see the world from the eyes
+Generated text 13:
+Title: A Boy's Errand
+Dialogue: ['\nMopingway:', "\nI'm terribly sorry, mister. I didn't think I could ask a favor of a kind old man like your friend. I was just a bit...lost, I suppose.\nI was looking around an abandoned house and I found a little bundle of rags. I'm sure those weren't his, uh, rags, but I know he must have left them behind somewhere.\nWould you be willing to take these rags back to him? I don't suppose he'd be willing to return them himself, but maybe a friend of his would be...\nThank you. I don't suppose he'd be willing
+Generated text 14:
+Title: A Boy's Errand
+Dialogue: ['\nOurdilic:', '\nYou there! Yes, you. Have you got a moment?\nI was looking around an abandoned house and I found a map of Amh Araeng, with a big cross drawn on it. The place was abandoned, I know, but I think there might be some value to it.\nThe cross is the only thing on the map, but I wonder if someone might be willing to recover it. I can't leave the place unattended for too long─there might be beasts lurking about!', '\nOurdilic:', '\nPlease, recover my cross. It was in an abandoned house somewhere,
+Generated text 15:
+Title: A Boy's Errand
+Dialogue: ['\nMordoyashige03365:', 'Please, you must help me. I have been abandoned by my parents and have run off into the woods.\nI have no friends and I am hated by everyone. I know nothing and I am so very desperate.\nPlease, I beg you! I am beyond help and I cannot survive on my own.\nI left behind my things and I have run off into the woods. Please, you must find me and bring me back. I am beyond help and I cannot survive on my own!', '\nMordoyashige03365:', 'Please, I beg you! I am beyond
+
+
+
+
+Generated text 1:
+Title: A Brave Resolution
+Dialogue: ['\nAlphinaud:', '\nGiven the grim prospects facing us in the battle against the Empire, I am more than ever ready to lay down my arms.\nBut to do so would be to lay down my ideals. My place is here, not on some distant battlefield.\nI believe that we can still accomplish our goals if we come together as one nation, and I would be most grateful if you would join me in this endeavor.\nGo now, my friends. Rally your forces, and give your strength to our cause.', '\nCid:', "\nGood to see you again, Forename. I take it Y'shtola
+Generated text 2:
+Title: A Brave Resolution
+Dialogue: ['\nResistancegatekeeper:', '\nGreetings, sir. I am Resistancegatekeeper, and I serve at the behest of Eorzea's greatest heroes.\nAs you may already know, our nation was devastated by the Calamity. The devastation continues to this day, and our citizens have yet to recover their lives...\nThat is why it is so important that we fulfill our duty to protect the citizenry─and I can think of no other way to do so.\nThat is why I have decided to employ a new system that will allow us to more effectively coordinate our efforts.\nAlas, the citizenry is yet to receive
+Generated text 3:
+Title: A Brave Resolution
+Dialogue: ['\nAlphinaud:', "The resolution agreed upon by the Allied leaders is, by all indications, well within our capacity to carry out. But what of the resolution's author? It turns out that he's an Imperial informant.\nTo be sure, this is no occasion for complacency. As matters stand, we must take every possible step to ensure that the Resistance does not take their struggle for granted.\nAnd that means drawing the Empire's attention.\nTo that end, I have prepared a list of targets for the Maelstrom's surveillance. One of those who would benefit from such surveillance is Master Garlond, who commands the observation post at Flore
+Generated text 4:
+Title: A Brave Resolution
+Dialogue: ['\nAlphinaud:', '\nWe have a common enemy, Forename, and a common solution. We must not let the Empire take us by surprise at the pass of a barbican.\nI shall propose to Generalissima that we strike a double blow, spearhead of the Resistance and the Empire.\nOur joint endeavor will be a most arduous one, and we will require the support of the Scions of the Seventh Dawn. Pray join me in the Gates of Judgement, Surname.', '\nAlisaie:', '\nMy lordship─I am pleased to be of service to your cause.\nMy
+Generated text 5:
+Title: A Brave Resolution
+Dialogue: ['\nKohm Noskh:', '\nThe Eulmoran forces are massing for their attack.\nWe are ready to repel them, but our reinforcements─the Immortal Flames─are nowhere to be found.\nI would ask you venture forth to the eastern watchtower. There you may find Marshal Domanelli's squadron.\nI will join you as soon as I am able. And Forename...pray join us as well.', '\nKohm Noskh:', '\nThe Immortal Flames have been dispatched to the eastern watchtower. Seek them out and be ready to repel the Eulmoran attack.', '\
+Generated text 6:
+Title: A Brave Resolution
+Dialogue: ['\nResistancegatekeeper:', '\nGreetings, sir. I take it by your garb you are an adventurer?\nAye, I thought so. I am stationed here at the time a member of the Order of the Twin Adder, but I confess to knowing naught of your homeland's customs.\nIf you would indulge me, I would share with you some knowledge. It is, of course, highly classified.\nLet us speak of the resolution of the Black Wolf Clan.\nAccording to ancient legend, it was the final step in the journey to attaining divinity.\nUpon being branded a traitor, 'tis said their souls
+Generated text 7:
+Title: A Brave Resolution
+Dialogue: ['\nAlphinaud:', 'I have not the faintest inkling what has eluded me since last I departed, but I am positive that some means of resolution will be found. There is no cause for exaltation, I believe, but there is cause for celebration─and we have none in Whitebrim Front.\nIn the aftermath of the battle for Castellum Velodyna, the council of the three great houses of Ul'dah was held. Representative from each house were invited to take part in the forum.\nHouse Dzemael assembled a contingent of their knights and took the field. Their bearing was plain to see─it was a clear
+Generated text 8:
+Title: A Brave Resolution
+Dialogue: ['\nAlphinaud:', '\nThe resolution of the House of Commons will be no less than the resounding triumph of a courageous hero.\nHe will be succeeded by a successor who will embody the ideals upon which the House of Commons was founded. And in order to elect that successor, the people of the realm will have the opportunity to cast their ballots.', '\nJehantel:', '\nWelcome back, my friend. After your noble journey, I trust you have learned something of the heart of our Order.\nYou have heard us say that our purpose is to serve the interests of the realm. Indeed, our members do not merely represent
+Generated text 9:
+Title: A Brave Resolution
+Dialogue: ['\nAlphinaud:', '\nThe resolution we have reached is, essentially, a surrender.\nI understand that some may see this as a surrender, but to those of us who have lived through the horrors of the past, this is an opportunity to put the suffering of our people to an end.\nTo the Garleans, at least.\nI have not the slightest doubt that they will see this as an opportunity to further divide and conquer our nation. But to us, Ala Mhigo is a home─a home to those who have been denied their freedom. For too long, the people of this nation have been denied the opportunity to live peacefully.
+Generated text 10:
+Title: A Brave Resolution
+Dialogue: ['\nHamon:', "\nThe council of the Twelve is not for the faint of heart or frail of body. We must earn the trust of our fellow Scions, each and every one of us.\nYou are familiar with the “prayer of strength” which is the foundation stone upon which all Gridanian society is founded. Each Scion is expected to demonstrate his or her capacity for heroism in the form of deeds of valor and sacrifice.\nBut no matter how valiant your efforts, you will never be able to earn the respect of your fellow Scions if you cannot even name three of them.\nI would make a personal request of you, Forename
+Generated text 11:
+Title: A Brave Resolution
+Dialogue: ['\nPapin:', "\nIf all goes according to plan, we can finally begin moving the excavation forward. That's thanks to you, Forename.\nI'm sure you've had your share of headaches along the way, but it's finally time to break out the big red bricks!\nThe site is fairly well-worn, so I'd wager you can find something of interest even after the dust settles. Let's have a look, shall we?", '\nPapin:', "\n...A marble head? Or perhaps a sculpture of some sort? I've no doubt there's something there!", '\nPapin:', "\n
+Generated text 12:
+Title: A Brave Resolution
+Dialogue: ['\nHugubert:', "\nThe council of the Twelve is not for the faint of heart, my friends. It is a time to forge bonds of friendship and respect, not to be trifled with.\nTo ensure that we do not disappoint the great wyrm Hraesvelgr, we must needs overcome Lord Vauthry's formidable defenses.\nHe stands sentry in the north, watching over the door to the inner sanctum. Let us strike at the heart of his stronghold, and drive the Vauthry out.", '\nHugubert:', '\nThe moment we open the door to the inner sanctum, Vauthry will
+Generated text 13:
+Title: A Brave Resolution
+Dialogue: ['\nZlatan:', "\nAfter a moment of deliberation, we decided to turn to you, Blade Surname. We believe you may have a role to play in facilitating a peaceful resolution of the Garlean question.\nAccording to our readings, the heretics' primary mode of communication is through the use of special devices known as “scrambled texts.” These texts are constructed of a number of glyphs and are designed to be difficult for even our best soldiers to read.\nIf you are able to decipher two of the texts, we would be grateful if you could deliver them to Margeria.\nMargeria will join you in the chamber
+Generated text 14:
+Title: A Brave Resolution
+Dialogue: ['\nHien:', '\nKokomo will not surrender herself to you!\nNot so fast! If you are to convince her, you must first convince her brother.\nHe is a clever man─far more so than the rest of us. He knows the secret routes to Hingashi, and is doubtless well versed in our language.\nHowever, he is not so clever as to completely ignore the advice of our elders. I would prevail upon you to speak with him.\nHe is likely in the plaza to the east. There, you will find him.', '\nNakama:', '\nWhat business have you with
+Generated text 15:
+Title: A Brave Resolution
+Dialogue: ['\nResistancegatekeeper:', '\nGreetings, sir. I serve as gatekeeper for the Faithful and True, and I take it you wish to proceed into the heart of the Resistance territory.\nYou are correct to do so, for we stand at the crossroads of two great chains─the Dravanian and the Garlean.\nThe Dravanians, who seek to bend all their strength toward their great empire, have no place here. The Garleans, on the other hand, see this land as their rightful domain, and have no desire to see it subjugated.\nBut neither side can well be said to have honor, for neither
+
+
+
+

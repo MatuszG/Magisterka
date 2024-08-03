@@ -1,0 +1,98 @@
+Generated text 1:
+Title: A Bargain Struck
+Dialogue: ['\nSerendipity:', "\nI've been following the markets ever since I got here, and I'm finding that─ Oh, that's not right. I mean, I was following the markets, but I'm not following you. I'm following the─ Oh, that's not right. I mean, I was following the─ Oh, that's not right. I mean, I was following the─ Oh, that's not right. I mean, I was following the─ Oh, that's not right. I mean, I was following the─ Oh, that's not right. I mean, I was following the─ Oh, that's not right.
+Generated text 2:
+Title: A Bargain Struck
+Dialogue: ['\nJantellot:', '\nThere is a merchant traveling with me─a man of some importance, in fact─who has a special request for a certain adventurer.\nHe is traveling with a retainer, and I would have you deliver it to him in my stead.\nThe merchant holds the key to a fabled city─the prize in question is a shipment of rare spices bound for the East, and I would have you deliver it to him in my stead.', '\nAlphinaud:', '\n...Is that so? You should be glad to hear that we are close─I mean, we should be much closer
+Generated text 3:
+Title: A Bargain Struck
+Dialogue: ['\nGildon:', "\nAh, <Clickable(<If(GreaterThan(PlayerParameter(52),0))><Player's Grand Company Rank>)/> Surname. I hope you've not been away too long.\nYou see, the guild has need for a capable adventurer who can fill the role of retainer.\nI speak of a man named Gildon, who was recently transferred from Gridania's Moon Gates. He joined the guild some time ago, and is currently assisting our newest recruit, a young Hyuran woman named Minfilia.\nGildon is an accomplished retainer himself, having served as a
+Generated text 4:
+Title: A Bargain Struck
+Dialogue: ['\nSeverian:', '\nWell, well! It is good to see you again, Forename.\nYou see, I am pleased to say that my latest batch of refined potions─crystals of unparalleled beauty─is now complete!\nWhat's more, I have just received an order for nearly four thousand vials─yes, you heard me right. Yes, four thousand vials!\nHmmm... If I am to meet my quota for this month's sales, I would need more than four thousand vials. And I know just how I can make it happen.\nWell, I will need your help to procure the crystals.
+Generated text 5:
+Title: A Bargain Struck
+Dialogue: ['\nMogoon:', "Oh, adventurer! You're a true one, and you don't scare easily! Yes, I am in desperate need of a reliable adventurer!\nI've been searching high and low, but I can't find a single one! I can't wait to meet this adventurer─but only if you can deliver it on my behalf!", '\nMogoon:', "I've sent out multiple invitations, but no one has come forward!\nThey say they're traveling to the Near Eastern Wilds, but why would anyone choose such a dangerous place to train?\nI'm sure it's just a coincidence, but I have
+Generated text 6:
+Title: A Bargain Struck
+Dialogue: ['\nNu Mou Culinarian:', '\nI would do you a favor, if you could help me with something.\nI was out for a stroll when I happened to run into a merchant. He was carrying a load of goods, but I ran away from him when I realized what he was about.\nNow, I would have you go and retrieve the goods for me. Please, find the merchant and return with the goods.', '\nNu Mou Culinarian:', '\nI would have you go and retrieve the goods for me. Please, find the merchant and return with the goods.', '\nNu Mou
+Generated text 7:
+Title: A Bargain Struck
+Dialogue: ['\nGildon:', "Ah, Forename. You're back! What news have you brought?\nA band of outlaws has struck a bargain with a local trader─and the spoils of their labor are about to flood the markets!\nAccording to the agreement, the bandits will exchange stolen goods for goods from the Crystarium, and the bandits themselves will accept payment in the form of gems and other precious objects.\nAye, this is a fine opportunity to expand the bandit faction in Thanalan, if only we knew what they were plotting.\nI would see you join me in a thorough investigation, but I fear you are too
+Generated text 8:
+Title: A Bargain Struck
+Dialogue: ['\nMaucolyn:', "It's been a pleasure, Forename. If you've a moment, I could also use a hand with some basic repairs.\nI was able to procure a replacement sprinkler system from the Elezen, but the sprinkler itself is no more than a simple wooden tube.\nThe sprinkler is essential to our operations here, but it is also something of a family heirloom. I'd like you to take it to my husband, Gundobald, and tell him of the good news.\nTell him that his wife's safe and sound, and that I'd like to offer him a generous settlement as thanks.
+Generated text 9:
+Title: A Bargain Struck
+Dialogue: ['\nZlatan:', "\nAccording to Master Gerolt, the price of passage through the Resistance's Front Gate was surprisingly low.\nWe've negotiated a reasonable agreement, he says, and the price is due to be delivered to House Dzemael.\nYet despite our best efforts, we still have no lead on the merchant who would be responsible for the payment. I fear we may have made a terrible mistake by pursuing this course.\nIf Master Gerolt is to be believed, this merchant should be found in the Black Shroud, likely in the city of Ul'dah. We need not pursue this merchant further, however─as I explained, we
+Generated text 10:
+Title: A Bargain Struck
+Dialogue: ['\nGiott:', '\nI have it on good authority that the great wyrm Nidhogg struck a deal with the local fur trader in the hopes of obtaining valuable fur.\nThe fur, it is said, was then sent to be used to make blankets for the soldiers of the Allagan Empire.\nI myself am but a simple fur trader, but I have a son who works for me as a courier. He has been instructed to go to the market and fetch four bags of fur at once.\nI would ask you to procure the fur for me, but I am afraid you are not equipped to do the job. You are a level
+Generated text 11:
+Title: A Bargain Struck
+Dialogue: ['\nNigen:', "\nA bargain indeed! What's that look for? I'm a merchant, and I require goods at once.\nYou see, I was looking for a certain someone─a merchant who specializes in rare and curious books. I'm quite familiar with his work─as am my client─so I thought I'd ask if he might be able to help me.\nAnd, as I trust you know, he is an accomplished and accomplished individual. You would do well to pay him a call.\nI would be most obliged if you could meet with him for a time and see if he can provide for my needs.", '\nN
+Generated text 12:
+Title: A Bargain Struck
+Dialogue: ['\nY'shtola:', "I am pleased to report that we have acquired from the Garleans a trifling quantity of raw magitek.\nIt was not easy, but we succeeded in completing a contract with the manufactory of that city─Gyr Abania. The contract stipulated that any magitek that we purchased from their facility must be immediately made into weapon parts.\nWith this in hand, we were free to take delivery of the magitek parts themselves.\nIt is my hope that the parts we have procured will prove to be of use to the Resistance forces.\nI should mention at this point that while we have
+Generated text 13:
+Title: A Bargain Struck
+Dialogue: ['\nAethelthryth:', "\nHm? You're looking for work, are you? Then I've got a job for you.\nI was recently approached by a man who claimed to be a goldsmith. Upon learning I was a merchant, he immediately turned to me for work.\nHe's apparently quite skilled in the use of goldsmith's tools, and I'm happy to have found him.\nHe needs a pair of bronze bells, and I'm willing to pay a fair price for them.\nThere are two locations where I would like to find them. One is on the east bank of the River Velodyna,
+Generated text 14:
+Title: A Bargain Struck
+Dialogue: ['\nDadanen:', '\nGood evening, sir. A pleasure to make your acquaintance. My name is Dadanen, researcher and curator of ancient Bozjan artifacts.\n...What? A gift? A gift for a researcher, no doubt, but a gift nonetheless!\nYou see, I have been asked to make a gift for a dear friend of mine─a man who is quite well known in his field, you see─and it would not do to send a gift without receiving an adequate thank-you.\nI would be most honored to present this gift to my friend, but I need not explain the situation in detail here. For
+Generated text 15:
+Title: A Bargain Struck
+Dialogue: ['\nGiott:', "Giott, I've got a job for ye, lad.\nI'm plannin' to gather supplies for the Resistance, but I need someone to deliver 'em on my behalf.\nThat'll be me.\nI need you to bring me a sack o' dried fish, some dried seaweed, and some dried fish liver.\nNot fancy, but easy on the stomach, I reckon.\nBring me the fish, and the seaweed, and I'll see that you get paid.", '\nGiott:', "Giott, lad, I need you to bring me dried fish, dried seaw
+
+
+
+
+Generated text 1:
+Title: A Beeautiful Plan
+Dialogue: ['\nBarryn:', "It's a good thing I'm not here to see you're a bloody beekeeper. You're too bloody clever by half.\nI've got a job for you, and it's a job that involves more than just finding bugs. You need to find someone who can build me a hive, and that someone is the “noble savage” as you know it.\nNot that I need to tell you this. If you're up for the task, speak with the fellow by the bookshelves to the north of here.", '\nBarryn:', "You've found the right person, and now you
+Generated text 2:
+Title: A Beeautiful Plan
+Dialogue: ['\nVarthon:', "I've come up with a brilliant plan, one that should save us a fortune in fines.\nI need a swarm of honeybees to pollinate my flowers, but I'm not entirely sure how I'm going to get them to swarm.\nBut I'll be damned if I'm going to let the poor bees die for want of a proper reward!\nI know of a way to do it, though. In the past, I've used honeybees as a lure to attract wild bees, but I'm sure you've seen how poorly that worked out.\nInstead, I want you to bring me four freshly made,
+Generated text 3:
+Title: A Beeautiful Plan
+Dialogue: ['\nSwygrael:', "\nAh, I thought you might be able to help. I've been tasked with creating a new hive, but my plan is to spread out and pollinate flowers in the surrounding area.\nHowever, a certain...colossus was spotted by a passing traveler, and the whole settlement has been on high alert ever since.\nI would be much obliged if you could dispatch the giant bee-stymier, Bigger Bee-Man, in my stead.", '\nSwygrael:', "\nBigger Bee-Man is no more? Oh dear... You are a godssend. I will have to resubmit
+Generated text 4:
+Title: A Beeautiful Plan
+Dialogue: ['\nMogmont:', "\nMogmont here! I've got a plan to bring peace to the forest, but I need someone to help me get it started.\nI need you to gather four bee-sized hornets, three hornet stingers, and three bee-sized midges. Once you've got them, bring them to Mogmont and we can get started.", '\nMogmont:', "\nYou'll find the hornets, stingers, and midges in the cave to the northeast. Once you've got them, bring them to Mogmont and we can get started.", '\nMogmont:', '\
+Generated text 5:
+Title: A Beeautiful Plan
+Dialogue: ['\nHirase:', "\nNow that things are relatively settled, I think it's time we tried something different.\nInstead of worrying about what's good for the hive, we should try to find a way to make the hivework more efficiently.\nFor this, we'll need bees to help us. However, as the chief has explained, a single bee is ill-suited to the task.\nInstead, we need you to gather four varieties of Apis suber, or straw bumblebees, in order to create a suitable habitat for the bees.\nApis suber is native to western Gyr Abania, and its small
+Generated text 6:
+Title: A Beeautiful Plan
+Dialogue: ['\nMogoot:', "\nWell, if it isn't our dear friend here! My name's Mogoot, and I'm a researcher here at the Wonders!\nYou see, the hive's been in a state of disrepair for a while now, and the bees have taken it as an insult to our work─they don't respect our work.\nBut I've had it up to me eyeballs with them on more than one occasion. And I swear, if a hornets' nest was placed right here, they'd be out by now!\nThat's why I've decided to take up the cause of the bees with a new plan!
+Generated text 7:
+Title: A Beeautiful Plan
+Dialogue: ['\nDuvicauroix:', "I would rather not have an army march upon our doorstep, but I'm willing to be convinced otherwise.\nI would rather not have an army march upon our doorstep, but I'm willing to be convinced otherwise.\nI would rather not have an army march upon our doorstep, but I'm willing to be convinced otherwise.\nI would rather not have an army march upon our doorstep, but I'm willing to be convinced otherwise.\nI would rather not have an army march upon our doorstep, but I'm willing to be convinced otherwise.\nI would rather not have an army march upon our doorstep, but
+Generated text 8:
+Title: A Beeautiful Plan
+Dialogue: ['\nFufucha:', "Well, if it isn't Forename.\nAs you know, the bees have been threatening to ruin our crops of late. They're smaller, less aggressive than their wild counterparts, and they're certainly not the messiah we've been led to believe.\nYet the beekeeper's dilemma is hardly unique. As the number of pests and pests continues to rise, so too does the need for more and more pesticides.\nIn fact, a recent study by the U.S. Environmental Protection Agency found that, in order to control pests, the U.S. government has to spend more than one-tenth of its budget
+Generated text 9:
+Title: A Beeautiful Plan
+Dialogue: ['\nFufucha:', "\nWe are in dire need of a brave soul to help us repel the might of the Empire's forces.\nI mean that you must be prepared for the worst. I would have you infiltrate the Garleans' stronghold and destroy whatever they have in store for us.\nHowever, I would also ask that you consult with my subordinate, the field commander. I would also like you to keep an eye on our scouts.\nI would also like you to keep an eye on our scouts. Please speak with the commander if you would like to know more.", '\nFufucha:', "\nThe field commander would have
+Generated text 10:
+Title: A Beeautiful Plan
+Dialogue: ['\nTorsefers:', "\nI can't say for sure where the buggers came from, but I have a hunch.\nMaybe they got out of the water somehow. Maybe they got smuggled in from somewhere. Or they got mixed up in some scheme I can't even guess at.\nWhatever the reason, I'd say they're not going to make it out of this one alive.\nBut I can't give up on them just yet. I've got three buggers that need rescuing, and I'm willing to pay good coin for each one.\nI just need you to get them all to safety, and that'll
+Generated text 11:
+Title: A Beeautiful Plan
+Dialogue: ['\nPreston:', "\nWell, I don't see why not, but...\nYou might be able to help out a fellow beekeeper, if that's your sort of thing.\nI've got a proposal that I'm hoping will be quite amenable to a change in approach. It involves setting out hives in the wild, but instead of using them as a hive for nectar-seeking insects, we're going to use them as a place to store dead bees.\nThat's all well and good, but I'm worried that doing so will come at the expense of tending to the bees themselves.\nI'd be grateful if you
+Generated text 12:
+Title: A Beeautiful Plan
+Dialogue: ['\nGosetsu:', '\nIf we leave the bees to their own devices, they will be swarmed by the time we return.\nIn order to encourage them to settle further afield, we plan to make honeybees visit an area in the west of Koshu.\nHowever, as the area is surrounded by beasts and is not particularly hospitable, we decided to entice them with a gift.\nI shall go and collect the honeybees at once, while you go and collect the bait.\nShould you find it difficult to collect the bees, pray give them a blow with my hammer.', '\nGosetsu:
+Generated text 13:
+Title: A Beeautiful Plan
+Dialogue: ['\nDmitar:', "\nGood to see you again, Blade Surname. As it happens, we've received word that the hive's health is improving.\nThat's good news, but we still have work to do if we're to protect the bees' future.\nHenceforth, all new creations must undergo the Apotheosis Protocol. If a hive is to continue to produce honey, they must be given the chance to become something greater than the sum of their parts.\nThat means no more mindless drones, no matter how cute. Every bee needs a soul, and you'll help make that possible.\nFor this, you'll
+Generated text 14:
+Title: A Beeautiful Plan
+Dialogue: ['\nHirase:', "Well, if it isn't the esteemed Forename. Might you be a bit more forthcoming with your plans?\nI was planning on sending some bees out to gather nectar, but I think a more efficient method is to have them go around collecting fruit from nearby trees.\nI will need you to get them to the right place, but I need you to have the nectar in hand first.\nYou should be able to find some trees to the southeast of here. Use the nectar-water to attract the bees, and then bring them back to me.", '\nHirase:', "I'm sure you
+Generated text 15:
+Title: A Beeautiful Plan
+Dialogue: ['\nAgnys:', "\nHello? Hello, how might I be of service?\nI've been tasked with gathering ingredients for a new dish, but I'm quite short on beeswax candles.\nThey're essential to our recipe, but I'm afraid I'm unable to procure them myself.\nYou're a familiar─you know how to handle such a situation, right? I'm sure you would be willing to help me.\nI'm sure I can find beeswax candles somewhere, but I'm afraid I'll have to search in the vicinity of my hive. Will you help me search?\nYou can search in the vicinity
+
+
+
+

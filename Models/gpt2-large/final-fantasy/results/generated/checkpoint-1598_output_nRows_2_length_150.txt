@@ -1,0 +1,98 @@
+Generated text 1:
+Title: A Bargain Struck
+Dialogue: ['\nKoharu:', "\nGodsdammit! Why, if I could just─ Oh, gods! I'm sorry! I just got a terrible idea!\nI was thinking of making a trip to the Crystarium and trading for the crystals. But I got carried away and...\nWait, hold a minute! You're one of those─wait, don't you look like an adventurer! You're a good-looking sort of bloke, I can see it!\nI see! Well, I'm sure you've an idea what to do with yourself, but if you have a moment, I could really use some help.\n
+Generated text 2:
+Title: A Bargain Struck
+Dialogue: ['\nSerendipity:', "\nThis is it, Forename. We have a deal, if you're interested in finding out more about the guild.", '\nWeary Observer:', "\nIf I'm not mistaken, you're the adventurer who helped me with my research, aren't you?", '\nSerendipity:', "\nYes, I am. I need someone to test the guildship's systems for me. I'll go ahead and tell you what to expect, then.", '\nWeary Observer:', "\nThat was a waste of─ Oh, you're not the one who helped me with my
+Generated text 3:
+Title: A Bargain Struck
+Dialogue: ['\nDmitar:', "\nAs you may have noticed for yourself already, there's been quite a bit of activity around here.\nIt all started with a shipment of supplies bound for Castrum Centri, but as you can see, it's been a rather long wait.\nSo I thought it best to strike a deal with the Garleans, and see what they can offer.\nI've been asked to go ahead and sort out the rest of the arrangements. Be sure to pay your respects to Ser Redwald.", '\nRedwald:', "\nPardon me, but I believe we both know what to do with you. You are
+Generated text 4:
+Title: A Bargain Struck
+Dialogue: ['\nWichard:', "\nAh, adventurer. I was hoping you might come by. The two of us were talking about the bargains we made earlier.\nWe set up a stall at the market to sell our wares, and a merchant caravan passed through just the other day. When they came to collect their wares, they asked if we wanted them delivered to the front lines.\nI said no, but the merchant caravan is of course right. If you were to deliver the wares to the front lines, that would be a great help to us.\nWe had the goods loaded up and ready to go when they came through, but the
+Generated text 5:
+Title: A Bargain Struck
+Dialogue: ['\nSerendipity:', "\nOh, you're that visitor who's been making the rounds with your adventurer friends. I know I've seen you around here before─mayhap I know a person who might be able to help you.\nA few days ago, I was in a tavern near the Drowning Wench. The owner was having a bit of trouble filling her stock of supplies, and I volunteered to go in her stead.\nWhen I arrived, she was already quite busy, but the manager assured me that there was plenty of stock left in the storerooms. I was right─there were.\nI went to take a look
+Generated text 6:
+Title: A Bargain Struck
+Dialogue: ['\nYugiri:', "\n<sigh> I suppose we should have a word.\nI've been tasked with overseeing the delivery of this new shipment of goods, and I've made it quite clear that we're not to pick up anything from the front lines─I want you to bring me any goods you find.\nI've sent word to the others, but I fear they're all too busy to bother. I don't know what they've been doing, but if they've got aught to tell, we'd be grateful if you could do it.", '\nYugiri:', "\nI've sent word to the others, but
+Generated text 7:
+Title: A Bargain Struck
+Dialogue: ['\nDrydox:', "\nHello, adventurer. Do you happen to be visiting the Shroud? I hear there's a good deal of coin to be had there.\nYou are? Good. I'm not sure I understand your business here. I hear the Shroud is said to be a place of contemplation for the soul. I understand that many adventurers seek the tranquility of the wood, but I never heard of anyone going there to seek the tranquility of coin.\nBut of course, if you do decide to venture there, you will need to pay for your passage. A good many of the travelers who come to the Shroud are eager to pay for their
+Generated text 8:
+Title: A Bargain Struck
+Dialogue: ['\nCaitlyn:', '\nThe Admiral has told me of your success with the kobolds.\nI understand you are eager to see the kobolds in action. I ask that you escort a group of kobold scouts to Little Ala Mhigo.\nThe scouts were dispatched to Little Ala Mhigo to look for supplies. I expect them to arrive soon.\nI hope they have brought provisions and a large number of kobold prisoners. Let us hurry, before the kobolds attack.', '\nCaitlyn:', '\nI hope they have brought provisions and a large number of kobold prisoners
+Generated text 9:
+Title: A Bargain Struck
+Dialogue: ['\nMogzun:', "\nAh, you're back, adventurer. If you have a moment, I've a request for you.\nWe've been asked to inspect the cannons at the Wolves' Den. While we were there, our scouts happened upon a particularly interesting weapon.\nWe were hoping to see what it is capable of, but it seems the cannons were not meant to be used for that. The man who made the decision to turn them into cannons was none too fond of the idea, and so I imagine he wishes to keep them for himself.\nAs such, I want you to go and speak with the man, and see what he
+Generated text 10:
+Title: A Bargain Struck
+Dialogue: ['\nAimebert:', "Aye, I'm Aimebert. I'm a merchant with a penchant for doing deals. I recently saw a traveler pass through here─a man with an eye for bargainin'. I asked if he was from Ul'dah, and he said he'd just passed through on his way to Dotharl Khaa.\nWell, I thought a deal like that would set him up nicely with a decent lodging. But it's been no use─he doesn't seem to have the stomach for the work.\nI've tried calling him, but he never picks up. I've tried sending letters, but he never responds.
+Generated text 11:
+Title: A Bargain Struck
+Dialogue: ['\nAimebert:', "\nGodsdammit! That damned rat bastard nearly ate me!\nI thought I was done for, but now I have to go after him. Please, see if you can't find him and put an end to this nonsense!", '\nAimebert:', "\nI know this sounds like an odd thing to ask, but could you see if you can find that rat bastard?\nI'm sure you've seen the look on his face. He's obviously been fed up with this whole business.", '\nAimebert:', '\nI hope that's not what he means...', '\n
+Generated text 12:
+Title: A Bargain Struck
+Dialogue: ['\nMordoyash:', "The price of my wares has been reduced to the value of your service─a token of my appreciation for your efforts. I must confess, I am pleased to have procured a suitable number of weapons.\nYou see, a number of my fellow merchants have been working tirelessly to expand their operations in the wake of the Calamity.\nThey have succeeded in opening trade routes to the Far Eastern Front, but have yet to venture to the southern front. It is my hope that you might be willing to assist them in their endeavor.\nYou see, I believe that the merchants who make up the bulk of the front line
+Generated text 13:
+Title: A Bargain Struck
+Dialogue: ['\nGigi:', '\nGigi has a job for you, if you are willing.\nYou are a familiar, yes? If you do not mind doing a bit of work for me, I will provide you with the necessary materials.\nWe are in need of materials for the creation of a new prototype of a new type of weapon.\nAs you know, the creations of our colleagues are quite advanced, and they are expected to perform quite well in battle.\nHowever, they lack one important ingredient─crystals.\nIf you were to slay a few of them, I am sure you would have a good feeling for the quality of
+Generated text 14:
+Title: A Bargain Struck
+Dialogue: ['\nAstrille:', "\nOh, thank goodness you're here. I was looking forward to learning of your adventures with the guild.\nI heard you and the other members of the Adventurers' Guild have been negotiating a contract with the Eorzean Alliance for the procurement of materia.\nIt's a very fair deal, I must say. The Allied forces will be compensated for the materia they procure from the Eorzean Alliance, and you'll be getting your fair share of coin for your efforts.\nThe problem, however, is that the contract stipulates that the Eorzean Alliance will not share the profits with the countries
+Generated text 15:
+Title: A Bargain Struck
+Dialogue: ['\nSerendipity:', "\nI've been asked to look into a situation that seems to be of great interest to you.\nA merchant from the Crystarium has arrived with some crystals that appear to be of some use to the Resistance. I've been instructed to inspect them.\nI can't rightly say who it was, but I'm sure they were meant for you. Should you find any of them, do deliver them to my assistant, Serendipity.\nI'll make sure to pass on your message to her.", '\nSerendipity:', "\nI've been asked to inspect the crystals. Make
+
+
+
+
+Generated text 1:
+Title: A Beeautiful Plan
+Dialogue: ['\nMogzun:', '\nWe have a problem, adventurer. We have been asked to capture one of these bees for the purpose of testing their strength.\nThey are not very aggressive, but one of our men has been injured, and he is not sure where he is. We ask you to go to his aid.\nWe cannot afford to send an adventurer alone, but I think you would be able to handle this job.\nPlease, search for the injured man and see if he is all right. Take him to our camp at the north end of the stream.', '\nPop:', '\nYou sense a hostile presence
+Generated text 2:
+Title: A Beeautiful Plan
+Dialogue: ['\nKerstiis:', "\nIf I'm to make my way to Rhalgr's Reach, I'll need to make use of a beeautiful plan, you see.\nYou see, the hive's in a dire state. All that's left is to get to work on the bees.\nI need you to collect some beeswax candles from the hives at the south end of the hive, and bring them here to me.\nThe beeswax candles can be found by the stalks growing on the beeswax trees at the south end of the hive. Please hurry─I'm certain the bees will be in a
+Generated text 3:
+Title: A Beeautiful Plan
+Dialogue: ['\nFalkbryda:', "\nI was just about to make my way to the Maelstrom, but it's been a busy day for me.\nI had a dream the other day─I was traveling through Ala Mhigo, and I saw a bee-sized creature, glowing white in the light of the camp. I could not help but think that it could be the savior of the camp.\nIt looked to be a member of the guard, but I cannot say for sure─I saw it only once. I did not see it again until I was leaving for the camp.\nPerhaps it is still there─I have not gone
+Generated text 4:
+Title: A Beeautiful Plan
+Dialogue: ['\nEsmour:', "As you may have noticed, there are many new visitors to the settlement. You see, the settlers have been driven out of their homes by the Garleans.\nNow, as they are not averse to cooperation, we have decided to share the fruits of our labor with them. And I have good reason to believe that they might be of use to our cause.\nI have asked my comrades to gather five varieties of honeybees for us. They should be able to provide the bees in the area with the necessary nutrients.\nWe shall begin the preparations when you are ready.\nNow, if you would follow me.", '
+Generated text 5:
+Title: A Beeautiful Plan
+Dialogue: ['\nMogzun:', "\nThe plan I came up with, adventurer, is simple but effective. We need not hunt all the bees in the world just to obtain honey─we can simply pollinate them.\nWe use special hives made from beeswax collected from the nearby hives of the giant bumblebees. We'll pollinate the bees from these hives and then we'll have a goodly amount of honey.\nWe needn't worry about the bees themselves─they're all busy humping the ground, or running amok, as they are. But if you can get a good strike on any of the three, we'll
+Generated text 6:
+Title: A Beeautiful Plan
+Dialogue: ['\nTaymor:', "\nAh, there you are, Forename. I gather you are busy completing your preparations for the forthcoming banquet. I trust you have spoken with my associate, the chef, who is overseeing the preparations at the moment. I know not what your tasks entail, but I imagine they are not the most pleasant.\nThe man has given you an ultimatum: either serve me meals of your choosing, or I shall have your head for the time being.\nI'm sure you are aware that I'm a rather busy man. If you would spare a moment, I might explain the situation.", '\nChef:', "\n
+Generated text 7:
+Title: A Beeautiful Plan
+Dialogue: ['\nUrianger:', '\nIf it is not an imperial vessel, then you must be the one who has sent it. I take it you have heard the tales, yes?\nIf you wish to travel to the surface, you will need to first obtain a suitable animal to carry you there.\nThe bumblebees I have just mentioned can be found in the Central Shroud.\nBe warned: if you do not feed your animals regularly, they will become quite aggressive. You should not have long to wait, however─I can assure you that I will make sure your efforts are rewarded.\nOnce you have brought me three bumblebees,
+Generated text 8:
+Title: A Beeautiful Plan
+Dialogue: ['\nBerengeoit:', "\nGodsdammit, I've got a problem! I need a delivery of honeybees, but I don't know how to get them.\nIf you're willing to help, there's a hive by the south entrance of the hive. If you hurry, you might be able to find them.", '\nBerengeoit:', "\nIf you're willing to help, there's a hive by the south entrance of the hive. If you hurry, you might be able to find them.", '\nBerengeoit:', '\nDid you find the bees?', '\nBerenge
+Generated text 9:
+Title: A Beeautiful Plan
+Dialogue: ['\nGeva:', "\nThere's one last thing I'd like to ask of you.\nYou see, I want you to go to the Crystarium and gather honeybees for me. I have a hive to which I can delegate my orders.\nThe bees are not the most docile creatures in the world─they're rather aggressive, to be sure, but they're not like to hurt you.\nBut if you're willing to risk it, then I ask that you begin by taking the bees to the south of here.\nOnce you've made them comfortable, I'll let you know what to do next.", '\nGeva
+Generated text 10:
+Title: A Beeautiful Plan
+Dialogue: ['\nGildon:', "\nI must have been born in this age. I have a feeling I know someone who's had a similar experience.\nWe were told to gather beeswax and straw and then make a poultice. I do not recall seeing my dear departed grandmother there, but I have heard she may have been in the nearby village.\nI have never seen a poultice made of beeswax and straw before, but I imagine it would be quite effective. I will go and speak with her.\nIf you could gather the beeswax and straw for me, I will see you rewarded for your trouble.", '\n
+Generated text 11:
+Title: A Beeautiful Plan
+Dialogue: ['\nGildon:', "\nI see you made it to the last step, then.\nWe've got one last little request for you, if I may.\nWe've been asked to collect a certain flower for a friend of mine. It's a common one, though we've never seen it before.\nI'm sure you've heard of it, but the flower's said to grow in the caves northwest of here.\nI'm not sure if it's worth the trouble, but you might try to find it for us.\nPlease, give it a try.", '\nGildon:', "\nYou've found the
+Generated text 12:
+Title: A Beeautiful Plan
+Dialogue: ['\nBeesmetall:', "\nAdventurer, I have a task for you. To gather four bottles of honey from the hives around the site, you must slay four beeswax bats.\nThe bats have been sighted in the vicinity of the hives, and I fear they will drive you mad if you keep on chasing them. Please, slay four of them, and I shall see to it they are gone for good.", '\nBeesmetall:', '\nYou have returned, adventurer, and with the honey? I can hardly wait to see how it tastes!', '\nBeesmetall:', "\nAh
+Generated text 13:
+Title: A Beeautiful Plan
+Dialogue: ['\nLyse:', "\nI'm sure you're wondering what I'm doing here─I'm an adventurer, and I've been asked to assist the Order of Nald'thal in finding a new beekeeper.\nIt's a bit of a backbreaking job─we've only got one beekeeper, and we've no way of knowing what sort of beekeeper will be suitable.\nBut I thought you might be able to help, so I asked for your services. Will you join me?\nOh, thank you! I'm sure you'll have a job of some sort to ask of you.\nThe Order of Nald'thal has
+Generated text 14:
+Title: A Beeautiful Plan
+Dialogue: ['\nGigi:', "\nYou! Adventurer, please help me with a favor of mine. I was planning to make a bee-line for the hive, but I ran out of honey.\nI want you to collect some honey from the hives on the other side of the bridge.\nThe bees there will be in a most agitated state, so you may need to wait a bit. I will make sure that the bees are taken care of by you.\nHmmm. You'll be needing this. Go and collect the honey from the hives to the east of the bridge.", '\nGigi:', '\nYou've returned
+Generated text 15:
+Title: A Beeautiful Plan
+Dialogue: ['\nFalkbryda:', "\nIf you have a moment, could you spare a moment? I have a task for you.\nWe have a new beekeeper on the premises, and I have a task for him. I wish to know if he is capable of performing both tasks.\nI will ask him to inspect the apiaries and keep track of their progress.\nI will ask him to look at the apiaries and keep track of their progress. Do you think you would be able to do both tasks?", '\nFalkbryda:', "\nIf you have a moment, could you spare a moment? I have a
+
+
+
+

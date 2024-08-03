@@ -1,0 +1,147 @@
+Generated text 1:
+Title: A Bargain Struck
+Dialogue: ['\nHilmar:', '\nGreetings, sir. I am Hilmar, a gleaner with the Yellowjackets.\nI have a job for you, and it would be a pleasure to have you assist me.\nI would have you procure four sacks of marzipan, and deliver them to Miah Molkoh in the Amalj'aa stronghold.\nI would have you procure
+Generated text 2:
+Title: A Bargain Struck
+Dialogue: ['\nNimie:', "\nAh, good to see you again. I hope your journey has not been without its share of hardship.\nYou see, the day before our arrival, we were attacked by a band of Garlean pirates. They tore apart our entire supply train, scattering its contents across the desert. It's a shame, but we have naught but our wits to fall back on.\nMy
+Generated text 3:
+Title: A Bargain Struck
+Dialogue: ['\nRukusafarusa:', "\nI'm a merchant myself, and I'm told you're quite the bargain hunter. How about lending me a hand?", '\nRukusafarusa:', "\nWe've got a problem, sir─our wares aren't quite what we should have.\nI need you to hunt down some rare and curious beasts, and bring back something of note.",
+Generated text 4:
+Title: A Bargain Struck
+Dialogue: ['\nSerendipity:', "\nOh! You're Forename, right? I saw you at the guild a while ago.\n...Hahaha! I'm so glad! I've been wanting to talk to you about something─something important.\nA secret that should be kept between us. It concerns the guildmaster's daughter...\nShe was born with a terrible, fatal illness. But thanks
+Generated text 5:
+Title: A Bargain Struck
+Dialogue: ['\nZlatan:', "\nAccording to our latest intelligence, the Empire's forces in the region have been bolstered by a new breed of warrior. This man, we believe, is the equal of Landenel himself, and his arrival marks the beginning of a new chapter in the history of the Alliance.\nHis name is Garlean, and he is described as a man of considerable strength and experience. We have received word
+Generated text 6:
+Title: A Bargain Struck
+Dialogue: ['\nVorsaileheuloix:', "\nThe Enterprise has been in service to the Order of the Twin Adder for some time, and its continued success is thanks in part to the invaluable assistance of its astrologians.\nToday, however, I am pleased to inform you that the Order has struck a deal with a privateer─a merchant who wishes to explore the outer reaches of the Eorzean Alliance
+Generated text 7:
+Title: A Bargain Struck
+Dialogue: ['\nMogret:', "\nI've a favor to ask if you're not otherwise occupied. You see, a few weeks ago, we spotted a band of bandits heading towards the southern gate.\nI dispatched a unit of soldiers to apprehend them, but they all ran into the bandits on the way. A few of them managed to escape, but the rest were rendered unconscious by the effects of the poison they were poisoned with
+Generated text 8:
+Title: A Bargain Struck
+Dialogue: ['\nBhirdraeg:', "\nAh, <Clickable(<If(GreaterThan(PlayerParameter(52),0))><Player's Grand Company Rank>)/> Surname! I have need of your assistance with an urgent matter.\nI was expecting a delivery of fresh herbs to my colleague, but I received a rather hefty sack instead. When I questioned the man, he claimed he had paid
+Generated text 9:
+Title: A Bargain Struck
+Dialogue: ['\nSerendipity:', "\nWhat are you waiting for!? Get out of here before I put you out of your misery!", '\nLyse:', "\nOh, it's you. Forename, was it?\nForename, I believe. Well met, well met.\nI've never met Serendipity before, but I'm sure she'd be delighted to meet you.
+Generated text 10:
+Title: A Bargain Struck
+Dialogue: ['\nGildon:', "I'm glad to see you're well. I'm sure my colleague over there is as well.\nAs for what transpired at Revenant's Toll, it was a delicate situation.\nWe received a rather unusual call from an associate of mine, one who claimed to have information on the whereabouts of a valuable relic. When we arrived at the location, we discovered that it had been robbed─
+Generated text 11:
+Title: A Bargain Struck
+Dialogue: ['\nSerendipity:', "\nI've been meaning to ask Forename if he'd seen any bargains on the market, but I suppose I've already asked enough.\nYou know, if you ever find yourself in Ul'dah, you'd be hard-pressed to find a better option than trading with the Adventurers' Guild. You'll find a list of their wares here.", '\nFore
+Generated text 12:
+Title: A Bargain Struck
+Dialogue: ['\nKokoshu:', '\nThe Silver Bazaar is in desperate need of a capable adventurer.\nYou see, the guild has been plagued by an unusual and troubling number of creatures, some of which have been sighted in the vicinity of the Bargain Struck.\nIn an attempt to determine the cause of the commotion, we've set about cataloging the creatures that have been sighted in the
+Generated text 13:
+Title: A Bargain Struck
+Dialogue: ['\nSeverian:', "\nI'm pleased to say I have a job that will suit you.\nYou see, a friend of mine is stationed at the House of Splendors in Ul'dah. As I expected, he agreed to let me take part in a deal if I could provide him with a suitable sum in exchange for the goods.\nUnfortunately, I've been asked to procure a wide variety of
+Generated text 14:
+Title: A Bargain Struck
+Dialogue: ['\nYugiri:', '\nA merchant arrived in my stead today─a man who looks to be of great importance. I had been hoping you might come and pay him a visit.\nI am told he is scheduled to make a delivery of goods to Kogane. If you are willing to make the journey, pray meet him on the eastern shore of Sakazuki.', '\nYugiri:
+Generated text 15:
+Title: A Bargain Struck
+Dialogue: ['\nTohythrah:', "\nAh, Forename. My apologies for not noticing your arrival sooner.\n...Hm? You wish to discuss the contents of my shipment with me?\nI received word from my colleague in Ul'dah that a man matching your description had arrived in Ul'dah. His name is “Eschiva” and he works closely with the merchants who supply us with goods
+
+
+
+
+Generated text 1:
+Title: A Beeautiful Plan
+Dialogue: ['\nFufucha:', "Ah, Forename. A pleasure. To what do I owe the honor of this meeting?\nWell, you see, the beekeeper I was hoping to hire has, er...disappeared.\nI attempted to track him down myself, but to no avail. Then, I began to worry. Could I ask you to help me look for him, that he might return to our
+Generated text 2:
+Title: A Beeautiful Plan
+Dialogue: ['\nDrest:', "\nWell, I'm not surprised by your return─I could just as easily bemoan the fact that you're not here.\nThe trouble is, I've got a plan that might work, but I need someone to go along with it─someone bold and daring, like you, but with less baggage.\nYou'll find the beekeeper by the water to the south.\n
+Generated text 3:
+Title: A Beeautiful Plan
+Dialogue: ['\nSisipu:', "I've come up with a brilliant plan to save the bees─and you're welcome to the gil if you help bring it about!", '\nSisipu:', "I'll need you to head up north and gather three pots' worth of beeswax oil. You'll find it in the northern reaches, near the village.", '\nSisipu:',
+Generated text 4:
+Title: A Beeautiful Plan
+Dialogue: ['\nAuberge:', '\nThe hive has taken on a new member, you see. A mighty beekeeper, she is─a taskmaster not unlike myself, if you can believe such a thing.', '\nAuberge:', "\nShe's smart, she's clever─a master of her trade─and she's a born leader.\nI was about to propose a plan to her,
+Generated text 5:
+Title: A Beeautiful Plan
+Dialogue: ['\nY'shtola:', '\nThe very mention of the word “plan” has already caused me to shiver. A plan, you say? A truly brilliant one, in fact. A plan that would see the Enterprise safely home to the Crystarium.\nI mean no offense, of course, but the notion that the Enterprise is to be used for “warcraft” is frankly...
+Generated text 6:
+Title: A Beeautiful Plan
+Dialogue: ['\nFelicitous Furball:', "\nHmmm... What are we waiting for?\nI have a bee-sized plumage for you, and a juicy cluster of lilies for you, if you're willing to wait.\nAnd there's a package of honeybees for you as well.\nNot sure how you got your hands on them, but I hope the delivery was a success─or at least
+Generated text 7:
+Title: A Beeautiful Plan
+Dialogue: ['\nFufucha:', '\nThe hive has a message for you, and you are to deliver it to A'aba.\nHive intelligence detected a new hiveguard, and sent a coded message to the hive─this message tells A'aba to prepare for the arrival of a new queen bee.\nA new queen bee is set to arrive in the near future, and Hive intelligence requests that you take part
+Generated text 8:
+Title: A Beeautiful Plan
+Dialogue: ['\nP'ebaloh:', "\nOh, you're the traveler who rescued me from the clutches of the terrible wyrm Nidhogg. I'm terribly sorry to trouble you again, but I have a favor to ask of you.\nAs it happens, we have recently acquired a new member of our hive─a brilliant botanist by the name of U'odh Nunh.\nWe
+Generated text 9:
+Title: A Beeautiful Plan
+Dialogue: ['\nLauriane:', '\nI trust you are aware that I have been examining the Aery─perhaps you have already guessed─and its ilk.\nIn my previous posting, I referred to the structure as “the hive of life” and said that it had been discovered by the Ananta while surveying the ruins.\nWhile I am not at liberty to say what they intend to use it
+Generated text 10:
+Title: A Beeautiful Plan
+Dialogue: ['\nPipin:', "\nWell, I'm glad you're here. It's a dire situation, and you've proven yourself capable of putting a stop to it.\nThe problem is, the bees that nest near the Quiveron House have all but disappeared, and we haven't been able to find a single one since we last patrolled the area five years ago.\nI'd go and look for them
+Generated text 11:
+Title: A Beeautiful Plan
+Dialogue: ['\nSisipu:', "\nAh, good of you to come. There is something I would ask of you, if you have the time.\nWe have been asked to find a new home for the bees, but they are rather fond of this old one.\nAs such, we have been attempting to train them to stay, but they are rather uncooperative. They are, in fact, quite destructive
+Generated text 12:
+Title: A Beeautiful Plan
+Dialogue: ['\nDmitar:', "You've certainly made a name for yourself as a capable soldier. I've no doubt you'll find work as a support character in the future.\nIn any case, I'm pleased to say that our latest batch of recruits has passed the first test─they've mastered the use of the bow.\nThis isn't to say that all are equal in ability, of course, and we always
+Generated text 13:
+Title: A Beeautiful Plan
+Dialogue: ['\nTroubled Beekeeper:', "\nOh dear... You look as if you might fall over right about now...\nWhat's this? A beekeeper sent by the Adventurers' Guild has hatched a plan to rid the world of vermin, of course.\nThe bees will fly to the location where the plan is set and exterminate any vermin that come in their way.\nThe beekeeper himself
+Generated text 14:
+Title: A Beeautiful Plan
+Dialogue: ['\nBarryn:', "I'm sorry to bother you, but could you help me out with something?\nI've got a job that needs some help getting started, but I can't leave the bees to themselves.\nInstead, I need you to bring me some honeybees. Three of them should suffice.\nI'm sure you've seen them around the hive, but I'm sure you've also seen
+Generated text 15:
+Title: A Beeautiful Plan
+Dialogue: ['\nGibrillont:', '\nAh, you are an adventurer, yes? I have a task that you might undertake.\nI was just about to make an attempt to gather the necessary beeswax for a new perfume, but I have a feeling I have made a terrible mistake.\nI thought to gather four sprigs of the substance in my usual manner, but I am rather more limited in my
+
+
+
+
+Generated text 1:
+Title: A Blessed Instrument
+Dialogue: ['\nCid:', '\nWell, now that things are somewhat settled, we should take a moment to visit the workshop.\nAnd if you happen to have some time to spare, might you do me a favor and check out the newest member of the guild, the “Sacred Brush.”', '\nLyse:', "\nThe brush is a new creation by Master Lyngsath, and it
+Generated text 2:
+Title: A Blessed Instrument
+Dialogue: ['\nSagar:', "Ah, Forename. A blessing from the Matron herself!\nI present to you a gift from the Spinner's Palace─a gift that will change the course of the war─and it is a gift that must be returned to the Waking Sands!\nYou see, the Matron is ever searching for new instruments to aid in her battle. She desires a blade that can pierce the armor
+Generated text 3:
+Title: A Blessed Instrument
+Dialogue: ['\nMogzun:', '\nAh, you are here at last! It is good that you are here at last.\nI believe a great vangob should be made for the occasion. A piece of holy wood should be placed upon it in the likeness of our patron deity.\nI would have the Mog Squad make the offering.\nThe Mog Squad should make the offering.\nThe Mog Squad should
+Generated text 4:
+Title: A Blessed Instrument
+Dialogue: ['\nTroubled Father:', "Are you all right?\nA dear old friend of mine is in dire straits.\nHe has been afflicted with a dreadful affliction of late and can scarce even utter the most meaningless of sighs.\nI would go to him, but I fear I am no match for his wits.\nThe only consolation I can offer him is that a familiar melody might provide a mod
+Generated text 5:
+Title: A Blessed Instrument
+Dialogue: ['\nPassionatesoldier:', "Ah, you're the adventurer who rescued my dear brother from the hands of the Vanu. That's a fine start, but I'm afraid I still lack that spark of inspiration that comes from deep within.\nYou see, music has always been an important part of my life, but I lack the courage to pursue it as a full-time profession.\nHowever, I'm sure there
+Generated text 6:
+Title: A Blessed Instrument
+Dialogue: ['\nFufucha:', "\nWell met, adventurer! Might you perchance be interested in a gift for an old friend of mine?\nAh, yes. I would not expect a kind word from an adventurer unfamiliar with my work, but I have a favor to ask if you are willing.\nI was recently approached by a man who wished to purchase a piece of equipment from me. Upon inquiring as to his purpose,
+Generated text 7:
+Title: A Blessed Instrument
+Dialogue: ['\nYugiri:', "\nAha! I knew you'd be back.\nI heard about the new harp. The Elder Seedseer told me that it belonged to a master artisan who crafted it from a rare and precious gemstone─crystals that can only be found in the depths of the deepest pits.\nI would love to make my own, but my purse is quite full. Will you take this as
+Generated text 8:
+Title: A Blessed Instrument
+Dialogue: ['\nAlphinaud:', 'Let us join hands and strive once more for the restoration of the Holy See...', '\nCid:', 'I have heard all about your journey, Forename. I too have journeyed far and wide, and seen all that this realm has to offer. To think that I have even more to offer, however, is cause for great rejoicing.\n...And yet, I fear
+Generated text 9:
+Title: A Blessed Instrument
+Dialogue: ['\nGildon:', '\nAh, Forename. A pleasure.\nYou are well traveled, yes? And I am well traveled myself.\nI am a student of the horn, you see. I am learning all I can of it.\nIt is a wondrous instrument, and its beauty is matched only by its fragility.\nIts making is a sacred art. It is performed by our fore
+Generated text 10:
+Title: A Blessed Instrument
+Dialogue: ['\nSerendipity:', "\nOh, my de─ Oh, my de─ Oh, my de─ Oh, my de─ Oh, my de─ Oh, my de─ Oh, my de─ Oh, my de─ Oh, my de─ Oh, my de─ Oh, my de─ Oh, my de─ Oh, my de─ Oh, my de─ Oh, my de─ Oh, my de─
+Generated text 11:
+Title: A Blessed Instrument
+Dialogue: ['\nAlphinaud:', '\nI trust I have sufficiently impressed you with the fruits of my labors thus far. As promised, I would share with you a single work of art.\nLet us review the details of this creation.\nA pair of winged hand grenades, each emblazoned with a sun and a moon.\nThese grenades serve to supplement the arcane magicks of our allies, and
+Generated text 12:
+Title: A Blessed Instrument
+Dialogue: ['\nTataru:', "\nI've heard you're a strong one, Forename. Might you be able to lend me a hand?\nI'm currently preparing a new horn for my father's band, and need someone to help me with the final step─fitting it with a gemstone.\nI would be most grateful if you could bring me three stones from the area around Banepool, in the southeast of here
+Generated text 13:
+Title: A Blessed Instrument
+Dialogue: ['\nRostnzeh:', "\nAh, Forename. It's good to see you still in one piece.\nI was about to send you out to gather wood for the church, but I've been keeping a close watch on you.\nI've received reports that you've been sighted near the church to the west, and that you're armed to the teeth.\nI'm sure Rostnzeh
+Generated text 14:
+Title: A Blessed Instrument
+Dialogue: ['\nMogmont:', "Ah, a familiar face here. I've been expecting you, Forename.\nI'm hoping you can help us with a simple task.\nAn old song, perhaps? The lyrics tell of a man who used an instrument to bring good fortune to his home.\nI would like you to take a few verses and find out if the tale is indeed true. If you can, I would
+Generated text 15:
+Title: A Blessed Instrument
+Dialogue: ['\nTsubhkhamazom:', "\nI am pleased to inform you that the Blessed are presently working on a new type of musical instrument.\nIt is a gift from the Qalyana, and its creation is a joint endeavor of the Blessed and the Bureau of the Architect.\nIt is a simple wooden harp, with which you can play any number of traditional and folk instruments.\nNow, while we
+
+
+
+

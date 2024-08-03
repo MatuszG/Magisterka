@@ -1,0 +1,49 @@
+Generated text 1:
+Title: A Bargain Struck
+Dialogue: ['\nMogoon:', '\nThe trader sent word just now that the mighty Mogoon would be coming to collect his coin!\nMogoon has agreed to pay Mogoon's agreed upon sum of gil!\nHowever, the merchant has yet to deliver the promised gil!\nMogoon is worried that Mogoon won't receive his coin...but what can the merchant do? Mogoon is the most famous goldsmith in Moghome, and his reputation precedes him! What can the merchant do!?', '\nMogoon:', '\nThe merchant came, but did not deliver his gil!\nM
+Generated text 2:
+Title: A Bargain Struck
+Dialogue: ['\nMogoon:', "Well, well, if it ain't my special friend Forename! I was hoping you might stop by.\nI was just about to send Mogoon over to fetch some flowers, but I think you'd be a better choice.\nThe kobolds are no more content with their own territory than they are with any other, and they've been throwing their weight around outside of the Twelveswood.\nIf you're willing to take up arms in defense of the forest, there's a reward in it for you.\nThe kobolds have been threatening travelers along the road connecting Horizon to here. It's been
+Generated text 3:
+Title: A Bargain Struck
+Dialogue: ['\nGildon:', "\nWell met, adventurer. Thanks to you, I'm confident we can turn the tide in our favor.\nYou see, my research leads me to believe that─much like in mythological tales─the most effective weapons are those forged with rare and unusual materials.\nOf course, there is a great deal of truth to that, but I've always had a passion for weaponry, and I couldn't bring myself to simply be a researcher.\nThat's why I'm so excited to be speaking with one of the leading weaponsmiths in Limsa.\nHe's a man who knows his wares, and I'm
+Generated text 4:
+Title: A Bargain Struck
+Dialogue: ['\nGiott:', "\nI'm glad you came along when you did. I was about to trade my favorite harpoon for a chocobo's nest. The bird will be glad to have it, too.\nIt's a simple enough deal: kill a chocobo and receive a reward. That's it. Simple enough, I reckon.\nBut I haven't the slightest inkling what they'll be expecting.\nAnd I can't leave my post, not while supplies continue to arrive. So I need someone reliable to bring me the harpoon. Someone who knows the area and can navigate the swamps and scrub brush.\nI've set up
+Generated text 5:
+Title: A Bargain Struck
+Dialogue: ['\nWawarukka:', '\nYou there! Yes, you! Yes!\nI need you to go and speak with Frydwyb. She works at Byron's Bread, and she must have seen you walkin' through the door.\nI'll explain everythin' when we get to the point.\nLet me just...there was this merchant─a man I've known for years─who was down on her luck. She was desperate to make some extra gil, and sell some of her wares to the locals.\nI offered her gil to help get her started, but she refused. Then one day, I
+Generated text 6:
+Title: A Bargain Struck
+Dialogue: ['\nGiott:', "\nHail, adventurer. I have a task for you.\nI've been tasked with procuring materials for a new armor, but am at a loss for what to make of them.\nThe simplest way to get started is to ask the local alchemists what they know of the armor.\nI would go myself, but I fear I've no skill in that area. You, on the other hand, are well-traveled and thus well-equipped. Might you do me this favor?", '\nGiott:', "\nPlease ask the alchemists what they know of the armor.\nI would
+Generated text 7:
+Title: A Bargain Struck
+Dialogue: ['\nGiott:', '\nYou there, lad! I need your help!\nI was just leaving to deliver some provisions to the settlement south of here when I was attacked by a pack of hyenas. They're bigger and fiercer than anything I've ever seen.\nI managed to escape with my life, but I would like you to bring me back to the settlement. I can't leave my post here, not with those beasts about!', '\nGiott:', '\nPlease, you have to get me back! I can't be the one to get away!', '\nGiott:', '\n
+Generated text 8:
+Title: A Bargain Struck
+Dialogue: ['\nAlphinaud:', "\nA wise decision. With Leviathan dead and gone, it's time to focus on the job at hand.\nEven so, it's clear that more work needs doing to prepare our forces for the final battle.\nThat's where you and your fellow Scions come in. With your help, I'm confident that we can round up the best and brightest minds we can find and get them working on the right things.\nThe Scions are already making progress, and I'm sure you can help by joining in. I've set up a new task for you here, and would be grateful if you could deliver it to my
+Generated text 9:
+Title: A Bargain Struck
+Dialogue: ['\nGullinkambi:', '\nAh, Forename, just the man I wanted to see! It seems your encounter with the Ixal has served to motivate you to seek greater challenges.\nYou have always been an accomplished adventurer─far more so than I could ever hope to be─so I am pleased to see you return with a higher level of accomplishment!\nAnd as a token of my gratitude, I present you with this hunting log. It contains information on creatures and adversaries most commonly encountered in my fieldwork.\nAs an avid hunter, I have always been fascinated by the creatures which populate the world's fringes. And as a
+Generated text 10:
+Title: A Bargain Struck
+Dialogue: ['\nGullinkambi:', '\nI am glad you are here. I need your help.\nI was approached by a man asking for my help. He is a Lalafell. He is a trader. I told him I would go meet him but I cannot go alone. I need you. Please go to this spot on my map and find him.', '\nGullinkambi:', '\nPlease go to this spot on my map and find a Lalafell. Find him.', '\nLalafell:', '\nA trader? Hmmm. I am not sure what this transaction is about
+Generated text 11:
+Title: A Bargain Struck
+Dialogue: ['\nUrianger:', '\nAh, Forename─the moment I feared I had lost you! I was hoping you might come along!', '\nUrianger:', '\nNow, what of it? I sent word to the Crystarium that we would be conducting a routine inspection of their reactors.\nApparently, a technician had somehow misplaced his materials. He should be back at our headquarters by now, but I fear he has yet to return...', '\nBriardien:', '\n<sigh> I wish he would've known better than to bring his own research to a halt so abruptly.\n
+Generated text 12:
+Title: A Bargain Struck
+Dialogue: ['\nAganbold:', "\nI'm glad you came along when you did, adventurer. I was planning to offer this fellow some of my goods in exchange for his services, but...\nIt turns out the wares I was hoping to get him hold of weren't actually mine.\nInstead, they were the property of a merchant from Ul'dah who was recently detained in the Labyrinth.\nThe man has since been released, but he refuses to accept any of the goods I offered him.\nIt's a bit surprising, but I'm not entirely surprised. He's a somewhat eccentric individual. I wouldn't be surprised if he were to turn tail
+Generated text 13:
+Title: A Bargain Struck
+Dialogue: ['\nGildon:', "\nWell met, adventurer. Thanks for the offer, if I may.\nI'm Gildon, a merchant who deals in rare and curious books. I specialize in hardcover volumes, and I'm always happy to offer my services to those who appreciate the finer things in life.\nI recently picked up a copy of A Bargain Struck, a collection of historical writings by an author known as Gundobald.\nI don't know much about the man, save that he was born in the small town of Utya in eastern Thanalan. I'm hoping to strike a deal with the bastard so I can get
+Generated text 14:
+Title: A Bargain Struck
+Dialogue: ['\nCharmine:', "\nOh my, I do love a good bargain. You know what I mean? Well, I just finished off a shipment of goods from Ul'dah, and I need those spices to be delivered.\nThe only issue is, I can't leave my post at the moment. Oh, I'm not the most patient of men, am I right?\nOh, you there. You look like you can handle a bit of trouble. Would you be willing to bring me some of the spices in exchange for the goods?\nI'll be needing the cinnamon, ginger, and star anise. Let's start with the cinnamon─
+Generated text 15:
+Title: A Bargain Struck
+Dialogue: ['\nFretting Researcher:', "\nWell, well, if it ain't my good-natured colleague. I'm glad he's settled in here with us.\nI've always been a big fan of yours. I think you're a fantastic writer, and an even better researcher. I've a few ideas for you that I think you might enjoy.\nThe first of these ideas is for a short story. I think you'll enjoy it. All you have to do is pick a suitable topic, and write a few words about it.\nA short story is ideal─less is more, I suppose. Something that gets across the idea that your
+
+
+
+

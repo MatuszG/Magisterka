@@ -1,0 +1,98 @@
+Generated text 1:
+Title: A Bargain Struck
+Dialogue: ['\nAlisaie:', "\nA little bird told me you were here. She may have been referring to the fact that our patrons are forbidden from bringing their own provisions to the establishment.\nThat's not to say they can't get food from the hamlet, of course. We just haven't set up the right system yet.\nThat's why I'm here: to get the people of Lost Hope working together, and get our hands on the supplies their hamlet so desperately needs.\nYou'll see, the Alliance makes for a good team, and we all have a part to play. That's why I wanted you to speak with our quartermaster
+Generated text 2:
+Title: A Bargain Struck
+Dialogue: ['\nE-Sumi-Yan:', '\nGentleman Forename. Ever mindful to show a degree of deference, I trust you are aware that it was not always easy for us to entrust our allies with arms.\nWe had to fend off the Empire on several occasions, and I am pleased to say that your successful acquisition of the Serpent's Tongue bodes well for the future of Limsa Lominsa.\nIn return for this favor, you have ensured that our allies will not be drawn deeper into the imperial war machine. This, in turn, has emboldened them to call upon the Admiral for aid, and so our numbers
+Generated text 3:
+Title: A Bargain Struck
+Dialogue: ['\nEthelred:', "\nWell, you've saved Ethelred's life, haven't you? If you've no other business here, I've a favor to ask of you.\nI want you to go and speak with a certain merchant, Galfrid, over there. He's the one who represents the interests of the Adventurers' Guild here in Ul'dah.\nI've already given him my word, and he knows my reputation. Go and speak with him, and don't let him go to your head.", '\nGalfrid:', "\nWell met, friend. Aye─I'm Galfrid, and
+Generated text 4:
+Title: A Bargain Struck
+Dialogue: ['\nDadanen:', '\nIt is no ordinary trader who is to be commended for performing such a task. You are a man who has made a name for himself by facilitating peaceful co-existence between peoples. A man who is to be commended for such a noble endeavor is rarely, if ever, those who are not of a mind to make a contribution to the cause.\nAh, yes. I knew not whom you would come, but I have a task well suited to one of your ability. I would have you escort a customer to the Manderville Trading Post in Longmirror Lake.\nThe man is a Dotharl, and will
+Generated text 5:
+Title: A Bargain Struck
+Dialogue: ['\nSylgran:', "\nGreetings, sir. I'm Sylgran, a gleaner stationed in Revenant's Toll.\nYou're come at a good time, traveler. I've been expecting you. Ever since the Eulmoran Alliance and the Children attacked, we've been on high alert.\nAll manner of military preparations are underway, including a full-scale assault on the Garlean heavy infantry. This is the first call I've been made for since our inception.\nIt will be a long and brutal battle. The enemy will muster his forces to the west, in the hopes of drawing the U'dahan Alliance and the Sons
+Generated text 6:
+Title: A Bargain Struck
+Dialogue: ['\nSagar:', "Well, well, well, where in the world could the Warriors of Light find a man like you?\nYou're the only one I've heard speak of who can hold a blade! I'd be honored if you could join me in a contest of skill.\nThe structure of these contracts is so rigid, any loopholes must be exploited to the utmost.\nIf you're of a mind to take on a new challenge, why not head towards the East Shroud?", '\nSagar:', 'There you are. I believe you have a contract waiting for you.', '\n(- Saro Roggo -):', "
+Generated text 7:
+Title: A Bargain Struck
+Dialogue: ['\nKomuxio:', "\nYou've come at a good time, friend. I've a favor to ask of you.\nIn Camp Drybone, you'll find a hut where we harvest wild fowl. The villagers often go there to trade with the Garleans, and I'd like you to collect some of their feathers for me.\nA small amount, to be precise. I'm sure you have plenty of other tasks you would prefer to undertake.\nPlease head to Camp Drybone and collect three feathers from the fowl you see there. You'll be suitably rewarded for your efforts.", '\nKomuxio:', '
+Generated text 8:
+Title: A Bargain Struck
+Dialogue: ['\nToffwyb:', "\nI don't recall seein' yer ugly mug around here before. Hm? Ye say that the imperials gave ye up on me?\nYer a murderer, I tell ye! Why the hells didn't ye say so sooner!? If ye wanted to sell me for scrap, I'd have spit on yer recommendation papers and tossed 'em into the briny deep! But ye didn't, so yer credit is still fresh in their craw.\nI've had it up with those backstabbin' bastards, and now they have me to deal with! Fine! If ye want to get
+Generated text 9:
+Title: A Bargain Struck
+Dialogue: ['\nHervoix:', "Ah, a trader who can hold his own in battle. I was hoping you would stop by.\nI was recently approached by a man who was offering me up as a payment for a job well done. However, upon inspecting the weapons he had on display, I discovered they were not gold but rather cobalt ore.\nI would have gladly accepted his payment, but I've a feeling I would not last a minute in his clutches. I would be much obliged if you could take the weapon and hand it over.\nThe man left with the weapon, but as you can see, it is in a most deplorable
+Generated text 10:
+Title: A Bargain Struck
+Dialogue: ['\nUngust:', "\n'Greetings, sir. I trust you are well rested? Good. I am Ungust, a sentry of Josselin's Spire─or was, until I suffered grievous wounds in a battle with the Vanu.\nBut I am recovered─and rather more so than I let on. I confess that I have been drinking heavily the night of the transaction, though I assure you I do not intend to buy any more liquor that day.\nI had been expecting a delivery from Miah Molkot, the resident ale expert, but I am not certain I received the correct information. Miah is currently en
+Generated text 11:
+Title: A Bargain Struck
+Dialogue: ['\nAlisaie:', "\nAh, Forename. I was looking for you─it's about time.\nI've been asked to accompany you and Y'shtola to the Waking Sands, where we will lay the foundation for a new settlement.\nIf all goes according to plan, the area should be ready for settlement to be built within the year.\nThat is, assuming the Resistance does not discover any insurmountable problems with the plan, of course.\nThe two of you have been working tirelessly on this plan, and I am pleased to say we are nearly ready to begin.\nIf you could wait here a moment,
+Generated text 12:
+Title: A Bargain Struck
+Dialogue: ['\nStern Sentinel:', "Aye, I'm Surname. Might ye have a moment or two to spare?\nI've been requested to escort a group of Duskwight sellswords to Falcon's Nest, but I've been told that there's been a change of plans.\nInstead we're to escort them to the western gates of Ul'dah, where a merchant is waiting to receive them.\nNeedless to say I'm rather eager to see the place, and I'm sure the sellswords won't mind being chauffeured around on my behalf.\nBut you must be aware that the journey can be fraught with peril
+Generated text 13:
+Title: A Bargain Struck
+Dialogue: ['\nMogoon:', "The offer you made is truly too good to refuse! Even the most hardened adventurer would be hard-pressed to say no to a chance like this!\nI'll deliver the goods to A–Towa–Cant at the Diamond Forge, and you can take your pick of where the goods will be sent. I've even got a spare crate of supplies waiting for the next job!", '\nA–Towa–Cant:', "One o' Mogoon's goods, ye say? Ah, yes, I knew I'd have to take care of this.\n'Tis a pity the Mogoon of old had
+Generated text 14:
+Title: A Bargain Struck
+Dialogue: ['\nHamon:', "I had been pondering my next move when a trader from Ul'dah bade me speak with you.   He asked me to pick up something for him in Ul'dah.   I couldn't refuse the request─especially since the man was armed to the teeth.   I took the man's item and headed back to my Trading Post.   Upon my return, however, I noticed that the item was missing.   I immediately turned tail and ran, not knowing where the fiend might be lurking...   It isn't often that I fear for my life. Should this not be his handiwork, I d
+Generated text 15:
+Title: A Bargain Struck
+Dialogue: ['\nWawarukka:', "\nHmmm... If I were you, I'd be lookin' for a reliable hand.\nI was aimin' to buy some scales from a Dotharl, but I've run into a bit of trouble.\nThe money I pay for the stuff goes straight into the kobold's belly, which is why I was wantin' it from the get-go.\nThe problem is, I ran out of the stuff a few moons ago, and there's been no word from the Dotharl.\nCould you get in touch with them? They ought to be along the Velodyna River
+
+
+
+
+Generated text 1:
+Title: A Beeautiful Plan
+Dialogue: ['\nLalai:', '\nIf all goes according to plan, the honeybees will arrive in just a few days.\nThe problem, however, is that the road to the apiary is fraught with peril. A band of robber bees has been sighted near the path, and if the mission is not scuttled, I fear the bees will make off with the precious honey.\nLest you wonder, the honeybees' destination is no more than a short distance from here. They are said to arrive by the Mask of Grief, a structure that seems to be riddled with all manner of traps.\nA short distance upstream, you will
+Generated text 2:
+Title: A Beeautiful Plan
+Dialogue: ['\nDrydox:', "\nThe plan is a simple one, really. We collect three bottles of nectar from the trees near Lyhe Ghiah, and deliver them to a beehive in the North Shroud.\nThe bees will be glad to receive it, and will lay their eggs in the nectar. As they go about their work, they will also collect a smattering of pollen from the trees.\nThe bees will be glad to receive it, and will lay their eggs in the nectar. As they go about their work, they will also collect a smattering of pollen from the trees.", '\nDrydox:',
+Generated text 3:
+Title: A Beeautiful Plan
+Dialogue: ['\nBroomc:', "\nWell, well, well...if it isn't my old friend Forename. You're late to arrive!\nI've been expecting you, Forename. I've been attempting to reach you via linkpearl, but it seems your appendages don't quite fit within the acceptable parameters.\nIf you're quite so bound to remain within the realm, there is something else I would ask of you.\nI would have you seek out Mih Khetto's hive. A few of my subordinates have already made the trip, and I would have them brief you on the situation at hand.", '\nMihkon
+Generated text 4:
+Title: A Beeautiful Plan
+Dialogue: ['\nPapin:', "\nApologies for the sudden change of venue, but I think it important that you hear our concerns.\nThe grypes are a nuisance, but we cannot allow them to keep us from doing our jobs.\nI will explain the situation at length when we return to the Rosehouse. In the meantime, I ask that you search the area northwest of here for a grype that seems ill at ease. I would specifically like you to seek out a withered grype that has fallen to the elements.\n", '\nPapin:', "\nA withered grype? I have not seen
+Generated text 5:
+Title: A Beeautiful Plan
+Dialogue: ['\nTeteroon:', "\nI say, are you not Forename Surname, the famous hero from Eorzea? If you're looking for work, I can't blame you─the buzz around the shop is deathly dull.\nYou'd do well to speak with the proprietor, Rolfe. He's a busy man, but should you have the misfortune of speaking with the man himself, you'd do well to hear what he has to say.", '\nRolfe:', "\nA pleasure to see you. My name is Rolfe, and I've the honor of serving the last proprietor of the Beaum
+Generated text 6:
+Title: A Beeautiful Plan
+Dialogue: ['\nTeteroon:', '\nThe plan is as follows: the three of you gather for inspection at the apiary, and I will make ready for the transfer of materials.\nThe problem I have with this plan, however, is that I cannot leave the bees unattended for extended periods. I understand that you are used to working in an uneventful manner, but even the most routine tasks demand a degree of organization.\nIn fact, I would go so far as to say that the mere thought of inaction is itself a form of distraction. If, however, you would agree to assist me in keeping the bees in check, there is a certain amount
+Generated text 7:
+Title: A Beeautiful Plan
+Dialogue: ['\nSlimturtle03581:', 'Oh! It is you! I was sure you were another adventuring fool, but now that you are here I am grateful. I have a favor to ask of you.\nTo the northeast of here are honeybees. I would like you to sprinkle some of this nectar on them. The bees will be so impressed by your gracious deed that they will leave behind honeybees of their own.\nPlease do not worry about the bees' behavior. They will be so happy to receive the nectar. Now, sprinkle the nectar on four of the bees. Good luck!', '\nSlimturtle035
+Generated text 8:
+Title: A Beeautiful Plan
+Dialogue: ['\nWedge:', "\nOh, honeybee. You're that adventurer everyone's been talking about. I've got a task that wants a hard worker.\nJust outside the village, there's an area where the bees gather. I want you to go and scrub down the hives.\nThe hive's right there, but the bees won't come near it. If you were to do the deed yourself, you'd be wasting your time─and the bees' honey.\nA hard worker like you would be able to get the bees' attention long enough to see the plan through to the end.\nI want you to scrub the hives.
+Generated text 9:
+Title: A Beeautiful Plan
+Dialogue: ['\nJayanti:', "\nPlanning a trip to the moon? I hear you're quite the traveler.\nYou needn't look far to see why─the moon has been in an ill light of late, and only a fool would ignore it.\nThat's why I'm planning a trip myself, and need someone to back me up.\nIf you're willing, meet me at the southern end of Mare Lamentorum. I'll explain everything in due course.\nOh, and be sure to bring your own wits about you─I can't trust you to remember everything!", '\nJayanti:', "\nIf you're
+Generated text 10:
+Title: A Beeautiful Plan
+Dialogue: ['\nAlphinaud:', '...In all truth, Forename, I fear that our plan for the morrow may prove to be ill-conceived. We have all been so focused on gathering resources that we have neglected to consider how we might best procure them...', '\nCid:', "Aye, the ol' megalocrabs are more than a match for our unprepared entourage. I'll have the pirates set sail for the Isles of Umbra at once!", '\nEstinien:', "I'm afraid my research is of little use. I've no idea what the hell's going on here!", '\nYsay
+Generated text 11:
+Title: A Beeautiful Plan
+Dialogue: ['\nMogoon:', "\nI've been thinking, kupo... Perhaps we should forgo the flower arrangement and go for a walk instead.\nOf course, we could simply go back to the hut and resupply ourselves there, kupo... I think a stroll around the Wild Fete would be more inspiring.\nOf course, we could simply go back to the hut and resupply ourselves there, kupo... I think a stroll around the Wild Fete would be more inspiring.\nOf course, we could simply go back to the hut and resupply ourselves there, kupo... Oh, but where are my
+Generated text 12:
+Title: A Beeautiful Plan
+Dialogue: ['\nOse Sigun:', '\nThe hive is in your debt once more, Forename. The creatures have been behaving most unnaturally of late, and it was only a matter of time before they decided to take matters into their own hands.\nThe problem is, they haven't had a single beekeeper to turn to for assistance since the pests took to nesting within the last few weeks.\nYou, on the other hand, seem to have a knack for handling seemingly insurmountable problems. Perhaps I should be pleased to have a hand in solving one of nature's most troublesome problems...']
+Generated text 13:
+Title: A Beeautiful Plan
+Dialogue: ['\nTogene:', '\nPlan B is for the brave and daring. Go to the apiary to the west and find a flyspeck. I will join you as soon as I am able.', '\nTogene:', '\nBeedrill must be given the beeautiful plan. Give him this flask of apothecary magick. That should stop him. Good luck, brave and daring.', '\nTogene:', '\nPlan C is for the timid and weak. Give him this flask of succulent scent. That should attract his attention.', '\nTogene:', '\nPlan D
+Generated text 14:
+Title: A Beeautiful Plan
+Dialogue: ['\nPiralnaut:', "\nIf all goes according to plan, we should be able to finish the job in no time at all. I'll just need to make one last delivery to Atelloune at the airship landing.", '\nAtelloune:', '\nWelcome, welcome! What might a discerning gentleman like yourself be looking for today?', '\nAtelloune:', "\nOh, that's you. The famous adventurer returned not long ago with news of the successful completion of the mission. 'Tis hardly a surprise, I suppose─the task was conceived by none other than our brilliant tactician.\
+Generated text 15:
+Title: A Beeautiful Plan
+Dialogue: ['\nTaynor:', "I'm afraid we can't count on Biggs and Wedge doing the deed. They've both run off to the Crystarium, saying they can't finish the job.", '\nTaynor:', "If we don't want to be outdone by the two of them, we'll have to think of a more inventive solution.", '\nTaynor:', "Luckily, I know someone who can─Alisaie! I bet you've heard of her, right? The one and only, she of the unflappable gait and unflappable grog!", '\nAlisaie:', "
+
+
+
+

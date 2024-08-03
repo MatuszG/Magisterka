@@ -1,0 +1,147 @@
+Generated text 1:
+Title: A Bargain Struck
+Dialogue: ['\nBraya:', "\nWell met, adventurer. I am Braya, an adventurer. I've an errand for you─a job that I would ask of you, if you're willing.\nYou see, I've been asked to deliver a shipment of supplies to a village on the opposite side of the river. If you can find a willing pair of hands, I'm sure you'll find a reward in
+Generated text 2:
+Title: A Bargain Struck
+Dialogue: ['\nKakamehi:', "\nThere's a man named Arvide who was here the other day. He's got a job for you.\nHe wants you to search for this woman by the name of Ayame, and I'm sure you'll find her soon enough. Anyway, you should hurry─the ferry to the south will be full soon.\nI only hope that she's all right...",
+Generated text 3:
+Title: A Bargain Struck
+Dialogue: ['\nMogzun:', "\nI don't recall seein' yer ugly mug around here before. Seems I've been sendin' the wrong person.\nMogzun's a familiar─a sort of beastkin with some rather unusual properties. It's hard to say whether he's a friend or foe, but he's always been a bit of a troublemaker.\nAye, he was
+Generated text 4:
+Title: A Bargain Struck
+Dialogue: ['\nEilis:', "You wish to trade for an item of great sentimental value, do you? If so, I have an idea which might suit your needs.\nAs you are aware, the House Durendaire of Ishgard has established a trading post at the Shroud. A number of merchants have been sent there to provide the services of a sort.\nIt is not uncommon for merchants to travel to the
+Generated text 5:
+Title: A Bargain Struck
+Dialogue: ['\nMogoon:', "\nI've been told to expect you! It's the job I asked you to do, and I don't want to disappoint!\nI'm the leader of the Mog Squad, and I'm in need of your help. We're facing a situation that could have dire consequences for all of Twine.\nWe've received word that the Amalj'aa have made off with some
+Generated text 6:
+Title: A Bargain Struck
+Dialogue: ['\nVirgeaume:', '\nThe merchant who is to collect our payment for the bakufu's atrocities has arrived. He is to deliver it to the man who is to collect the furs.', '\nVirgeaume:', "\nThe man who is to collect the furs is to the north of here. Tell him to hurry─the bakufu is still about
+Generated text 7:
+Title: A Bargain Struck
+Dialogue: ['\nMogzun:', "I'm not sure if I should go looking for you. I need to return to Tailfeather and see what's wrong.\nI'll join you once I've caught my breath. Thanks for the warning.\nIt's terrible! I've heard so many terrible things. A man dressed in a strange outfit, screaming in the snow. I've seen worse.\nA strange
+Generated text 8:
+Title: A Bargain Struck
+Dialogue: ['\nSpirited Pixie:', "\nYou're the adventurer who rescued the princess─are you a friend of mine? I was hoping you might help me with a small favor.\nI was planning on going to look for the princess─that's what my aunt told me to do. But since you're here, I thought you might help me, too.\nI need to go look for her in the west of
+Generated text 9:
+Title: A Bargain Struck
+Dialogue: ['\nSeverian:', "Hm? You have a moment, adventurer. I have a task for you.\nYou see, I have recently acquired a rather unusual weapon─a dagger with which I am quite proficient.\nAs you can imagine, it would make for an ideal weapon for a sellsword such as yourself.\nHowever, I am not entirely convinced that it would serve well as a weapon, as
+Generated text 10:
+Title: A Bargain Struck
+Dialogue: ['\nFaezahl:', "\nWe are in your debt, Forename. It is thanks to you that we have been able to ascertain the location of the missing shipment of ore.\nThe imperials have been stationed at the Castrum Centri since the Calamity. I imagine they are not pleased to have lost such a valuable shipment.\nI fear the situation may deteriorate if they discover that we have been
+Generated text 11:
+Title: A Bargain Struck
+Dialogue: ['\nYugiri:', "\nWe were lucky to have you with us. The others are already on their way to meet you.\nI'm afraid you'll have to wait a little longer. There's a job for you here.\nThere's a man named Osbert by the name of whom you'll be glad to have heard. He's a guard of sorts here at the Diamond Forge.\nWe've
+Generated text 12:
+Title: A Bargain Struck
+Dialogue: ['\nLaniaitte:', "You've the look of a man who knows his trade. Might I interest you in a job of mine?\nWe're in the midst of a contract negotiation, you see, and I need someone to fetch me three bottles of rare and wonderful vintage wine from the vaults of Saint Tropez.\nI've no time to spare for the journey─the ferry to the south of here is
+Generated text 13:
+Title: A Bargain Struck
+Dialogue: ['\nUrianger:', '\nYou there, adventurer! I am pleased to inform you that we have struck a deal with the Garleans!\nAs promised, we will supply you with the finest arms and armor available. In exchange, you will deliver them to our allies in the Dotharl Khaa.\nI shall have word of this good news to our allies in the Dotharl Khaa
+Generated text 14:
+Title: A Bargain Struck
+Dialogue: ['\nYugiri:', "\nIt's been quite a while since we've seen anyone so bold as you. Might I trouble you to assist me in completing the delivery of a shipment of rations to the East Aldenard settlement?\nI'll need you to travel to the eastern edge of the map and find the camp of an adventurer named Oschon. Oschon is an accomplished hunter, and he should have
+Generated text 15:
+Title: A Bargain Struck
+Dialogue: ['\nGigi:', '\nHow can I repay you?\nIf you are willing to assist me, I shall make a deal.\nI shall offer you the use of my airship. You need not return empty-handed, of course.\nNow, the airship I will be using is a rather old model. In order to get it ready for flight, I need you to bring me four more
+
+
+
+
+Generated text 1:
+Title: A Beeautiful Plan
+Dialogue: ['\nHien:', "\nAh, adventurer! I had the honor of seeing you for the first time in Limsa Lominsa. I've heard tell of your exploits in the past, but I never imagined I'd meet one of your caliber.\nI've been tasked with finding a suitable location for our honeybees─a location which has yet to be determined. But I know exactly where to look.\n
+Generated text 2:
+Title: A Beeautiful Plan
+Dialogue: ['\nMogson:', "\nWell met, adventurer! I've a job for you.\nThe hive's about to make a bee-stungin' appearance, and we need all the help we can get. If you could slay three of the creatures, we'll be on the way.", '\nMogson:', '\nSlay three of the bees-stungin' creatures and we
+Generated text 3:
+Title: A Beeautiful Plan
+Dialogue: ['\nLonwoerd:', "What's this? You're looking for a friend of mine? He's at the docks, and he's got a report for you.", '\nLonwoerd:', 'Aye, I know who that is. He's a merchant by trade, and I've heard he's quite a handy one.\nI know he's over by the docks, but I don't
+Generated text 4:
+Title: A Beeautiful Plan
+Dialogue: ['\nWawarukka:', "\nI've got to get my bees back. They were stingin' on the wood for some time, so I went to check on 'em.\nI was thinkin' about how I could repay you, but I thought you might be able to help me instead. If you were willing to help, then there's a reward for you.\nI'll leave it up to
+Generated text 5:
+Title: A Beeautiful Plan
+Dialogue: ['\nHamon:', '\n<sigh>', '\nBeeswax:', '\nThere is a new breed of beeswax, one with a more patient temperament. I would have you make a hive out of them.\nThe beeswax of the North Shroud is said to be particularly susceptible to the miasma poison, and I have already sent a sample to a specialist.\
+Generated text 6:
+Title: A Beeautiful Plan
+Dialogue: ['\nAethelmaer:', "\nAh, Forename! I see you're not as deaf as I thought.\nYour plan is sound, I must admit. While I understand your concerns─I've always had mine─I can see you're making a worthwhile contribution to the Resistance.\nAnd I mean to repay you in kind.\nI've marked on your map the locations of three Resistance facilities which
+Generated text 7:
+Title: A Beeautiful Plan
+Dialogue: ['\nAuphiliot:', '\nWe must make haste to the rendezvous point. The hive will be ready to depart any moment now.', '\nAuphiliot:', "\nB-But we've got a problem! We're short on bees!", '\nAuphiliot:', '\nI will fly you there and see what I can find out. May the beekeeper take
+Generated text 8:
+Title: A Beeautiful Plan
+Dialogue: ['\nHamon:', "\nYou there! I've a job for you, if you're willing.\nYou see, a local lady was recently seen delivering a box of chocobos to a man at the gates of the Hamon Botanicals plant.\nShe was dressed in a beekeeper's outfit, and she was carrying a sack of chocobos. It's been a bit of a struggle for her
+Generated text 9:
+Title: A Beeautiful Plan
+Dialogue: ['\nAuphiliot:', '\nA pleasure, friend. I trust you are aware of the threat of the beeautiful─I fear I am not.', '\nAuphiliot:', '\nA beeautiful was last sighted in the Central Shroud, but I fear we may have missed its route of departure.\nWe must find it, though, and soon. We have a
+Generated text 10:
+Title: A Beeautiful Plan
+Dialogue: ['\nGildon:', "You're back! What's that? There's a letter from Gildon himself!\nIf he's off to the north, I'd go along with him, but I'm not sure I want to see the carnage. I've got work to do─to make sure that the hive is healthy and ready to go.\nBut I'm not sure I can trust the bees to do
+Generated text 11:
+Title: A Beeautiful Plan
+Dialogue: ['\nEilis:', "\nGodsdammit... I can't believe I still have to work this day. I have so much to do here...\nI'm sorry, I... I need help with something.\nI'm supposed to be setting up a new hive, but I still haven't even gotten to finish setting up the lice.\nThey're not the prettiest of lice, but
+Generated text 12:
+Title: A Beeautiful Plan
+Dialogue: ['\nSerendipity:', "\nYou've got a plan, have you? Good.\nTake this here powder, and sprinkle it around the hive. This will keep the bees buzzing through, and make sure the hive is in working order.\nThe bees are so clever, they'll find a way to make their way back to the hive, even if they're off to one side of the hive.\
+Generated text 13:
+Title: A Beeautiful Plan
+Dialogue: ['\nJehantel:', "We have a new ally in the war against the Empire! A fellow adventurer, a traveler, and an acquaintance of mine. I ask that you aid him in his efforts to secure a stable for the bees.\nWe have heard reports of bees being lured out of hiding by the stings of poisonous mollusks, and swarmed by imperial forces. They are quite fond of our honey
+Generated text 14:
+Title: A Beeautiful Plan
+Dialogue: ['\nHancock:', "\nThe plan I hatched with our friends from the Order of Nald'thal is sound and brilliant! I'll need you to infiltrate the hive and eliminate those who are plotting to steal the bees' honey─you know, steal our honey─and then report back to me.\nYou're not like to get much work done in the meantime. I'll need you to gather three samples from the hive
+Generated text 15:
+Title: A Beeautiful Plan
+Dialogue: ['\nTakotsubo:', "\nIf you would help me, I shall deliver a message to the beekeeping guild. I have an associate who works for the guild, but he is indisposed and will not be able to help you.\nI would ask you to retrieve his hive from the north of the hive and bring me his queen. It is not easy to find a hive in such a place, but I
+
+
+
+
+Generated text 1:
+Title: A Blessed Instrument
+Dialogue: ['\nYugiri:', '\nYou have come at a good time, Forename. I have a task for you.\nIt is a simple one, but it will require you to slay a number of birds that roam nearby. They are no different from the common chocobos.\nWe use them to make our medicines, but we have no use for their meat. We have no need for it, but they will
+Generated text 2:
+Title: A Blessed Instrument
+Dialogue: ['\nGerbert:', "\nWell, I'm glad to see you again. I've been thinking on how best to repay you for your efforts.\nYou see, I was originally tasked with gathering materials for a new musical instrument, but I have since been asked to inspect it. I would like very much to perform my duties but I need you to retrieve a piece of equipment from the wreckage of my previous endeavor.\nYou'll
+Generated text 3:
+Title: A Blessed Instrument
+Dialogue: ['\nMogmont:', "\nYou there! A traveler, yes? What could you be looking for?\nHmmm... You have a strange look about you. A touch of auburn hair, a droopy brow, and a curious manner of gait. It seems that the child of the gods has awakened!\nThe child of the gods is a creature of the wood, I understand. And the child of the
+Generated text 4:
+Title: A Blessed Instrument
+Dialogue: ['\nHugubert:', "\nGood, you've come. Forename, I've a favor to ask of you.\nOne of the men here has a rather unique manner of music. I would have you perform for him a rendition of the Dravanian song of the same name.\nI have a feeling you'd be up to the task. There's a man named Varthon who can provide you with more information
+Generated text 5:
+Title: A Blessed Instrument
+Dialogue: ['\nLionnellais:', '\nPlease, do not make me repeat myself. If you wish to visit the Shroud, you will need to procure a suitable instrument.\nThe most common are the bells of the Temple of the Fist, which can be found on the eastern hillock of the Shroud.\nThe most prized are the bells of the Temple of the Fist, which can be found on the eastern hillock of the
+Generated text 6:
+Title: A Blessed Instrument
+Dialogue: ['\nLad Kenn:', "As the name suggests, we Kenn, are masters of wood. But not all are equal, and we do our utmost to hone our skills in myriad ways.\nI am pleased to say that I have recently made the acquaintance of a pupil of mine, who has come to join me in the wood.\nI must say, he is a very well-traveled individual─a man who has seen
+Generated text 7:
+Title: A Blessed Instrument
+Dialogue: ['\nAubert:', "We have found the missing lyre of our most honored knight, my lord Forename. I have entrusted you with the delivery of the relic, my lord. I hope that it will be of great use to you in your travels. I must say, you have done a great service to me.\nAs you well know, the Order of the Twin Adder is in dire need of a new lyre
+Generated text 8:
+Title: A Blessed Instrument
+Dialogue: ['\nWigstan:', "\nI've been looking forward to this. Now we can finally get to work on the next piece of gear!\nI need you to gather a few samples for me. They're all scattered around the workshop, so you should be able to find them fairly easily.\nAll you have to do is take those samples to the man in charge of the equipment here, and make sure he gives you the
+Generated text 9:
+Title: A Blessed Instrument
+Dialogue: ['\nHilmar:', '\nAh, you must be the one who rescued the girl. I knew you for a long time, but I never expected to meet one of your kind.\nThough you look quite a warrior, I have no doubt you would do the right thing if you could.\nA group of marauders has been attacking our men. They are not unlike the Garleans, but we are not the
+Generated text 10:
+Title: A Blessed Instrument
+Dialogue: ['\nThancred:', "I've been asked to gather some wood for a new horn.\nWe need more sticks, so I'll give you a bit of a reward.\nYou'll find all the materials you need to make the horn here, and if you've any questions, I'll answer them.\nNow then, we need to gather more sticks. That's it!", '\nThancred:',
+Generated text 11:
+Title: A Blessed Instrument
+Dialogue: ['\nSeverian:', "\nYou! You are the young one! I am Severian, a knight of the Order of Nald'thal.\nYou see, my name is spelled with a 'k', but I am actually a “kerstler,” which is a misnomer. I am a knight of the Order of Nald'thal, but I am also a novice in the ways of music
+Generated text 12:
+Title: A Blessed Instrument
+Dialogue: ['\nMamool:', "\nAha! I was right! I thought you might have dropped something.\nI was just about to head to the water, but I can't very well keep going back there, not with all the bloody water I see.\nI don't want to drown, you hear me? I need to swim upstream and look for that whistle!\nYou, on the other hand, seem like
+Generated text 13:
+Title: A Blessed Instrument
+Dialogue: ['\nAlphinaud:', '\nYou have come with good tidings, have you not? I am Alphinaud, Master of the Revel and the Temple Knights.\nYou see, the Crystal Tower has been left in the care of our most esteemed healers, the Crystal Braves.\nIf you will excuse me, I am on my way to see them.', '\nAlisaie:', "\n
+Generated text 14:
+Title: A Blessed Instrument
+Dialogue: ['\nMimiomio:', '\nHow can I be of service to you?', '\nMimiomio:', "\nI have a task for you, if you would be so kind as to deliver it to my subordinate.\nYou see, my subordinate is an alchemist of the Dotharl Khaa. I asked him to make me some horn oil to show to the others in the guild,
+Generated text 15:
+Title: A Blessed Instrument
+Dialogue: ['\nGigi:', "A friend of mine is a musician. We play together all the time, but I've recently been asked to join him in a new venture.\nIf you were to play a small part in it, you'd be doing me a great service. Let's have a look, shall we?", '\nGigi:', 'Well? Do you have any idea what I'm talking about?', '\
+
+
+
+

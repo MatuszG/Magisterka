@@ -1,0 +1,49 @@
+Generated text 1:
+Title: A Bargain Struck
+Dialogue: ['\nOse Sigun:', "\nA trader approaches and offers me a deal. I accept it without question. The goods are bound for Ul'dah, I know.\nNow, it has been a long time since I last journeyed here. It is only to say that I am eager to return.\nBut this time, I know what I'm dealing with. I speak with my counterpart in Ul'dah, and she confirms that the goods will be heading that way.\nI understand that this is a considerable amount of gil, but I would be lying if I said I wasn't worried. Were you able to find a way to resolve this
+Generated text 2:
+Title: A Bargain Struck
+Dialogue: ['\nMogmont:', "You there, adventurer. Yes, you. A traveler, perhaps. I'm searching for someone─an adventurer, at that─who's had a hand in some bargain or another.\nA friend of mine is a merchant, and he's been wanting for an unusual item, which he can pay for with gil. And so, I thought to myself, “Let's go and look for it together,” and so we went and found it together─the rarer of rare items, in fact.\nBut what is an adventurer? I mean, what do you actually do? Do you travel? Do you fight?
+Generated text 3:
+Title: A Bargain Struck
+Dialogue: ['\nEadbert:', "Ah, my lord Forename. You've the air of a man who's seen more than his fair share of fighting. Might I ask you a small favor?\nMy lord has asked me to supply you with some gysahl greens. I know how difficult it can be to procure the natural byproducts of the ginseng tree, but I simply cannot refuse an honest gysahl greensman.\nTake this flask, and give it to my lord. He'll thank you for it later, I promise.", '\nEadbert:', "I can hardly wait to show you what the greens can do for you.
+Generated text 4:
+Title: A Bargain Struck
+Dialogue: ['\nCibleroit:', "\nI was just about to head back to Camp Cloudtop to deliver some provisions, but word has already reached me that a band of brigands has taken up residence in the area.\nThey're probably up to something, but I can't be the one to stop them. That's where you come in. You see, I'm expecting a shipment of supplies from Camp Cloudtop, and I need someone to take care of the situation while I'm away.\nThat's where you come in. Meet me by the water just outside the village and we'll see what can be done. Oh, and be sure to bring a weapon
+Generated text 5:
+Title: A Bargain Struck
+Dialogue: ['\nAlisaie:', "I'm pleased to report that our client has satisfied his needs with this latest shipment.\nI'm pleased to report that our client has satisfied his needs with this latest shipment.\nI'm sure you've heard the rumors─these are grim times for the trade in general. It's hard to find anyone willing to take on work these days, and even harder to find anyone willing to accept work at any decent pay.\nThat's why I'm pleased to say that my client has struck a bargain. He's agreed to pay a fair amount for his wares, and for that I'm grateful.\nI've been asked to
+Generated text 6:
+Title: A Bargain Struck
+Dialogue: ['\nMogmont:', "N-No, I can't! I'm the one who─ Oh, dear... You're a friend of Mogmont's, aren't you?\n...Hm? You look like you could use a hand.\nA strange and wonderful creature appeared out of nowhere, grabbed Mogmont by his scruffy beard and flew away. I chased it down, but...\nWell, if I'm to get my handsome bounty back, I'd better do something to put this whole incident behind me.\nI'd go look for it, but I'm such a coward I'd run away when I saw it coming toward me
+Generated text 7:
+Title: A Bargain Struck
+Dialogue: ['\nOndopeople03571:', '\nAhem! Welcome to the Brass Blades, friend! As you may have guessed, we are merchants who specialize in the acquisition of rare and curious items.\nBut we also have a responsibility to keep the peace─to keep the roads safe, and to keep the peace between our peoples.\nThat is why I would ask you to help me by procuring some ingredients for our cooking.\nYou will find plenty of merchants selling wares to adventurers along the road, but only a handful of whom will give you anything of worth. If you should happen to find any worthwhile wares, would you mind parting with
+Generated text 8:
+Title: A Bargain Struck
+Dialogue: ['\nBertliana:', '\nA moment, if you would.\nI believe that some of the finest weapons in the realm were stolen from the Imperative during the Calamity.\nMy superior, Ser Leaudaste, is responsible for procuring them. He is stationed at the House of Splendors in Ul'dah, and I would ask that he return with them to us should we be able to purchase them.\nUnfortunately, he is currently engaged in negotiations with a band of brigands. I would ask you to infiltrate them and take them into our custody should we be able to obtain them.', '\nBertl
+Generated text 9:
+Title: A Bargain Struck
+Dialogue: ['\nKokoshu:', "\nMy, what a bargain you have struck! I've got a job for you, if you're interested in getting paid to do it.", '\nPop:', '\nYou sense a hostile presence!', '\nKokoshu:', "\nI was just about to say that you'd be joining a crew of pirates, but that's now your lucky day.\nI've got a job for you, if you're interested in getting paid to do it.", '\nKokoshu:', "\nI've got a job for you, if you're interested in getting paid to do it
+Generated text 10:
+Title: A Bargain Struck
+Dialogue: ['\nDrest:', "I know you! Yes, you! The adventurer who defeated the dread wyrm Nidhogg!\nI am Drest, one of the protectors of the Twelveswood. I have seen you before, in the flesh! Your strength is to be admired!\nAnd yet, I cannot offer you what you deserve─I cannot surrender.\nI beg of you, adventurer! Take this ring for yourself, and let the world know that you are not alone in your quest for the holy grail!\nIn the days before the great wyrm Nidhogg came to the Twelveswood, I journey
+Generated text 11:
+Title: A Bargain Struck
+Dialogue: ['\nNeko-Mimi:', '\n<sigh>...I suppose I should be glad to have escaped with my life.\nBut what of you, adventurer? Were you able to track down the man who took my necklace?\nMy necklace was found in the chest of a man who was traveling with a group of merchants. I was able to ascertain his name, but he refuses to talk.\nIt is a custom in these parts to offer a generous gift to the traveler who finds the most precious of objects.\nI know this is a long story, but I would hear his name if you can locate him.', '\n
+Generated text 12:
+Title: A Bargain Struck
+Dialogue: ['\nDrest:', "\nI have a task for you, adventurer. You see, I have been tasked with procuring a certain quantity of rare herbs from the Twelveswood, but I'm on the cusp of running out of them.\nI would, of course, ask you to procure more, but my coffers are already nearly full. I would ask you to procure even more, but my coffers are already nearly full.\nI would ask you to procure even more, but my coffers are already nearly full. Please, would you mind procuring more than five pots of these herbs? You will need them to complete my task.", '\nD
+Generated text 13:
+Title: A Bargain Struck
+Dialogue: ['\nMogmont:', "\nA bargain's a deal, kupo! Let's see... <sigh> Mogmont's really out of sorts. I mean, aren't you the cutest, juiciest─ Oh, don't mind me. I'm just thinking out loud.\nHe's got this guildmaster named Rufus. Rufus's really out of sorts. I mean, aren't you the cutest, juiciest─ Oh, don't mind me. I'm just thinking out loud.", '\nMogmont:', "\nRufus's really out of sorts. I mean, aren't you the
+Generated text 14:
+Title: A Bargain Struck
+Dialogue: ['\nMogmont:', "\nAye, I saw it─the massive hammerhead of the dread fiend Kohm Khur.\nIts massive hand grasped the air as it descended, crushing all before it with crushing strength...\nI mustered the courage to strike down the fiend, and─nBless you, adventurer! You have saved countless lives this day!\nI am proud to call you friend. May you prosper in the years to come.\nI must warn you, however, that Kohm Khur is not the only fiend to threaten this world. Other dread fiends, such as those that dwell within the ruins of
+Generated text 15:
+Title: A Bargain Struck
+Dialogue: ['\nMaucolyn:', "\nWell, you're a sight for sore eyes. You know the way to the Bargain Struck, I trust?\nYou'll find the stables to the north of the village, and they are well-appointed with hay and fodder. Go there and fill three boxes with the bounty─the better to lure wild boars and other wild beasts to the gates.\nAnd if you're feeling particularly daring, you could always try kidnapping a sow for the express purpose of selling its meat.\nI say “for the express purpose of selling its meat,” but it's a fair bet that the price you would
+
+
+
+
